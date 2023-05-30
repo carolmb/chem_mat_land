@@ -1,0 +1,797 @@
+#vertices 92 nonweighted
+"Laser-Induced Deposition of Copper from (Triethylphosphine)cyclopentadienyl-copper(I)"
+"Formation of Boron Nitride Coatings on Metal Oxides"
+"Dibromoborane-Dimethyl Sulfide: A Simple Molecular Precursor for the Formation of Bulk Powders and Fiber Coatings of Boron Nitride"
+"Organometallic Azides as Precursors for Aluminum Nitride Thin Films"
+"Chemical Vapor Deposition of Gallium Nitride from Diethylgallium Azide"
+"Chemical Vapor Deposition of Copper and Copper Oxide Thin Films from Copper(I) tert-Butoxide"
+"Preparation of Boron-Containing Ceramic Materials by Pyrolysis of the Decaborane(14) -Derived [-B10H12 center dot Ph2POPPh2](x)- Polymer"
+"Trimethylamine Complexes of Alane as Precursors for the Low-Pressure Chemical Vapor Deposition of Aluminum"
+"Decomposition of Trimethylaluminum on Si(100)"
+"Selective Syntheses of FeTe and FeTe2 from Organometallic Precursors. Synthesis and Pyrolysis of [Cp(Et3P)(CO)Fe](2)(Te)(n)"
+"Use of Tris(trimethylsilyl)arsine To Prepare Gallium Arsenide and Indium Arsenide"
+"Preparation of a Polymeric Precursor to Silicon Carbide via Ring-Opening Polymerization: Synthesis of Poly[(methylchlorosilylene)methylene] and Poly(silapropylene)"
+"Dimethyldiethoxysilane/Tetraethoxysilane Copolymers: Precursors for the Si-C-O System"
+"MOLTEN ALKALI-METAL POLYCHALCOGENIDES AS REAGENTS AND SOLVENTS FOR THE SYNTHESIS OF NEW CHALCOGENIDE MATERIALS"
+"PREPARATION AND PYROLYSIS OF A POLYMERIC PRECURSOR FOR THE FORMATION OF TIN-TIC SOLID-SOLUTIONS"
+"LOW-TEMPERATURE CHEMICAL VAPOR-DEPOSITION OF HIGH-PURITY COPPER FROM AN ORGANOMETALLIC SOURCE"
+"CHEMICAL VAPOR-DEPOSITION OF COPPER FROM COPPER(I) TRIMETHYLPHOSPHINE COMPOUNDS"
+"SYNTHESIS OF THIN-FILMS BY ATMOSPHERIC-PRESSURE CHEMICAL VAPOR-DEPOSITION USING AMIDO AND IMIDO TITANIUM(IV) COMPOUNDS AS PRECURSORS"
+"INFLUENCE OF DIFFERENT ORGANIC SIDE GROUPS ON THE THERMAL-BEHAVIOR OF POLYPHOSPHAZENES - RANDOM CHAIN CLEAVAGE, DEPOLYMERIZATION, AND PYROLYTIC CROSS-LINKING"
+"THERMALLY INDUCED BORAZINE DEHYDROPOLYMERIZATION REACTIONS - SYNTHESIS AND CERAMIC CONVERSION REACTIONS OF A NEW HIGH-YIELD POLYMERIC PRECURSOR TO BORON-NITRIDE"
+"KINETIC-MODEL FOR METAL ORGANIC-CHEMICAL VAPOR-DEPOSITION OF GAAS WITH ORGANOMETALLIC ARSENIC PRECURSORS"
+"GROWTH AND CHARACTERIZATION OF GALLIUM-ARSENIDE USING SINGLE-SOURCE PRECURSORS - OMCVD AND BULK PYROLYSIS STUDIES"
+"SYNTHESIS OF BORON-NITRIDE CERAMICS FROM OLIGOMERIC PRECURSORS DERIVED FROM 2-(DIMETHYLAMINO)-4,6-DICHLOROBORAZINE"
+"N,N'-BIS(TRIETHYLALUMINIO)ETHYLENEDIAMINE-DERIVED AND N,N'-BIS(TRIMETHYLALUMINIO)ETHYLENEDIAMINE-DERIVED ORGANOMETALLIC PRECURSORS TO ALUMINUM NITRIDE - SYNTHESES, STRUCTURES, AND PYROLYSES"
+"APPLICATION OF SPECIFIC DEUTERIUM LABELING AND NUCLEAR-MAGNETIC-RESONANCE SPECTROSCOPY TO THE STUDY OF THE MECHANISM OF PYROLYSIS OF TERT-BUTYLARSINE AND TERT-BUTYLARSINE-D2"
+"MOLTEN-SALT SYNTHESIS OF LOW-DIMENSIONAL TERNARY CHALCOGENIDES - NOVEL STRUCTURE TYPES IN THE K/HG/S, K/HG/SE SYSTEM"
+"PREPARATION OF INDIUM-ANTIMONIDE USING A SINGLE-SOURCE PRECURSOR"
+"METALLABORANES AS MOLECULAR PRECURSORS TO THIN METAL BORIDE FILMS - CONVERSION OF HFE3(CO)9BH4 TO AMORPHOUS FE75B25"
+"SYNTHESIS AND HIGH-TEMPERATURE CHEMISTRY OF METHYLSILSESQUIOXANE POLYMERS PRODUCED BY TITANIUM-CATALYZED REDISTRIBUTION OF METHYLHYDRIDOOLIGOSILOXANES AND METHYLPOLYSILOXANES"
+"MODELS AND POLYBORAZINE PRECURSORS FOR BORON-NITRIDE CERAMICS"
+"CYCLOTRIGALLAZANE, [H2GANH2]3 - ITS PREPARATION, STRUCTURE, AND CONVERSION TO CUBIC GALLIUM NITRIDE AT 150-DEGREES-C"
+"SILICON DIMETHYLAMIDO COMPLEXES AND AMMONIA AS PRECURSORS FOR THE ATMOSPHERIC-PRESSURE CHEMICAL VAPOR-DEPOSITION OF SILICON-NITRIDE THIN-FILMS"
+"PREPARATION OF AN IRON NITRIDE FILM FROM A MOLECULAR TETRAIRON NITRIDO CLUSTER"
+"POLY(CARBOSILANE) PRECURSORS OF SILICON-CARBIDE - THE EFFECT OF CROSS-LINKING ON CERAMIC RESIDUE"
+"FOURIER-TRANSFORM INFRARED SPECTROSCOPIC STUDY OF PREDEPOSITION REACTIONS IN METALLOORGANIC CHEMICAL VAPOR-DEPOSITION OF GALLIUM NITRIDE .2."
+"CHEMICAL VAPOR-DEPOSITION OF PLATINUM - NEW PRECURSORS AND THEIR PROPERTIES"
+"PROCESSIBLE PRECURSOR FOR BORON-NITRIDE COATINGS AND MATRICES"
+"TOPOLOGICAL AND GEOMETRICAL CHARACTERIZATION OF SITES IN SILICON-CARBIDE POLYTYPES"
+"POLYMER-PRECURSOR ROUTES TO METAL BORIDES - SYNTHESES OF TIB2 AND ZRB2"
+"FOURIER-TRANSFORM INFRARED SPECTROSCOPIC STUDY OF PREDEPOSITION REACTIONS IN METALLOORGANIC CHEMICAL VAPOR-DEPOSITION OF GALLIUM NITRIDE"
+"MECHANISM OF NUCLEATION AND ATOMIC LAYER GROWTH OF ALN ON SI"
+"CONDENSATION POLYMERIZATION OF TETRAKIS(ETHYLAMINO)SILANE AND ITS THERMAL-DECOMPOSITION TO SI3N4/SIC CERAMICS"
+"CHEMICAL VAPOR-DEPOSITION OF COPPER FROM (HEXAFLUOROACETYLACETONATO)(ALKYNE)-COPPER(I) COMPLEXES VIA DISPROPORTIONATION"
+"PYROLYSIS CHEMISTRY OF AN ORGANOMETALLIC PRECURSOR TO SILICON-CARBIDE"
+"PREPARATION OF TIN AND TIC FROM A POLYMERIC PRECURSOR"
+"NEW POLY(CARBOSILANE) MODELS .4. DERIVATIZATION OF LINEAR POLY[(METHYCHLOROSILYLENE)METHYLENE] - APPLICATION TO THE SYNTHESIS OF FUNCTIONAL POLY(CARBOSILANES) POSSESSING A POLY[(METHYLSILYLENE)METHYLENE] BACKBONE"
+"KINETICS OF SUBLIMATION OF COPPER(II) ACETYLACETONATE COMPLEX USED FOR CHEMICAL VAPOR-DEPOSITION OF COPPER-FILMS"
+"VAPORIZATION PROCESSES OF ALUMINUM BETA-DIKETONE CHELATES"
+"MECHANISTIC STUDIES OF THE CONVERSION OF BORAZINE POLYMERS TO BORON-NITRIDE"
+"AMORPHOUS ALLOY THIN-FILMS FROM MOLECULAR PRECURSORS - EVIDENCE OF STRUCTURE AND STOICHIOMETRY FROM CRYSTALLIZATION AND EFFECTS OF PRECURSOR LIGAND STRUCTURE ON STOICHIOMETRY"
+"ELECTROCHEMICAL SYNTHESIS OF METAL NITRIDE CERAMIC PRECURSORS IN LIQUID-AMMONIA ELECTROLYTE-SOLUTIONS"
+"KINETIC-STUDIES OF THE CHEMICAL VAPOR-DEPOSITION OF PLATINUM"
+"LIGAND-EXCHANGE IN ADDUCTS OF ETHYLALUMINUM HYDRIDES"
+"ORGANOMETALLIC PRECURSORS IN THE GROWTH OF EPITAXIAL THIN-FILMS OF GROUPS III-V SEMICONDUCTORS BY METAL ORGANIC-CHEMICAL VAPOR-DEPOSITION"
+"NEW POLY(CARBOSILANE) MODELS .5. PYROLYSIS OF A SERIES OF FUNCTIONAL POLY(CARBOSILANES)"
+"LOW-PRESSURE CHEMICAL VAPOR-DEPOSITION OF TUNGSTEN CARBIDE THIN-FILMS"
+"REACTIONS OF TRIS[BIS(TRIMETHYLSILYL)AMINO]ALUMINUM WITH AMMONIA AND PYROLYSIS STUDIES"
+"THERMAL REACTIVITY OF HYDROGENOSILSESQUIOXANE GELS"
+"TRANSITION-METAL BORIDES WITH THE TA3B4 CRYSTAL-STRUCTURE - THEIR ELECTRONIC AND BONDING PROPERTIES"
+"M2(OR)6 COMPOUNDS (M = AL, MO, W R = T-BU, CY-HEX) AS SINGLE-SOURCE PRECURSORS - STUDIES OF THERMOLYSIS UNDER HE FLOW"
+"CHEMICAL VAPOR-DEPOSITION OF TITANIUM, ZIRCONIUM, AND HAFNIUM NITRIDE THIN-FILMS"
+"CHEMISORPTION OF TRIMETHYLALUMINUM AND AMMONIA ON SILICA - MECHANISMS FOR THE FORMATION OF AL-N BONDS AND THE ELIMINATION OF METHYL-GROUPS BONDED TO ALUMINUM"
+"SYNTHESIS AND CHARACTERIZATION OF K4CU8TE11 - A NOVEL SOLID-STATE CHALCOGENIDE COMPOUND WITH A DODECAHEDRAL CLUSTER AS A BUILDING BLOCK"
+"PREPARATION OF A NOVEL GALLIUM-ARSENIDE SINGLE-SOURCE PRECURSOR HAVING THE EMPIRICAL-FORMULA ASCL3GA2"
+"HIGH-FIELD B-11 MAGIC-ANGLE SPINNING NMR CHARACTERIZATION OF BORON NITRIDES"
+"PREPARATION OF TITANIUM DIBORIDE FROM TITANIUM ALKOXIDES AND BORON POWDER"
+"LOW-TEMPERATURE ATMOSPHERIC-PRESSURE CHEMICAL VAPOR-DEPOSITION OF POLYCRYSTALLINE TIN NITRIDE THIN-FILMS"
+"RAPID SYNTHESIS OF GAP AND GAAS FROM SOLID-STATE PRECURSORS"
+"NMR CHEMICAL-SHIFT TENSORS AND PEAK ASSIGNMENTS FOR THE 6H-POLYTYPE OF SILICON-CARBIDE"
+"[CF3AU(CNME)] AS A PRECURSOR FOR CVD OF GOLD"
+"HOT-WALL CHEMICAL VAPOR-DEPOSITION OF COPPER FROM COPPER(I) COMPOUNDS .2. SELECTIVE, LOW-TEMPERATURE DEPOSITION OF COPPER FROM COPPER(I) BETA-DIKETONATE COMPOUNDS, (BETA-DIKETONATE)CULN, VIA THERMALLY INDUCED DISPROPORTIONATION REACTIONS"
+"PYROLYSIS CHEMISTRY OF POLY(ORGANOSILAZANES) TO SILICON CERAMICS"
+"THERMOGRAVIMETRIC MASS-SPECTROMETRIC INVESTIGATION OF THE THERMAL-CONVERSION OF ORGANOSILICON PRECURSORS INTO CERAMICS UNDER ARGON AND AMMONIA .1. POLY(CARBOSILANE)"
+"SYNTHESIS AND STRUCTURE OF BORAZINYL-SUBSTITUTED SMALL-MOLECULE AND HIGH POLYMERIC PHOSPHAZENES - CERAMIC PRECURSORS"
+"BORON-NITRIDE FIBERS PROCESSED FROM POLY(BORAZINYLAMINE) SOLUTIONS"
+"CHEMICAL VAPOR-DEPOSITION PRECURSOR CHEMISTRY .3. FORMATION AND CHARACTERIZATION OF CRYSTALLINE NICKEL BORIDE THIN-FILMS FROM THE CLUSTER-ASSISTED DEPOSITION OF POLYHEDRAL BORANE COMPOUNDS"
+"POLYMER PRECURSOR ROUTE TO TIB2/TIN NANOCOMPOSITES"
+"HIGH-TEMPERATURE CHEMISTRY OF THE CONVERSION OF SILOXANES TO SILICON-CARBIDE"
+"AMMONIA-INDUCED PYROLYTIC CONVERSION OF A VINYLIC POLYSILANE TO SILICON-NITRIDE"
+"STRUCTURE AND CHEMISTRY OF SILICON-NITRIDE AND SILICON CARBONITRIDE THIN-FILMS DEPOSITED FROM ETHYLSILAZANE IN AMMONIA OR HYDROGEN"
+"COPPER(I) PRECURSORS FOR CHEMICAL VAPOR-DEPOSITION OF COPPER METAL"
+"SILICON CARBONITRIDE FROM POLYMERIC PRECURSORS - THERMAL CROSS-LINKING AND PYROLYSIS OF OLIGOSILAZANE MODEL COMPOUNDS"
+"MOLECULAR DESIGN OF SINGLE-SOURCE PRECURSORS FOR 3-6 SEMICONDUCTOR-FILMS - CONTROL OF PHASE AND STOICHIOMETRY IN INXSEY FILMS DEPOSITED BY A SPRAY MOCVD PROCESS USING SINGLE-SOURCE REAGENTS"
+"THERMOGRAVIMETRIC ANALYSIS MASS-SPECTROMETRY INVESTIGATION OF THE THERMAL-CONVERSION OF ORGANOSILICON PRECURSORS INTO CERAMICS UNDER ARGON AND AMMONIA .2. POLY(SILAZANES)"
+"A NOVEL COPPER COMPLEX AND CVD PRECURSOR - (ETA-2-2-BUTYNE)COPPER(I) HEXAFLUOROACETYLACETONATE"
+"CHEMICAL VAPOR-DEPOSITION PRECURSOR CHEMISTRY .2. FORMATION OF PURE ALUMINUM, ALUMINA, AND ALUMINUM BORIDE THIN-FILMS FROM BORON-CONTAINING PRECURSOR COMPOUNDS BY CHEMICAL VAPOR-DEPOSITION"
+"ORGANOMETALLIC CHEMICAL VAPOR-DEPOSITION OF PLATINUM - REACTION-KINETICS AND VAPOR-PRESSURES OF PRECURSORS"
+"BINARY THIN-FILMS FROM MOLECULAR PRECURSORS - ROLE OF PRECURSOR STRUCTURE IN THE FORMATION OF AMORPHOUS AND CRYSTALLINE FEB"
+"PYROLYSIS STUDIES OF THE SINGLE-SOURCE GAAS PRECURSORS [ME2GA(MU-AS-I-PR2)]3, [ME2GA(MU-ASME2)]3, [ME2GA(MU-AS-T-BU2)]2, AND [ET2GA(MU-AS-T-BU2)]2"
+"GROWTH OF EPITAXIAL (100) GAAS FILMS USING THE SINGLE-SOURCE PRECURSOR [ME2GA(MU-TERT-BU2AS)]2"
+"SYNTHESIS, CHARACTERIZATION, AND CHEMICAL VAPOR-DEPOSITION PROPERTIES OF PRIMARY AND SECONDARY NEOPENTYLSTIBINE - NEW ANTIMONY PRECURSORS FOR MOCVD"
+"METAL ORGANIC-CHEMICAL VAPOR-DEPOSITION OF COPPER AND COPPER(I) OXIDE FROM COPPER(I) TERT-BUTOXIDE"
+#edges nonweighted directed
+4 3
+13 25
+15 0
+16 0
+16 5
+16 7
+19 2
+22 1
+22 2
+22 29
+23 3
+24 20
+26 7
+27 3
+27 5
+27 9
+27 32
+28 11
+28 12
+29 1
+32 3
+32 5
+32 9
+33 11
+34 4
+34 39
+35 7
+35 15
+35 51
+36 1
+36 2
+38 6
+39 4
+40 8
+41 31
+43 11
+44 14
+45 11
+46 0
+46 5
+47 46
+48 1
+48 2
+48 19
+48 29
+49 27
+49 32
+50 14
+52 7
+53 3
+53 8
+53 10
+53 20
+55 3
+55 17
+56 3
+59 26
+60 3
+60 17
+60 31
+61 3
+62 13
+62 25
+63 10
+64 43
+65 38
+65 44
+66 31
+67 10
+67 63
+68 37
+68 43
+69 35
+69 51
+70 5
+70 7
+70 15
+70 16
+70 42
+71 23
+71 43
+71 48
+71 56
+72 41
+72 54
+72 81
+73 18
+73 36
+73 48
+74 19
+74 36
+75 27
+75 58
+76 19
+76 38
+77 12
+77 28
+77 57
+78 43
+78 45
+78 71
+78 72
+78 81
+79 31
+80 0
+80 5
+80 15
+80 16
+80 35
+82 3
+82 13
+82 21
+82 23
+82 26
+82 30
+83 11
+83 41
+83 43
+83 45
+83 54
+83 57
+83 72
+83 81
+84 5
+84 15
+84 16
+85 5
+85 7
+85 8
+85 27
+85 53
+86 35
+86 51
+87 27
+87 49
+88 24
+88 89
+89 21
+90 53
+91 0
+91 5
+91 15
+91 16
+91 46
+91 80
+#v "Cluster Index" n
+1
+2
+2
+0
+0
+1
+2
+1
+1
+1
+1
+0
+0
+0
+2
+1
+1
+0
+2
+2
+0
+0
+2
+0
+0
+0
+1
+1
+0
+2
+0
+0
+1
+0
+0
+1
+2
+0
+2
+0
+1
+0
+1
+0
+2
+0
+1
+1
+2
+1
+2
+1
+1
+1
+0
+0
+0
+0
+1
+1
+0
+0
+0
+1
+0
+2
+0
+1
+0
+1
+1
+0
+0
+2
+2
+1
+2
+0
+0
+0
+1
+0
+0
+0
+1
+1
+1
+1
+0
+0
+1
+1
+#v "Cluster Name" s
+"B - chemical vapor-deposition copper, complex, compound, deposition copper, vapor-deposition copper copper, amorphous, boride, chemical vapor-deposit..."
+"C - ceramic, coating, precursor boron-nitride, preparation, boron, polymer, polymeric precursor, synthesis, formation, powder"
+"C - ceramic, coating, precursor boron-nitride, preparation, boron, polymer, polymeric precursor, synthesis, formation, powder"
+"A - ammonia, pyrolysis, silicon, silicon-carbide, gallium nitride, poly carbosilane, chemistry, using, atmospheric-pressure chemical vapor-deposition..."
+"A - ammonia, pyrolysis, silicon, silicon-carbide, gallium nitride, poly carbosilane, chemistry, using, atmospheric-pressure chemical vapor-deposition..."
+"B - chemical vapor-deposition copper, complex, compound, deposition copper, vapor-deposition copper copper, amorphous, boride, chemical vapor-deposit..."
+"C - ceramic, coating, precursor boron-nitride, preparation, boron, polymer, polymeric precursor, synthesis, formation, powder"
+"B - chemical vapor-deposition copper, complex, compound, deposition copper, vapor-deposition copper copper, amorphous, boride, chemical vapor-deposit..."
+"B - chemical vapor-deposition copper, complex, compound, deposition copper, vapor-deposition copper copper, amorphous, boride, chemical vapor-deposit..."
+"B - chemical vapor-deposition copper, complex, compound, deposition copper, vapor-deposition copper copper, amorphous, boride, chemical vapor-deposit..."
+"B - chemical vapor-deposition copper, complex, compound, deposition copper, vapor-deposition copper copper, amorphous, boride, chemical vapor-deposit..."
+"A - ammonia, pyrolysis, silicon, silicon-carbide, gallium nitride, poly carbosilane, chemistry, using, atmospheric-pressure chemical vapor-deposition..."
+"A - ammonia, pyrolysis, silicon, silicon-carbide, gallium nitride, poly carbosilane, chemistry, using, atmospheric-pressure chemical vapor-deposition..."
+"A - ammonia, pyrolysis, silicon, silicon-carbide, gallium nitride, poly carbosilane, chemistry, using, atmospheric-pressure chemical vapor-deposition..."
+"C - ceramic, coating, precursor boron-nitride, preparation, boron, polymer, polymeric precursor, synthesis, formation, powder"
+"B - chemical vapor-deposition copper, complex, compound, deposition copper, vapor-deposition copper copper, amorphous, boride, chemical vapor-deposit..."
+"B - chemical vapor-deposition copper, complex, compound, deposition copper, vapor-deposition copper copper, amorphous, boride, chemical vapor-deposit..."
+"A - ammonia, pyrolysis, silicon, silicon-carbide, gallium nitride, poly carbosilane, chemistry, using, atmospheric-pressure chemical vapor-deposition..."
+"C - ceramic, coating, precursor boron-nitride, preparation, boron, polymer, polymeric precursor, synthesis, formation, powder"
+"C - ceramic, coating, precursor boron-nitride, preparation, boron, polymer, polymeric precursor, synthesis, formation, powder"
+"A - ammonia, pyrolysis, silicon, silicon-carbide, gallium nitride, poly carbosilane, chemistry, using, atmospheric-pressure chemical vapor-deposition..."
+"A - ammonia, pyrolysis, silicon, silicon-carbide, gallium nitride, poly carbosilane, chemistry, using, atmospheric-pressure chemical vapor-deposition..."
+"C - ceramic, coating, precursor boron-nitride, preparation, boron, polymer, polymeric precursor, synthesis, formation, powder"
+"A - ammonia, pyrolysis, silicon, silicon-carbide, gallium nitride, poly carbosilane, chemistry, using, atmospheric-pressure chemical vapor-deposition..."
+"A - ammonia, pyrolysis, silicon, silicon-carbide, gallium nitride, poly carbosilane, chemistry, using, atmospheric-pressure chemical vapor-deposition..."
+"A - ammonia, pyrolysis, silicon, silicon-carbide, gallium nitride, poly carbosilane, chemistry, using, atmospheric-pressure chemical vapor-deposition..."
+"B - chemical vapor-deposition copper, complex, compound, deposition copper, vapor-deposition copper copper, amorphous, boride, chemical vapor-deposit..."
+"B - chemical vapor-deposition copper, complex, compound, deposition copper, vapor-deposition copper copper, amorphous, boride, chemical vapor-deposit..."
+"A - ammonia, pyrolysis, silicon, silicon-carbide, gallium nitride, poly carbosilane, chemistry, using, atmospheric-pressure chemical vapor-deposition..."
+"C - ceramic, coating, precursor boron-nitride, preparation, boron, polymer, polymeric precursor, synthesis, formation, powder"
+"A - ammonia, pyrolysis, silicon, silicon-carbide, gallium nitride, poly carbosilane, chemistry, using, atmospheric-pressure chemical vapor-deposition..."
+"A - ammonia, pyrolysis, silicon, silicon-carbide, gallium nitride, poly carbosilane, chemistry, using, atmospheric-pressure chemical vapor-deposition..."
+"B - chemical vapor-deposition copper, complex, compound, deposition copper, vapor-deposition copper copper, amorphous, boride, chemical vapor-deposit..."
+"A - ammonia, pyrolysis, silicon, silicon-carbide, gallium nitride, poly carbosilane, chemistry, using, atmospheric-pressure chemical vapor-deposition..."
+"A - ammonia, pyrolysis, silicon, silicon-carbide, gallium nitride, poly carbosilane, chemistry, using, atmospheric-pressure chemical vapor-deposition..."
+"B - chemical vapor-deposition copper, complex, compound, deposition copper, vapor-deposition copper copper, amorphous, boride, chemical vapor-deposit..."
+"C - ceramic, coating, precursor boron-nitride, preparation, boron, polymer, polymeric precursor, synthesis, formation, powder"
+"A - ammonia, pyrolysis, silicon, silicon-carbide, gallium nitride, poly carbosilane, chemistry, using, atmospheric-pressure chemical vapor-deposition..."
+"C - ceramic, coating, precursor boron-nitride, preparation, boron, polymer, polymeric precursor, synthesis, formation, powder"
+"A - ammonia, pyrolysis, silicon, silicon-carbide, gallium nitride, poly carbosilane, chemistry, using, atmospheric-pressure chemical vapor-deposition..."
+"B - chemical vapor-deposition copper, complex, compound, deposition copper, vapor-deposition copper copper, amorphous, boride, chemical vapor-deposit..."
+"A - ammonia, pyrolysis, silicon, silicon-carbide, gallium nitride, poly carbosilane, chemistry, using, atmospheric-pressure chemical vapor-deposition..."
+"B - chemical vapor-deposition copper, complex, compound, deposition copper, vapor-deposition copper copper, amorphous, boride, chemical vapor-deposit..."
+"A - ammonia, pyrolysis, silicon, silicon-carbide, gallium nitride, poly carbosilane, chemistry, using, atmospheric-pressure chemical vapor-deposition..."
+"C - ceramic, coating, precursor boron-nitride, preparation, boron, polymer, polymeric precursor, synthesis, formation, powder"
+"A - ammonia, pyrolysis, silicon, silicon-carbide, gallium nitride, poly carbosilane, chemistry, using, atmospheric-pressure chemical vapor-deposition..."
+"B - chemical vapor-deposition copper, complex, compound, deposition copper, vapor-deposition copper copper, amorphous, boride, chemical vapor-deposit..."
+"B - chemical vapor-deposition copper, complex, compound, deposition copper, vapor-deposition copper copper, amorphous, boride, chemical vapor-deposit..."
+"C - ceramic, coating, precursor boron-nitride, preparation, boron, polymer, polymeric precursor, synthesis, formation, powder"
+"B - chemical vapor-deposition copper, complex, compound, deposition copper, vapor-deposition copper copper, amorphous, boride, chemical vapor-deposit..."
+"C - ceramic, coating, precursor boron-nitride, preparation, boron, polymer, polymeric precursor, synthesis, formation, powder"
+"B - chemical vapor-deposition copper, complex, compound, deposition copper, vapor-deposition copper copper, amorphous, boride, chemical vapor-deposit..."
+"B - chemical vapor-deposition copper, complex, compound, deposition copper, vapor-deposition copper copper, amorphous, boride, chemical vapor-deposit..."
+"B - chemical vapor-deposition copper, complex, compound, deposition copper, vapor-deposition copper copper, amorphous, boride, chemical vapor-deposit..."
+"A - ammonia, pyrolysis, silicon, silicon-carbide, gallium nitride, poly carbosilane, chemistry, using, atmospheric-pressure chemical vapor-deposition..."
+"A - ammonia, pyrolysis, silicon, silicon-carbide, gallium nitride, poly carbosilane, chemistry, using, atmospheric-pressure chemical vapor-deposition..."
+"A - ammonia, pyrolysis, silicon, silicon-carbide, gallium nitride, poly carbosilane, chemistry, using, atmospheric-pressure chemical vapor-deposition..."
+"A - ammonia, pyrolysis, silicon, silicon-carbide, gallium nitride, poly carbosilane, chemistry, using, atmospheric-pressure chemical vapor-deposition..."
+"B - chemical vapor-deposition copper, complex, compound, deposition copper, vapor-deposition copper copper, amorphous, boride, chemical vapor-deposit..."
+"B - chemical vapor-deposition copper, complex, compound, deposition copper, vapor-deposition copper copper, amorphous, boride, chemical vapor-deposit..."
+"A - ammonia, pyrolysis, silicon, silicon-carbide, gallium nitride, poly carbosilane, chemistry, using, atmospheric-pressure chemical vapor-deposition..."
+"A - ammonia, pyrolysis, silicon, silicon-carbide, gallium nitride, poly carbosilane, chemistry, using, atmospheric-pressure chemical vapor-deposition..."
+"A - ammonia, pyrolysis, silicon, silicon-carbide, gallium nitride, poly carbosilane, chemistry, using, atmospheric-pressure chemical vapor-deposition..."
+"B - chemical vapor-deposition copper, complex, compound, deposition copper, vapor-deposition copper copper, amorphous, boride, chemical vapor-deposit..."
+"A - ammonia, pyrolysis, silicon, silicon-carbide, gallium nitride, poly carbosilane, chemistry, using, atmospheric-pressure chemical vapor-deposition..."
+"C - ceramic, coating, precursor boron-nitride, preparation, boron, polymer, polymeric precursor, synthesis, formation, powder"
+"A - ammonia, pyrolysis, silicon, silicon-carbide, gallium nitride, poly carbosilane, chemistry, using, atmospheric-pressure chemical vapor-deposition..."
+"B - chemical vapor-deposition copper, complex, compound, deposition copper, vapor-deposition copper copper, amorphous, boride, chemical vapor-deposit..."
+"A - ammonia, pyrolysis, silicon, silicon-carbide, gallium nitride, poly carbosilane, chemistry, using, atmospheric-pressure chemical vapor-deposition..."
+"B - chemical vapor-deposition copper, complex, compound, deposition copper, vapor-deposition copper copper, amorphous, boride, chemical vapor-deposit..."
+"B - chemical vapor-deposition copper, complex, compound, deposition copper, vapor-deposition copper copper, amorphous, boride, chemical vapor-deposit..."
+"A - ammonia, pyrolysis, silicon, silicon-carbide, gallium nitride, poly carbosilane, chemistry, using, atmospheric-pressure chemical vapor-deposition..."
+"A - ammonia, pyrolysis, silicon, silicon-carbide, gallium nitride, poly carbosilane, chemistry, using, atmospheric-pressure chemical vapor-deposition..."
+"C - ceramic, coating, precursor boron-nitride, preparation, boron, polymer, polymeric precursor, synthesis, formation, powder"
+"C - ceramic, coating, precursor boron-nitride, preparation, boron, polymer, polymeric precursor, synthesis, formation, powder"
+"B - chemical vapor-deposition copper, complex, compound, deposition copper, vapor-deposition copper copper, amorphous, boride, chemical vapor-deposit..."
+"C - ceramic, coating, precursor boron-nitride, preparation, boron, polymer, polymeric precursor, synthesis, formation, powder"
+"A - ammonia, pyrolysis, silicon, silicon-carbide, gallium nitride, poly carbosilane, chemistry, using, atmospheric-pressure chemical vapor-deposition..."
+"A - ammonia, pyrolysis, silicon, silicon-carbide, gallium nitride, poly carbosilane, chemistry, using, atmospheric-pressure chemical vapor-deposition..."
+"A - ammonia, pyrolysis, silicon, silicon-carbide, gallium nitride, poly carbosilane, chemistry, using, atmospheric-pressure chemical vapor-deposition..."
+"B - chemical vapor-deposition copper, complex, compound, deposition copper, vapor-deposition copper copper, amorphous, boride, chemical vapor-deposit..."
+"A - ammonia, pyrolysis, silicon, silicon-carbide, gallium nitride, poly carbosilane, chemistry, using, atmospheric-pressure chemical vapor-deposition..."
+"A - ammonia, pyrolysis, silicon, silicon-carbide, gallium nitride, poly carbosilane, chemistry, using, atmospheric-pressure chemical vapor-deposition..."
+"A - ammonia, pyrolysis, silicon, silicon-carbide, gallium nitride, poly carbosilane, chemistry, using, atmospheric-pressure chemical vapor-deposition..."
+"B - chemical vapor-deposition copper, complex, compound, deposition copper, vapor-deposition copper copper, amorphous, boride, chemical vapor-deposit..."
+"B - chemical vapor-deposition copper, complex, compound, deposition copper, vapor-deposition copper copper, amorphous, boride, chemical vapor-deposit..."
+"B - chemical vapor-deposition copper, complex, compound, deposition copper, vapor-deposition copper copper, amorphous, boride, chemical vapor-deposit..."
+"B - chemical vapor-deposition copper, complex, compound, deposition copper, vapor-deposition copper copper, amorphous, boride, chemical vapor-deposit..."
+"A - ammonia, pyrolysis, silicon, silicon-carbide, gallium nitride, poly carbosilane, chemistry, using, atmospheric-pressure chemical vapor-deposition..."
+"A - ammonia, pyrolysis, silicon, silicon-carbide, gallium nitride, poly carbosilane, chemistry, using, atmospheric-pressure chemical vapor-deposition..."
+"B - chemical vapor-deposition copper, complex, compound, deposition copper, vapor-deposition copper copper, amorphous, boride, chemical vapor-deposit..."
+"B - chemical vapor-deposition copper, complex, compound, deposition copper, vapor-deposition copper copper, amorphous, boride, chemical vapor-deposit..."
+#v "journal" s
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+#v "title" s
+"Laser-Induced Deposition of Copper from (Triethylphosphine)cyclopentadienyl-copper(I)"
+"Formation of Boron Nitride Coatings on Metal Oxides"
+"Dibromoborane-Dimethyl Sulfide: A Simple Molecular Precursor for the Formation of Bulk Powders and Fiber Coatings of Boron Nitride"
+"Organometallic Azides as Precursors for Aluminum Nitride Thin Films"
+"Chemical Vapor Deposition of Gallium Nitride from Diethylgallium Azide"
+"Chemical Vapor Deposition of Copper and Copper Oxide Thin Films from Copper(I) tert-Butoxide"
+"Preparation of Boron-Containing Ceramic Materials by Pyrolysis of the Decaborane(14) -Derived [-B10H12 center dot Ph2POPPh2](x)- Polymer"
+"Trimethylamine Complexes of Alane as Precursors for the Low-Pressure Chemical Vapor Deposition of Aluminum"
+"Decomposition of Trimethylaluminum on Si(100)"
+"Selective Syntheses of FeTe and FeTe2 from Organometallic Precursors. Synthesis and Pyrolysis of [Cp(Et3P)(CO)Fe](2)(Te)(n)"
+"Use of Tris(trimethylsilyl)arsine To Prepare Gallium Arsenide and Indium Arsenide"
+"Preparation of a Polymeric Precursor to Silicon Carbide via Ring-Opening Polymerization: Synthesis of Poly[(methylchlorosilylene)methylene] and Poly(silapropylene)"
+"Dimethyldiethoxysilane/Tetraethoxysilane Copolymers: Precursors for the Si-C-O System"
+"MOLTEN ALKALI-METAL POLYCHALCOGENIDES AS REAGENTS AND SOLVENTS FOR THE SYNTHESIS OF NEW CHALCOGENIDE MATERIALS"
+"PREPARATION AND PYROLYSIS OF A POLYMERIC PRECURSOR FOR THE FORMATION OF TIN-TIC SOLID-SOLUTIONS"
+"LOW-TEMPERATURE CHEMICAL VAPOR-DEPOSITION OF HIGH-PURITY COPPER FROM AN ORGANOMETALLIC SOURCE"
+"CHEMICAL VAPOR-DEPOSITION OF COPPER FROM COPPER(I) TRIMETHYLPHOSPHINE COMPOUNDS"
+"SYNTHESIS OF THIN-FILMS BY ATMOSPHERIC-PRESSURE CHEMICAL VAPOR-DEPOSITION USING AMIDO AND IMIDO TITANIUM(IV) COMPOUNDS AS PRECURSORS"
+"INFLUENCE OF DIFFERENT ORGANIC SIDE GROUPS ON THE THERMAL-BEHAVIOR OF POLYPHOSPHAZENES - RANDOM CHAIN CLEAVAGE, DEPOLYMERIZATION, AND PYROLYTIC CROSS-LINKING"
+"THERMALLY INDUCED BORAZINE DEHYDROPOLYMERIZATION REACTIONS - SYNTHESIS AND CERAMIC CONVERSION REACTIONS OF A NEW HIGH-YIELD POLYMERIC PRECURSOR TO BORON-NITRIDE"
+"KINETIC-MODEL FOR METAL ORGANIC-CHEMICAL VAPOR-DEPOSITION OF GAAS WITH ORGANOMETALLIC ARSENIC PRECURSORS"
+"GROWTH AND CHARACTERIZATION OF GALLIUM-ARSENIDE USING SINGLE-SOURCE PRECURSORS - OMCVD AND BULK PYROLYSIS STUDIES"
+"SYNTHESIS OF BORON-NITRIDE CERAMICS FROM OLIGOMERIC PRECURSORS DERIVED FROM 2-(DIMETHYLAMINO)-4,6-DICHLOROBORAZINE"
+"N,N'-BIS(TRIETHYLALUMINIO)ETHYLENEDIAMINE-DERIVED AND N,N'-BIS(TRIMETHYLALUMINIO)ETHYLENEDIAMINE-DERIVED ORGANOMETALLIC PRECURSORS TO ALUMINUM NITRIDE - SYNTHESES, STRUCTURES, AND PYROLYSES"
+"APPLICATION OF SPECIFIC DEUTERIUM LABELING AND NUCLEAR-MAGNETIC-RESONANCE SPECTROSCOPY TO THE STUDY OF THE MECHANISM OF PYROLYSIS OF TERT-BUTYLARSINE AND TERT-BUTYLARSINE-D2"
+"MOLTEN-SALT SYNTHESIS OF LOW-DIMENSIONAL TERNARY CHALCOGENIDES - NOVEL STRUCTURE TYPES IN THE K/HG/S, K/HG/SE SYSTEM"
+"PREPARATION OF INDIUM-ANTIMONIDE USING A SINGLE-SOURCE PRECURSOR"
+"METALLABORANES AS MOLECULAR PRECURSORS TO THIN METAL BORIDE FILMS - CONVERSION OF HFE3(CO)9BH4 TO AMORPHOUS FE75B25"
+"SYNTHESIS AND HIGH-TEMPERATURE CHEMISTRY OF METHYLSILSESQUIOXANE POLYMERS PRODUCED BY TITANIUM-CATALYZED REDISTRIBUTION OF METHYLHYDRIDOOLIGOSILOXANES AND METHYLPOLYSILOXANES"
+"MODELS AND POLYBORAZINE PRECURSORS FOR BORON-NITRIDE CERAMICS"
+"CYCLOTRIGALLAZANE, [H2GANH2]3 - ITS PREPARATION, STRUCTURE, AND CONVERSION TO CUBIC GALLIUM NITRIDE AT 150-DEGREES-C"
+"SILICON DIMETHYLAMIDO COMPLEXES AND AMMONIA AS PRECURSORS FOR THE ATMOSPHERIC-PRESSURE CHEMICAL VAPOR-DEPOSITION OF SILICON-NITRIDE THIN-FILMS"
+"PREPARATION OF AN IRON NITRIDE FILM FROM A MOLECULAR TETRAIRON NITRIDO CLUSTER"
+"POLY(CARBOSILANE) PRECURSORS OF SILICON-CARBIDE - THE EFFECT OF CROSS-LINKING ON CERAMIC RESIDUE"
+"FOURIER-TRANSFORM INFRARED SPECTROSCOPIC STUDY OF PREDEPOSITION REACTIONS IN METALLOORGANIC CHEMICAL VAPOR-DEPOSITION OF GALLIUM NITRIDE .2."
+"CHEMICAL VAPOR-DEPOSITION OF PLATINUM - NEW PRECURSORS AND THEIR PROPERTIES"
+"PROCESSIBLE PRECURSOR FOR BORON-NITRIDE COATINGS AND MATRICES"
+"TOPOLOGICAL AND GEOMETRICAL CHARACTERIZATION OF SITES IN SILICON-CARBIDE POLYTYPES"
+"POLYMER-PRECURSOR ROUTES TO METAL BORIDES - SYNTHESES OF TIB2 AND ZRB2"
+"FOURIER-TRANSFORM INFRARED SPECTROSCOPIC STUDY OF PREDEPOSITION REACTIONS IN METALLOORGANIC CHEMICAL VAPOR-DEPOSITION OF GALLIUM NITRIDE"
+"MECHANISM OF NUCLEATION AND ATOMIC LAYER GROWTH OF ALN ON SI"
+"CONDENSATION POLYMERIZATION OF TETRAKIS(ETHYLAMINO)SILANE AND ITS THERMAL-DECOMPOSITION TO SI3N4/SIC CERAMICS"
+"CHEMICAL VAPOR-DEPOSITION OF COPPER FROM (HEXAFLUOROACETYLACETONATO)(ALKYNE)-COPPER(I) COMPLEXES VIA DISPROPORTIONATION"
+"PYROLYSIS CHEMISTRY OF AN ORGANOMETALLIC PRECURSOR TO SILICON-CARBIDE"
+"PREPARATION OF TIN AND TIC FROM A POLYMERIC PRECURSOR"
+"NEW POLY(CARBOSILANE) MODELS .4. DERIVATIZATION OF LINEAR POLY[(METHYCHLOROSILYLENE)METHYLENE] - APPLICATION TO THE SYNTHESIS OF FUNCTIONAL POLY(CARBOSILANES) POSSESSING A POLY[(METHYLSILYLENE)METHYLENE] BACKBONE"
+"KINETICS OF SUBLIMATION OF COPPER(II) ACETYLACETONATE COMPLEX USED FOR CHEMICAL VAPOR-DEPOSITION OF COPPER-FILMS"
+"VAPORIZATION PROCESSES OF ALUMINUM BETA-DIKETONE CHELATES"
+"MECHANISTIC STUDIES OF THE CONVERSION OF BORAZINE POLYMERS TO BORON-NITRIDE"
+"AMORPHOUS ALLOY THIN-FILMS FROM MOLECULAR PRECURSORS - EVIDENCE OF STRUCTURE AND STOICHIOMETRY FROM CRYSTALLIZATION AND EFFECTS OF PRECURSOR LIGAND STRUCTURE ON STOICHIOMETRY"
+"ELECTROCHEMICAL SYNTHESIS OF METAL NITRIDE CERAMIC PRECURSORS IN LIQUID-AMMONIA ELECTROLYTE-SOLUTIONS"
+"KINETIC-STUDIES OF THE CHEMICAL VAPOR-DEPOSITION OF PLATINUM"
+"LIGAND-EXCHANGE IN ADDUCTS OF ETHYLALUMINUM HYDRIDES"
+"ORGANOMETALLIC PRECURSORS IN THE GROWTH OF EPITAXIAL THIN-FILMS OF GROUPS III-V SEMICONDUCTORS BY METAL ORGANIC-CHEMICAL VAPOR-DEPOSITION"
+"NEW POLY(CARBOSILANE) MODELS .5. PYROLYSIS OF A SERIES OF FUNCTIONAL POLY(CARBOSILANES)"
+"LOW-PRESSURE CHEMICAL VAPOR-DEPOSITION OF TUNGSTEN CARBIDE THIN-FILMS"
+"REACTIONS OF TRIS[BIS(TRIMETHYLSILYL)AMINO]ALUMINUM WITH AMMONIA AND PYROLYSIS STUDIES"
+"THERMAL REACTIVITY OF HYDROGENOSILSESQUIOXANE GELS"
+"TRANSITION-METAL BORIDES WITH THE TA3B4 CRYSTAL-STRUCTURE - THEIR ELECTRONIC AND BONDING PROPERTIES"
+"M2(OR)6 COMPOUNDS (M = AL, MO, W R = T-BU, CY-HEX) AS SINGLE-SOURCE PRECURSORS - STUDIES OF THERMOLYSIS UNDER HE FLOW"
+"CHEMICAL VAPOR-DEPOSITION OF TITANIUM, ZIRCONIUM, AND HAFNIUM NITRIDE THIN-FILMS"
+"CHEMISORPTION OF TRIMETHYLALUMINUM AND AMMONIA ON SILICA - MECHANISMS FOR THE FORMATION OF AL-N BONDS AND THE ELIMINATION OF METHYL-GROUPS BONDED TO ALUMINUM"
+"SYNTHESIS AND CHARACTERIZATION OF K4CU8TE11 - A NOVEL SOLID-STATE CHALCOGENIDE COMPOUND WITH A DODECAHEDRAL CLUSTER AS A BUILDING BLOCK"
+"PREPARATION OF A NOVEL GALLIUM-ARSENIDE SINGLE-SOURCE PRECURSOR HAVING THE EMPIRICAL-FORMULA ASCL3GA2"
+"HIGH-FIELD B-11 MAGIC-ANGLE SPINNING NMR CHARACTERIZATION OF BORON NITRIDES"
+"PREPARATION OF TITANIUM DIBORIDE FROM TITANIUM ALKOXIDES AND BORON POWDER"
+"LOW-TEMPERATURE ATMOSPHERIC-PRESSURE CHEMICAL VAPOR-DEPOSITION OF POLYCRYSTALLINE TIN NITRIDE THIN-FILMS"
+"RAPID SYNTHESIS OF GAP AND GAAS FROM SOLID-STATE PRECURSORS"
+"NMR CHEMICAL-SHIFT TENSORS AND PEAK ASSIGNMENTS FOR THE 6H-POLYTYPE OF SILICON-CARBIDE"
+"[CF3AU(CNME)] AS A PRECURSOR FOR CVD OF GOLD"
+"HOT-WALL CHEMICAL VAPOR-DEPOSITION OF COPPER FROM COPPER(I) COMPOUNDS .2. SELECTIVE, LOW-TEMPERATURE DEPOSITION OF COPPER FROM COPPER(I) BETA-DIKETONATE COMPOUNDS, (BETA-DIKETONATE)CULN, VIA THERMALLY INDUCED DISPROPORTIONATION REACTIONS"
+"PYROLYSIS CHEMISTRY OF POLY(ORGANOSILAZANES) TO SILICON CERAMICS"
+"THERMOGRAVIMETRIC MASS-SPECTROMETRIC INVESTIGATION OF THE THERMAL-CONVERSION OF ORGANOSILICON PRECURSORS INTO CERAMICS UNDER ARGON AND AMMONIA .1. POLY(CARBOSILANE)"
+"SYNTHESIS AND STRUCTURE OF BORAZINYL-SUBSTITUTED SMALL-MOLECULE AND HIGH POLYMERIC PHOSPHAZENES - CERAMIC PRECURSORS"
+"BORON-NITRIDE FIBERS PROCESSED FROM POLY(BORAZINYLAMINE) SOLUTIONS"
+"CHEMICAL VAPOR-DEPOSITION PRECURSOR CHEMISTRY .3. FORMATION AND CHARACTERIZATION OF CRYSTALLINE NICKEL BORIDE THIN-FILMS FROM THE CLUSTER-ASSISTED DEPOSITION OF POLYHEDRAL BORANE COMPOUNDS"
+"POLYMER PRECURSOR ROUTE TO TIB2/TIN NANOCOMPOSITES"
+"HIGH-TEMPERATURE CHEMISTRY OF THE CONVERSION OF SILOXANES TO SILICON-CARBIDE"
+"AMMONIA-INDUCED PYROLYTIC CONVERSION OF A VINYLIC POLYSILANE TO SILICON-NITRIDE"
+"STRUCTURE AND CHEMISTRY OF SILICON-NITRIDE AND SILICON CARBONITRIDE THIN-FILMS DEPOSITED FROM ETHYLSILAZANE IN AMMONIA OR HYDROGEN"
+"COPPER(I) PRECURSORS FOR CHEMICAL VAPOR-DEPOSITION OF COPPER METAL"
+"SILICON CARBONITRIDE FROM POLYMERIC PRECURSORS - THERMAL CROSS-LINKING AND PYROLYSIS OF OLIGOSILAZANE MODEL COMPOUNDS"
+"MOLECULAR DESIGN OF SINGLE-SOURCE PRECURSORS FOR 3-6 SEMICONDUCTOR-FILMS - CONTROL OF PHASE AND STOICHIOMETRY IN INXSEY FILMS DEPOSITED BY A SPRAY MOCVD PROCESS USING SINGLE-SOURCE REAGENTS"
+"THERMOGRAVIMETRIC ANALYSIS MASS-SPECTROMETRY INVESTIGATION OF THE THERMAL-CONVERSION OF ORGANOSILICON PRECURSORS INTO CERAMICS UNDER ARGON AND AMMONIA .2. POLY(SILAZANES)"
+"A NOVEL COPPER COMPLEX AND CVD PRECURSOR - (ETA-2-2-BUTYNE)COPPER(I) HEXAFLUOROACETYLACETONATE"
+"CHEMICAL VAPOR-DEPOSITION PRECURSOR CHEMISTRY .2. FORMATION OF PURE ALUMINUM, ALUMINA, AND ALUMINUM BORIDE THIN-FILMS FROM BORON-CONTAINING PRECURSOR COMPOUNDS BY CHEMICAL VAPOR-DEPOSITION"
+"ORGANOMETALLIC CHEMICAL VAPOR-DEPOSITION OF PLATINUM - REACTION-KINETICS AND VAPOR-PRESSURES OF PRECURSORS"
+"BINARY THIN-FILMS FROM MOLECULAR PRECURSORS - ROLE OF PRECURSOR STRUCTURE IN THE FORMATION OF AMORPHOUS AND CRYSTALLINE FEB"
+"PYROLYSIS STUDIES OF THE SINGLE-SOURCE GAAS PRECURSORS [ME2GA(MU-AS-I-PR2)]3, [ME2GA(MU-ASME2)]3, [ME2GA(MU-AS-T-BU2)]2, AND [ET2GA(MU-AS-T-BU2)]2"
+"GROWTH OF EPITAXIAL (100) GAAS FILMS USING THE SINGLE-SOURCE PRECURSOR [ME2GA(MU-TERT-BU2AS)]2"
+"SYNTHESIS, CHARACTERIZATION, AND CHEMICAL VAPOR-DEPOSITION PROPERTIES OF PRIMARY AND SECONDARY NEOPENTYLSTIBINE - NEW ANTIMONY PRECURSORS FOR MOCVD"
+"METAL ORGANIC-CHEMICAL VAPOR-DEPOSITION OF COPPER AND COPPER(I) OXIDE FROM COPPER(I) TERT-BUTOXIDE"
+#v "wos_id" s
+"WOS:000678751000009"
+"WOS:000677543400005"
+"WOS:000677542600010"
+"WOS:000678751000024"
+"WOS:000677542600017"
+"WOS:000678751000005"
+"WOS:000678751000014"
+"WOS:000677541700013"
+"WOS:000677542600006"
+"WOS:000678751000015"
+"WOS:000678751000003"
+"WOS:000677543400019"
+"WOS:000677543400017"
+"WOS:A1990EF18100009"
+"WOS:A1990ED06000011"
+"WOS:A1990ED06000002"
+"WOS:A1990EK62900007"
+"WOS:A1990ED06000010"
+"WOS:A1990EF18100021"
+"WOS:A1990DC81900004"
+"WOS:A1990DC81800008"
+"WOS:A1990EF18200025"
+"WOS:A1990EF18100014"
+"WOS:A1990EF18100023"
+"WOS:A1990EF18200009"
+"WOS:A1990DC81900006"
+"WOS:A1990ED06000004"
+"WOS:A1990EF18100022"
+"WOS:A1990EF18100028"
+"WOS:A1990EF18100013"
+"WOS:A1990EF18100004"
+"WOS:A1990EF18200003"
+"WOS:A1990ED06000015"
+"WOS:A1991FN82700024"
+"WOS:A1991GR96600027"
+"WOS:A1991FZ19000022"
+"WOS:A1991EW48600023"
+"WOS:A1991FE93200025"
+"WOS:A1991EW48600006"
+"WOS:A1991FZ19000031"
+"WOS:A1991FZ19000016"
+"WOS:A1991FZ19000029"
+"WOS:A1991GR96600005"
+"WOS:A1991FE93200011"
+"WOS:A1991GR96600033"
+"WOS:A1991FE93200028"
+"WOS:A1991EW48600016"
+"WOS:A1991FE93200015"
+"WOS:A1991FE93200016"
+"WOS:A1991GR96600035"
+"WOS:A1991GH63600002"
+"WOS:A1991FE93200007"
+"WOS:A1991GR96600028"
+"WOS:A1991FE93200008"
+"WOS:A1991FE93200029"
+"WOS:A1991FN82700004"
+"WOS:A1991EW48600022"
+"WOS:A1991EW48600030"
+"WOS:A1991FN82700035"
+"WOS:A1991FE93200006"
+"WOS:A1991GR96600034"
+"WOS:A1991GH63600035"
+"WOS:A1991GH63600008"
+"WOS:A1991FN82700002"
+"WOS:A1991FN82700023"
+"WOS:A1992HW98900002"
+"WOS:A1992HC55800017"
+"WOS:A1992HC55800005"
+"WOS:A1992HL70200018"
+"WOS:A1992JQ59000009"
+"WOS:A1992JG69800009"
+"WOS:A1992HW98900038"
+"WOS:A1992HW98900039"
+"WOS:A1992HL70200015"
+"WOS:A1992HC55800008"
+"WOS:A1992HW98900011"
+"WOS:A1992KA30500005"
+"WOS:A1992KA30500035"
+"WOS:A1992JG69800034"
+"WOS:A1992HL70200044"
+"WOS:A1992HW98900016"
+"WOS:A1992HC55800030"
+"WOS:A1992JG69800028"
+"WOS:A1992KA30500028"
+"WOS:A1992HL70200025"
+"WOS:A1992HW98900010"
+"WOS:A1992HC55800033"
+"WOS:A1992HL70200037"
+"WOS:A1992HL70200038"
+"WOS:A1992HC55800004"
+"WOS:A1992JG69800017"
+"WOS:A1992KA30500013"
+#v "year" n
+1989.0
+1989.0
+1989.0
+1989.0
+1989.0
+1989.0
+1989.0
+1989.0
+1989.0
+1989.0
+1989.0
+1989.0
+1989.0
+1990.0
+1990.0
+1990.0
+1990.0
+1990.0
+1990.0
+1990.0
+1990.0
+1990.0
+1990.0
+1990.0
+1990.0
+1990.0
+1990.0
+1990.0
+1990.0
+1990.0
+1990.0
+1990.0
+1990.0
+1991.0
+1991.0
+1991.0
+1991.0
+1991.0
+1991.0
+1991.0
+1991.0
+1991.0
+1991.0
+1991.0
+1991.0
+1991.0
+1991.0
+1991.0
+1991.0
+1991.0
+1991.0
+1991.0
+1991.0
+1991.0
+1991.0
+1991.0
+1991.0
+1991.0
+1991.0
+1991.0
+1991.0
+1991.0
+1991.0
+1991.0
+1991.0
+1992.0
+1992.0
+1992.0
+1992.0
+1992.0
+1992.0
+1992.0
+1992.0
+1992.0
+1992.0
+1992.0
+1992.0
+1992.0
+1992.0
+1992.0
+1992.0
+1992.0
+1992.0
+1992.0
+1992.0
+1992.0
+1992.0
+1992.0
+1992.0
+1992.0
+1992.0
+1992.0

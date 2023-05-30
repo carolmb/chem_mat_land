@@ -1,0 +1,3587 @@
+#vertices 771 nonweighted
+"WOS:000677543400006"
+"WOS:000677543400018"
+"WOS:000677544200011"
+"WOS:000678751000009"
+"WOS:000677543400011"
+"WOS:000677538800020"
+"WOS:000677542600016"
+"WOS:000677543400005"
+"WOS:000677538800013"
+"WOS:000677543400001"
+"WOS:000677543400007"
+"WOS:000677541700001"
+"WOS:000678751000006"
+"WOS:000677544200017"
+"WOS:000677542600010"
+"WOS:000678751000012"
+"WOS:000678751000024"
+"WOS:000677538800007"
+"WOS:000677541700014"
+"WOS:000677541700019"
+"WOS:000677542600007"
+"WOS:000677544200002"
+"WOS:000677544200009"
+"WOS:000677541700002"
+"WOS:000677541700004"
+"WOS:000677542600011"
+"WOS:000677543400003"
+"WOS:000677541700017"
+"WOS:000677544200008"
+"WOS:000677541700003"
+"WOS:000677544200014"
+"WOS:000677541700011"
+"WOS:000677542600005"
+"WOS:000677542600009"
+"WOS:000677544200001"
+"WOS:000677538800009"
+"WOS:000677542600004"
+"WOS:000677541700005"
+"WOS:000678751000007"
+"WOS:000677544200020"
+"WOS:000678751000013"
+"WOS:000678751000019"
+"WOS:000677543400004"
+"WOS:000678751000016"
+"WOS:000677542600002"
+"WOS:000677542600017"
+"WOS:000677543400009"
+"WOS:000677538800011"
+"WOS:000677544200012"
+"WOS:000678751000005"
+"WOS:000677538800008"
+"WOS:000678751000014"
+"WOS:000677543400016"
+"WOS:000677544200013"
+"WOS:000678751000022"
+"WOS:000677538800010"
+"WOS:000678751000028"
+"WOS:000677541700006"
+"WOS:000677541700018"
+"WOS:000678751000008"
+"WOS:000677542600003"
+"WOS:000677538800004"
+"WOS:000678751000001"
+"WOS:000678751000017"
+"WOS:000677544200010"
+"WOS:000677544200015"
+"WOS:000677544200018"
+"WOS:000677544200021"
+"WOS:000678751000020"
+"WOS:000677538800006"
+"WOS:000677544200016"
+"WOS:000678751000026"
+"WOS:000677538800003"
+"WOS:000677544200019"
+"WOS:000677544200003"
+"WOS:000677544200006"
+"WOS:000677544200005"
+"WOS:000677543400015"
+"WOS:000677544200007"
+"WOS:000677542600012"
+"WOS:000677542600015"
+"WOS:000677541700020"
+"WOS:000677541700015"
+"WOS:000677538800012"
+"WOS:000677538800015"
+"WOS:000678751000018"
+"WOS:000677542600014"
+"WOS:000678751000023"
+"WOS:000678751000025"
+"WOS:000678751000030"
+"WOS:000678751000029"
+"WOS:000677544200004"
+"WOS:000677541700010"
+"WOS:000677543400002"
+"WOS:000678751000004"
+"WOS:000677538800001"
+"WOS:000677538800018"
+"WOS:000677538800019"
+"WOS:000677541700007"
+"WOS:000677541700013"
+"WOS:000677543400010"
+"WOS:000677543400012"
+"WOS:000677538800002"
+"WOS:000677541700008"
+"WOS:000677542600006"
+"WOS:000677538800014"
+"WOS:000677538800016"
+"WOS:000677541700009"
+"WOS:000677538800017"
+"WOS:000677542600013"
+"WOS:000677542600001"
+"WOS:000677542600008"
+"WOS:000678751000027"
+"WOS:000677543400008"
+"WOS:000678751000010"
+"WOS:000678751000015"
+"WOS:000677543400014"
+"WOS:000678751000021"
+"WOS:000678751000003"
+"WOS:000677541700012"
+"WOS:000677543400019"
+"WOS:000677543400017"
+"WOS:000677538800005"
+"WOS:000677543400013"
+"WOS:000677541700016"
+"WOS:000678751000002"
+"WOS:000678751000011"
+"WOS:A1990ED06000012"
+"WOS:A1990ED06000006"
+"WOS:A1990ED06000027"
+"WOS:A1990EF18100009"
+"WOS:A1990EK62900014"
+"WOS:A1990EF18200007"
+"WOS:A1990EK62900005"
+"WOS:A1990DC81900007"
+"WOS:A1990EF18100007"
+"WOS:A1990DC81900011"
+"WOS:A1990DC81900005"
+"WOS:A1990EK62900021"
+"WOS:A1990ED06000011"
+"WOS:A1990ED06000002"
+"WOS:A1990EK62900007"
+"WOS:A1990DC81900001"
+"WOS:A1990EF18100012"
+"WOS:A1990ED06000010"
+"WOS:A1990EK62900034"
+"WOS:A1990DC81900025"
+"WOS:A1990DC81800011"
+"WOS:A1990EF18200005"
+"WOS:A1990EK62900024"
+"WOS:A1990EF18100021"
+"WOS:A1990EF18200030"
+"WOS:A1990EK62900008"
+"WOS:A1990EF18100008"
+"WOS:A1990ED06000017"
+"WOS:A1990DC81800007"
+"WOS:A1990EF18200027"
+"WOS:A1990EF18100016"
+"WOS:A1990EF18100019"
+"WOS:A1990ED06000022"
+"WOS:A1990EK62900006"
+"WOS:A1990DC81900004"
+"WOS:A1990EF18100006"
+"WOS:A1990ED06000016"
+"WOS:A1990EK62900029"
+"WOS:A1990EK62900031"
+"WOS:A1990EF18100030"
+"WOS:A1990ED06000021"
+"WOS:A1990EF18200022"
+"WOS:A1990DC81800008"
+"WOS:A1990ED06000020"
+"WOS:A1990EK62900026"
+"WOS:A1990EF18200020"
+"WOS:A1990EF18200012"
+"WOS:A1990DC81800001"
+"WOS:A1990DC81800003"
+"WOS:A1990EF18100002"
+"WOS:A1990EK62900012"
+"WOS:A1990DC81900013"
+"WOS:A1990DC81900018"
+"WOS:A1990EF18100010"
+"WOS:A1990ED06000005"
+"WOS:A1990ED06000018"
+"WOS:A1990EF18200015"
+"WOS:A1990ED06000013"
+"WOS:A1990EF18200025"
+"WOS:A1990EK62900022"
+"WOS:A1990EF18100025"
+"WOS:A1990ED06000023"
+"WOS:A1990ED06000025"
+"WOS:A1990DC81800002"
+"WOS:A1990EF18100001"
+"WOS:A1990EF18200010"
+"WOS:A1990DC81900027"
+"WOS:A1990EF18100014"
+"WOS:A1990EF18100017"
+"WOS:A1990DC81900022"
+"WOS:A1990EF18100003"
+"WOS:A1990EF18100005"
+"WOS:A1990ED06000026"
+"WOS:A1990ED06000019"
+"WOS:A1990EF18100029"
+"WOS:A1990EF18200029"
+"WOS:A1990EF18200001"
+"WOS:A1990EF18100023"
+"WOS:A1990EF18100024"
+"WOS:A1990EK62900001"
+"WOS:A1990ED06000007"
+"WOS:A1990EF18200009"
+"WOS:A1990DC81800004"
+"WOS:A1990DC81800006"
+"WOS:A1990EF18200002"
+"WOS:A1990EF18200014"
+"WOS:A1990EF18200016"
+"WOS:A1990EF18200017"
+"WOS:A1990DC81900006"
+"WOS:A1990DC81900009"
+"WOS:A1990EF18200004"
+"WOS:A1990DC81900002"
+"WOS:A1990ED06000004"
+"WOS:A1990EK62900032"
+"WOS:A1990ED06000008"
+"WOS:A1990EF18200024"
+"WOS:A1990EK62900018"
+"WOS:A1990DC81900015"
+"WOS:A1990EF18100011"
+"WOS:A1990DC81900019"
+"WOS:A1990EK62900017"
+"WOS:A1990EK62900004"
+"WOS:A1990EF18200023"
+"WOS:A1990EK62900015"
+"WOS:A1990EF18100020"
+"WOS:A1990DC81900021"
+"WOS:A1990EF18200018"
+"WOS:A1990EF18200021"
+"WOS:A1990EK62900002"
+"WOS:A1990DC81900024"
+"WOS:A1990EF18100026"
+"WOS:A1990EF18100015"
+"WOS:A1990DC81900026"
+"WOS:A1990EF18100022"
+"WOS:A1990EK62900033"
+"WOS:A1990DC81800012"
+"WOS:A1990EF18200011"
+"WOS:A1990EF18200013"
+"WOS:A1990EK62900027"
+"WOS:A1990DC81800005"
+"WOS:A1990ED06000014"
+"WOS:A1990EK62900023"
+"WOS:A1990EK62900028"
+"WOS:A1990EK62900013"
+"WOS:A1990DC81900017"
+"WOS:A1990EF18200026"
+"WOS:A1990EF18100028"
+"WOS:A1990EF18200008"
+"WOS:A1990ED06000001"
+"WOS:A1990DC81900020"
+"WOS:A1990EF18100027"
+"WOS:A1990DC81800009"
+"WOS:A1990EF18200006"
+"WOS:A1990EF18100013"
+"WOS:A1990EF18100018"
+"WOS:A1990EK62900009"
+"WOS:A1990DC81800010"
+"WOS:A1990EF18200019"
+"WOS:A1990EK62900020"
+"WOS:A1990EK62900025"
+"WOS:A1990DC81900023"
+"WOS:A1990ED06000003"
+"WOS:A1990EF18200028"
+"WOS:A1990DC81900008"
+"WOS:A1990EK62900016"
+"WOS:A1990EK62900011"
+"WOS:A1990EK62900019"
+"WOS:A1990EF18100004"
+"WOS:A1990DC81900012"
+"WOS:A1990DC81900003"
+"WOS:A1990DC81900014"
+"WOS:A1990EK62900003"
+"WOS:A1990EF18200003"
+"WOS:A1990ED06000015"
+"WOS:A1990ED06000024"
+"WOS:A1990ED06000009"
+"WOS:A1990DC81800013"
+"WOS:A1990EK62900030"
+"WOS:A1990DC81900016"
+"WOS:A1990DC81900010"
+"WOS:A1990EK62900010"
+"WOS:A1991FZ19000030"
+"WOS:A1991EW48600002"
+"WOS:A1991GH63600010"
+"WOS:A1991GH63600027"
+"WOS:A1991FE93200020"
+"WOS:A1991EW48600007"
+"WOS:A1991FN82700011"
+"WOS:A1991FE93200004"
+"WOS:A1991FE93200005"
+"WOS:A1991FN82700020"
+"WOS:A1991FN82700021"
+"WOS:A1991FN82700036"
+"WOS:A1991FN82700037"
+"WOS:A1991EW48600013"
+"WOS:A1991EW48600015"
+"WOS:A1991GR96600002"
+"WOS:A1991GR96600003"
+"WOS:A1991GR96600030"
+"WOS:A1991GR96600026"
+"WOS:A1991GH63600038"
+"WOS:A1991FN82700024"
+"WOS:A1991GH63600015"
+"WOS:A1991FE93200024"
+"WOS:A1991EW48600020"
+"WOS:A1991GH63600016"
+"WOS:A1991FN82700030"
+"WOS:A1991EW48600038"
+"WOS:A1991GR96600027"
+"WOS:A1991GR96600036"
+"WOS:A1991FZ19000022"
+"WOS:A1991EW48600023"
+"WOS:A1991EW48600032"
+"WOS:A1991FE93200025"
+"WOS:A1991FZ19000033"
+"WOS:A1991FE93200023"
+"WOS:A1991GH63600001"
+"WOS:A1991FN82700025"
+"WOS:A1991GH63600019"
+"WOS:A1991EW48600006"
+"WOS:A1991FZ19000031"
+"WOS:A1991GH63600013"
+"WOS:A1991GR96600032"
+"WOS:A1991EW48600025"
+"WOS:A1991GR96600012"
+"WOS:A1991FZ19000035"
+"WOS:A1991GR96600013"
+"WOS:A1991FN82700003"
+"WOS:A1991GR96600004"
+"WOS:A1991EW48600017"
+"WOS:A1991GR96600018"
+"WOS:A1991FZ19000016"
+"WOS:A1991FZ19000025"
+"WOS:A1991FZ19000029"
+"WOS:A1991GR96600020"
+"WOS:A1991GH63600006"
+"WOS:A1991GH63600017"
+"WOS:A1991GR96600005"
+"WOS:A1991GR96600010"
+"WOS:A1991EW48600003"
+"WOS:A1991EW48600004"
+"WOS:A1991GH63600005"
+"WOS:A1991GH63600018"
+"WOS:A1991FE93200011"
+"WOS:A1991FE93200027"
+"WOS:A1991FZ19000013"
+"WOS:A1991EW48600011"
+"WOS:A1991FZ19000011"
+"WOS:A1991FZ19000018"
+"WOS:A1991FN82700026"
+"WOS:A1991FZ19000001"
+"WOS:A1991FE93200018"
+"WOS:A1991FZ19000002"
+"WOS:A1991FN82700015"
+"WOS:A1991FN82700017"
+"WOS:A1991FZ19000009"
+"WOS:A1991FN82700033"
+"WOS:A1991GH63600024"
+"WOS:A1991GR96600033"
+"WOS:A1991GH63600007"
+"WOS:A1991FE93200028"
+"WOS:A1991FZ19000020"
+"WOS:A1991GH63600025"
+"WOS:A1991FZ19000023"
+"WOS:A1991EW48600016"
+"WOS:A1991EW48600010"
+"WOS:A1991GR96600009"
+"WOS:A1991GR96600014"
+"WOS:A1991GH63600011"
+"WOS:A1991GH63600014"
+"WOS:A1991FE93200015"
+"WOS:A1991GR96600022"
+"WOS:A1991EW48600035"
+"WOS:A1991GH63600023"
+"WOS:A1991FZ19000005"
+"WOS:A1991FE93200012"
+"WOS:A1991FE93200013"
+"WOS:A1991FE93200016"
+"WOS:A1991FZ19000006"
+"WOS:A1991EW48600040"
+"WOS:A1991GR96600035"
+"WOS:A1991GH63600002"
+"WOS:A1991FN82700019"
+"WOS:A1991GH63600003"
+"WOS:A1991FE93200007"
+"WOS:A1991FZ19000019"
+"WOS:A1991EW48600012"
+"WOS:A1991FN82700009"
+"WOS:A1991GH63600022"
+"WOS:A1991FN82700031"
+"WOS:A1991EW48600009"
+"WOS:A1991GH63600036"
+"WOS:A1991FZ19000027"
+"WOS:A1991GR96600028"
+"WOS:A1991FE93200010"
+"WOS:A1991FZ19000003"
+"WOS:A1991FE93200019"
+"WOS:A1991FE93200021"
+"WOS:A1991GH63600028"
+"WOS:A1991GH63600012"
+"WOS:A1991FZ19000017"
+"WOS:A1991FZ19000026"
+"WOS:A1991GR96600024"
+"WOS:A1991GR96600029"
+"WOS:A1991FN82700008"
+"WOS:A1991FN82700006"
+"WOS:A1991FN82700012"
+"WOS:A1991FE93200008"
+"WOS:A1991FN82700034"
+"WOS:A1991FZ19000015"
+"WOS:A1991EW48600024"
+"WOS:A1991FN82700005"
+"WOS:A1991FN82700016"
+"WOS:A1991FN82700028"
+"WOS:A1991FN82700032"
+"WOS:A1991GH63600021"
+"WOS:A1991FZ19000021"
+"WOS:A1991FZ19000008"
+"WOS:A1991GH63600034"
+"WOS:A1991FZ19000012"
+"WOS:A1991FE93200029"
+"WOS:A1991EW48600034"
+"WOS:A1991GR96600021"
+"WOS:A1991FZ19000024"
+"WOS:A1991GR96600017"
+"WOS:A1991FN82700001"
+"WOS:A1991FN82700004"
+"WOS:A1991FN82700027"
+"WOS:A1991EW48600037"
+"WOS:A1991EW48600008"
+"WOS:A1991GR96600023"
+"WOS:A1991GR96600025"
+"WOS:A1991EW48600039"
+"WOS:A1991EW48600021"
+"WOS:A1991EW48600027"
+"WOS:A1991FE93200009"
+"WOS:A1991GH63600009"
+"WOS:A1991GR96600001"
+"WOS:A1991EW48600014"
+"WOS:A1991EW48600022"
+"WOS:A1991EW48600030"
+"WOS:A1991FZ19000004"
+"WOS:A1991FE93200022"
+"WOS:A1991GH63600032"
+"WOS:A1991GR96600019"
+"WOS:A1991EW48600041"
+"WOS:A1991FN82700022"
+"WOS:A1991FN82700035"
+"WOS:A1991FZ19000034"
+"WOS:A1991FN82700029"
+"WOS:A1991FZ19000007"
+"WOS:A1991GH63600004"
+"WOS:A1991FE93200001"
+"WOS:A1991EW48600031"
+"WOS:A1991GH63600029"
+"WOS:A1991GH63600030"
+"WOS:A1991GR96600006"
+"WOS:A1991EW48600019"
+"WOS:A1991FE93200032"
+"WOS:A1991FE93200006"
+"WOS:A1991GR96600007"
+"WOS:A1991GR96600011"
+"WOS:A1991EW48600033"
+"WOS:A1991EW48600042"
+"WOS:A1991GR96600031"
+"WOS:A1991FZ19000010"
+"WOS:A1991FE93200026"
+"WOS:A1991GH63600033"
+"WOS:A1991GH63600020"
+"WOS:A1991GR96600034"
+"WOS:A1991GH63600037"
+"WOS:A1991FE93200030"
+"WOS:A1991FZ19000028"
+"WOS:A1991GH63600026"
+"WOS:A1991FN82700007"
+"WOS:A1991GH63600031"
+"WOS:A1991EW48600028"
+"WOS:A1991GR96600015"
+"WOS:A1991FN82700018"
+"WOS:A1991FE93200014"
+"WOS:A1991FE93200017"
+"WOS:A1991GH63600035"
+"WOS:A1991FE93200031"
+"WOS:A1991GH63600008"
+"WOS:A1991FE93200003"
+"WOS:A1991FN82700002"
+"WOS:A1991EW48600026"
+"WOS:A1991GR96600008"
+"WOS:A1991EW48600018"
+"WOS:A1991EW48600029"
+"WOS:A1991GR96600016"
+"WOS:A1991FE93200002"
+"WOS:A1991FN82700023"
+"WOS:A1991FN82700013"
+"WOS:A1991FN82700014"
+"WOS:A1991EW48600005"
+"WOS:A1991FZ19000032"
+"WOS:A1991EW48600001"
+"WOS:A1991FZ19000014"
+"WOS:A1991FN82700010"
+"WOS:A1991EW48600036"
+"WOS:A1992HL70200006"
+"WOS:A1992KA30500027"
+"WOS:A1992HW98900002"
+"WOS:A1992HC55800027"
+"WOS:A1992HL70200028"
+"WOS:A1992HL70200004"
+"WOS:A1992JQ59000001"
+"WOS:A1992JQ59000004"
+"WOS:A1992JQ59000019"
+"WOS:A1992HC55800017"
+"WOS:A1992HW98900008"
+"WOS:A1992JQ59000005"
+"WOS:A1992HL70200031"
+"WOS:A1992JG69800037"
+"WOS:A1992HL70200002"
+"WOS:A1992HC55800005"
+"WOS:A1992HL70200018"
+"WOS:A1992JG69800010"
+"WOS:A1992KA30500042"
+"WOS:A1992HW98900045"
+"WOS:A1992JQ59000028"
+"WOS:A1992KA30500008"
+"WOS:A1992HL70200012"
+"WOS:A1992HL70200041"
+"WOS:A1992JQ59000009"
+"WOS:A1992HL70200036"
+"WOS:A1992HW98900040"
+"WOS:A1992JG69800007"
+"WOS:A1992HL70200014"
+"WOS:A1992HW98900006"
+"WOS:A1992KA30500050"
+"WOS:A1992HL70200013"
+"WOS:A1992JQ59000021"
+"WOS:A1992JG69800026"
+"WOS:A1992JG69800015"
+"WOS:A1992HC55800035"
+"WOS:A1992HC55800014"
+"WOS:A1992HC55800042"
+"WOS:A1992KA30500048"
+"WOS:A1992JG69800024"
+"WOS:A1992JG69800029"
+"WOS:A1992JG69800020"
+"WOS:A1992HL70200035"
+"WOS:A1992HC55800011"
+"WOS:A1992JQ59000023"
+"WOS:A1992JQ59000033"
+"WOS:A1992HW98900030"
+"WOS:A1992JG69800009"
+"WOS:A1992JG69800012"
+"WOS:A1992HL70200019"
+"WOS:A1992HC55800029"
+"WOS:A1992KA30500007"
+"WOS:A1992JQ59000035"
+"WOS:A1992KA30500014"
+"WOS:A1992HW98900043"
+"WOS:A1992HL70200039"
+"WOS:A1992JQ59000016"
+"WOS:A1992HW98900028"
+"WOS:A1992KA30500054"
+"WOS:A1992HC55800026"
+"WOS:A1992HW98900015"
+"WOS:A1992HW98900019"
+"WOS:A1992HC55800019"
+"WOS:A1992HW98900038"
+"WOS:A1992HC55800015"
+"WOS:A1992KA30500024"
+"WOS:A1992HC55800023"
+"WOS:A1992HC55800028"
+"WOS:A1992HL70200003"
+"WOS:A1992JQ59000011"
+"WOS:A1992HW98900044"
+"WOS:A1992JG69800016"
+"WOS:A1992HW98900035"
+"WOS:A1992HC55800025"
+"WOS:A1992KA30500034"
+"WOS:A1992HW98900039"
+"WOS:A1992HW98900020"
+"WOS:A1992JQ59000022"
+"WOS:A1992JQ59000020"
+"WOS:A1992JQ59000031"
+"WOS:A1992JQ59000032"
+"WOS:A1992KA30500010"
+"WOS:A1992JQ59000007"
+"WOS:A1992HC55800016"
+"WOS:A1992HC55800024"
+"WOS:A1992KA30500032"
+"WOS:A1992KA30500003"
+"WOS:A1992HC55800006"
+"WOS:A1992HC55800009"
+"WOS:A1992HL70200033"
+"WOS:A1992HC55800022"
+"WOS:A1992HW98900037"
+"WOS:A1992KA30500033"
+"WOS:A1992KA30500040"
+"WOS:A1992HW98900041"
+"WOS:A1992KA30500045"
+"WOS:A1992HC55800041"
+"WOS:A1992JQ59000027"
+"WOS:A1992HL70200015"
+"WOS:A1992JG69800027"
+"WOS:A1992HW98900004"
+"WOS:A1992HW98900034"
+"WOS:A1992JG69800031"
+"WOS:A1992HL70200040"
+"WOS:A1992KA30500044"
+"WOS:A1992HW98900023"
+"WOS:A1992HC55800008"
+"WOS:A1992HW98900011"
+"WOS:A1992JG69800013"
+"WOS:A1992JQ59000010"
+"WOS:A1992KA30500031"
+"WOS:A1992HL70200021"
+"WOS:A1992KA30500005"
+"WOS:A1992HC55800020"
+"WOS:A1992HW98900042"
+"WOS:A1992KA30500057"
+"WOS:A1992KA30500035"
+"WOS:A1992HW98900018"
+"WOS:A1992HL70200008"
+"WOS:A1992JQ59000024"
+"WOS:A1992HL70200020"
+"WOS:A1992HL70200026"
+"WOS:A1992HW98900027"
+"WOS:A1992KA30500052"
+"WOS:A1992HW98900032"
+"WOS:A1992KA30500053"
+"WOS:A1992HL70200001"
+"WOS:A1992JG69800003"
+"WOS:A1992JG69800025"
+"WOS:A1992JG69800023"
+"WOS:A1992JG69800034"
+"WOS:A1992HL70200045"
+"WOS:A1992HL70200034"
+"WOS:A1992JQ59000003"
+"WOS:A1992HC55800002"
+"WOS:A1992JQ59000008"
+"WOS:A1992JG69800036"
+"WOS:A1992HL70200042"
+"WOS:A1992HL70200043"
+"WOS:A1992HL70200032"
+"WOS:A1992HL70200044"
+"WOS:A1992HL70200024"
+"WOS:A1992HC55800038"
+"WOS:A1992HL70200007"
+"WOS:A1992KA30500015"
+"WOS:A1992HC55800021"
+"WOS:A1992KA30500030"
+"WOS:A1992JQ59000012"
+"WOS:A1992HC55800031"
+"WOS:A1992KA30500021"
+"WOS:A1992HW98900016"
+"WOS:A1992HL70200022"
+"WOS:A1992JG69800002"
+"WOS:A1992JG69800006"
+"WOS:A1992HC55800030"
+"WOS:A1992KA30500041"
+"WOS:A1992HL70200005"
+"WOS:A1992JQ59000025"
+"WOS:A1992KA30500004"
+"WOS:A1992KA30500006"
+"WOS:A1992KA30500047"
+"WOS:A1992HW98900031"
+"WOS:A1992JG69800005"
+"WOS:A1992HW98900003"
+"WOS:A1992JG69800011"
+"WOS:A1992JG69800021"
+"WOS:A1992KA30500022"
+"WOS:A1992KA30500037"
+"WOS:A1992JQ59000026"
+"WOS:A1992KA30500029"
+"WOS:A1992HW98900007"
+"WOS:A1992HW98900009"
+"WOS:A1992KA30500036"
+"WOS:A1992HC55800036"
+"WOS:A1992KA30500025"
+"WOS:A1992HW98900017"
+"WOS:A1992HW98900014"
+"WOS:A1992HC55800032"
+"WOS:A1992JG69800035"
+"WOS:A1992JG69800028"
+"WOS:A1992KA30500049"
+"WOS:A1992HW98900029"
+"WOS:A1992HC55800007"
+"WOS:A1992KA30500011"
+"WOS:A1992HW98900033"
+"WOS:A1992HL70200023"
+"WOS:A1992HW98900025"
+"WOS:A1992KA30500051"
+"WOS:A1992HW98900036"
+"WOS:A1992HC55800003"
+"WOS:A1992KA30500019"
+"WOS:A1992KA30500028"
+"WOS:A1992HW98900001"
+"WOS:A1992KA30500038"
+"WOS:A1992JQ59000006"
+"WOS:A1992JQ59000015"
+"WOS:A1992HW98900024"
+"WOS:A1992HC55800040"
+"WOS:A1992JQ59000018"
+"WOS:A1992JQ59000029"
+"WOS:A1992KA30500018"
+"WOS:A1992HC55800012"
+"WOS:A1992HW98900005"
+"WOS:A1992HC55800018"
+"WOS:A1992KA30500023"
+"WOS:A1992JQ59000013"
+"WOS:A1992JG69800001"
+"WOS:A1992JG69800004"
+"WOS:A1992HL70200029"
+"WOS:A1992JQ59000014"
+"WOS:A1992JQ59000017"
+"WOS:A1992KA30500016"
+"WOS:A1992JG69800019"
+"WOS:A1992HL70200025"
+"WOS:A1992KA30500039"
+"WOS:A1992HW98900010"
+"WOS:A1992HW98900012"
+"WOS:A1992HC55800033"
+"WOS:A1992KA30500043"
+"WOS:A1992KA30500009"
+"WOS:A1992JQ59000002"
+"WOS:A1992KA30500002"
+"WOS:A1992JQ59000030"
+"WOS:A1992KA30500012"
+"WOS:A1992KA30500056"
+"WOS:A1992KA30500001"
+"WOS:A1992KA30500017"
+"WOS:A1992HC55800034"
+"WOS:A1992HC55800037"
+"WOS:A1992JG69800038"
+"WOS:A1992HL70200030"
+"WOS:A1992HL70200037"
+"WOS:A1992HL70200038"
+"WOS:A1992HW98900013"
+"WOS:A1992HC55800039"
+"WOS:A1992HC55800043"
+"WOS:A1992JG69800008"
+"WOS:A1992JG69800032"
+"WOS:A1992HL70200010"
+"WOS:A1992HL70200027"
+"WOS:A1992HW98900022"
+"WOS:A1992HC55800004"
+"WOS:A1992JG69800022"
+"WOS:A1992KA30500046"
+"WOS:A1992HW98900026"
+"WOS:A1992HL70200016"
+"WOS:A1992HL70200017"
+"WOS:A1992JG69800014"
+"WOS:A1992HL70200009"
+"WOS:A1992HL70200011"
+"WOS:A1992JG69800030"
+"WOS:A1992JG69800017"
+"WOS:A1992JG69800018"
+"WOS:A1992KA30500055"
+"WOS:A1992HC55800010"
+"WOS:A1992KA30500020"
+"WOS:A1992KA30500026"
+"WOS:A1992JG69800033"
+"WOS:A1992HC55800013"
+"WOS:A1992HW98900021"
+"WOS:A1992HC55800001"
+"WOS:A1992JQ59000034"
+"WOS:A1992KA30500013"
+#edges nonweighted directed
+27 43
+39 5
+45 16
+52 102
+52 5
+65 81
+76 68
+78 29
+93 61
+123 5
+130 215
+131 71
+131 95
+133 67
+136 286
+140 3
+141 99
+141 3
+141 49
+147 61
+149 218
+151 167
+156 101
+157 25
+161 14
+170 33
+173 173
+177 54
+187 226
+187 92
+189 119
+190 95
+194 260
+194 14
+194 7
+202 87
+202 71
+202 12
+202 113
+204 16
+205 12
+208 169
+214 26
+219 99
+221 95
+226 92
+233 210
+233 103
+235 129
+235 283
+240 16
+240 280
+240 49
+240 115
+241 97
+244 173
+251 95
+253 121
+253 120
+260 7
+269 22
+275 108
+278 128
+280 49
+280 16
+280 115
+284 9
+288 222
+288 181
+288 436
+288 218
+288 236
+290 351
+290 59
+291 235
+296 179
+296 278
+299 173
+299 244
+300 74
+303 138
+308 120
+310 157
+310 114
+310 25
+312 126
+315 45
+315 327
+316 195
+316 54
+316 93
+316 61
+317 99
+317 391
+317 140
+318 7
+318 14
+323 278
+323 296
+326 51
+327 45
+328 176
+332 84
+332 106
+335 385
+338 104
+340 279
+342 250
+343 349
+343 126
+348 162
+349 126
+350 120
+351 19
+355 33
+363 218
+363 236
+365 139
+367 120
+369 128
+369 278
+369 193
+370 156
+371 49
+371 3
+376 261
+376 242
+377 371
+379 170
+379 33
+380 230
+382 229
+384 7
+384 14
+384 260
+384 161
+385 181
+387 240
+387 280
+388 139
+390 214
+390 26
+392 297
+394 167
+397 242
+398 4
+399 197
+400 99
+405 389
+405 405
+406 136
+413 214
+413 26
+414 16
+414 118
+414 104
+414 169
+417 126
+424 263
+425 147
+425 445
+425 61
+430 412
+433 144
+433 16
+436 236
+438 54
+444 296
+445 61
+445 232
+446 16
+450 453
+450 31
+450 110
+451 343
+451 312
+452 97
+452 241
+455 254
+455 464
+458 412
+461 405
+466 219
+467 195
+471 269
+471 59
+471 22
+476 16
+476 144
+476 279
+477 425
+477 232
+477 147
+479 78
+480 502
+482 507
+482 207
+485 361
+488 16
+489 9
+490 215
+490 130
+492 118
+493 122
+496 281
+499 350
+500 487
+502 153
+510 326
+510 365
+511 441
+514 494
+516 642
+517 279
+520 110
+520 271
+521 738
+523 492
+523 118
+524 320
+524 350
+525 324
+526 477
+526 147
+529 445
+530 392
+530 394
+532 317
+532 391
+535 471
+535 361
+535 59
+535 329
+535 485
+535 290
+537 434
+540 511
+541 54
+541 93
+541 709
+541 316
+541 300
+541 177
+541 61
+545 113
+546 335
+547 502
+548 262
+550 95
+551 316
+551 61
+551 93
+553 587
+553 588
+554 415
+554 408
+555 141
+555 49
+555 99
+555 344
+555 140
+557 435
+557 314
+561 360
+561 644
+562 97
+562 452
+562 152
+562 142
+562 241
+566 362
+568 684
+571 384
+571 350
+571 446
+571 204
+573 479
+576 217
+578 24
+581 483
+582 31
+582 450
+582 453
+583 427
+583 662
+583 340
+585 659
+588 328
+588 587
+588 553
+592 218
+592 506
+593 735
+593 494
+593 17
+596 418
+596 235
+598 369
+598 296
+598 278
+598 323
+600 113
+600 545
+600 621
+601 681
+601 210
+601 264
+601 233
+601 103
+605 385
+606 318
+606 150
+606 384
+608 202
+608 87
+609 598
+609 323
+609 230
+609 380
+609 369
+609 179
+609 296
+610 195
+612 192
+614 161
+614 318
+615 454
+615 240
+617 577
+618 230
+618 380
+618 369
+618 598
+618 179
+618 609
+620 161
+620 326
+621 113
+622 602
+623 637
+624 253
+624 121
+624 447
+625 415
+626 298
+631 328
+631 375
+634 74
+634 177
+636 419
+636 485
+636 479
+636 487
+636 329
+636 228
+637 342
+637 313
+637 436
+637 222
+637 236
+637 218
+638 367
+638 571
+638 350
+638 662
+638 583
+639 286
+639 112
+640 70
+640 2
+641 372
+641 95
+641 221
+642 242
+643 173
+643 244
+648 279
+649 59
+649 485
+652 485
+653 434
+654 110
+656 159
+658 49
+658 317
+658 141
+658 140
+658 3
+661 361
+661 485
+661 329
+666 272
+667 95
+667 513
+667 452
+667 649
+668 448
+669 222
+669 288
+669 436
+669 363
+669 218
+669 313
+669 236
+670 357
+671 147
+671 84
+679 256
+681 210
+681 264
+687 130
+687 16
+687 219
+687 274
+687 185
+687 204
+690 443
+690 397
+692 393
+693 12
+694 247
+699 367
+699 120
+699 340
+699 662
+699 350
+699 427
+699 583
+699 447
+702 649
+702 95
+702 434
+702 513
+709 316
+709 277
+709 551
+712 54
+712 445
+712 438
+712 147
+712 38
+715 619
+715 241
+715 452
+715 754
+716 25
+721 141
+721 49
+721 140
+722 581
+723 414
+723 49
+723 240
+723 99
+723 104
+725 391
+725 317
+726 419
+727 95
+727 372
+727 221
+728 95
+728 641
+728 221
+728 372
+729 351
+730 459
+733 244
+739 240
+739 387
+740 749
+740 208
+741 73
+741 347
+743 164
+749 185
+751 518
+753 268
+754 207
+754 507
+755 342
+756 189
+756 119
+759 414
+760 394
+760 297
+760 392
+763 300
+764 251
+764 95
+767 435
+769 455
+770 141
+770 140
+770 49
+770 3
+770 658
+770 371
+#v "journal" s
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+"chem. mat."
+#v "title" s
+"Synthesis of Polyoxometalate-Pillared Layered Double Hydroxides via Calcined Precursors"
+"Solution/Gelation of Arsenic Trisulfide in Amine Solvents"
+"Synthesis, Characterization, Theoretical Modeling, and Polymerization of New Fluorophore-Containing Derivatives of Thiophene and Pyrrole"
+"Laser-Induced Deposition of Copper from (Triethylphosphine)cyclopentadienyl-copper(I)"
+"Morphological Control of Electropolymerization on Porous Substrates"
+"Oxidation-Reduction of Pb(2)Sr(2)Ln(1-x)M(x)Cu(3-y)Ag(y)O(8+delta)"
+"Heterogeneous Cross-Linking of Polymer Latexes"
+"Formation of Boron Nitride Coatings on Metal Oxides"
+"Reactions of CO and NO over La(2-x)A(x)' Cu1-yBy ' O-4 center dot A K2NiF4-Type Mixed Oxide"
+"Nematic Phases in Ionic Melts: Mesogenic Ionic Complexes of Silver(I)"
+"Unusual Crystal Growth Morphologies in the Niobium-Selenium System"
+"Molecular Assemblies in Discotic Mesophases and Langmuir-Blodgett Films of 1,4,8,11,15,18,22,25-Octasubstituted Phthalocyanines"
+"Hydrogen-Bond Directed Cocrystallization as a Tool for Designing Acentric Organic Solids"
+"Influence of Oxygen Partial Pressure on the Synthesis of Ba2YCu3O7 from a Novel Oxalate Precursor"
+"Dibromoborane-Dimethyl Sulfide: A Simple Molecular Precursor for the Formation of Bulk Powders and Fiber Coatings of Boron Nitride"
+"In Situ Pore Structure Studies of Xerogel Drying"
+"Organometallic Azides as Precursors for Aluminum Nitride Thin Films"
+"Preparation and Structure of Aluminosilicate Aerogels"
+"Preparation of Polymer Composites. A Colloidal Pathway"
+"Polyphosphazene Electrolytes for Lithium Batteries"
+"Structural Trends in Potential Organic Conductors Based on (Donor-CH2)(2) Tetracyanoquinodimethane Molecules"
+"Electrocatalytic Reduction of CO2 by Thin Polymeric Films Containing Metallic Rhodium"
+"Physical and Electrical Characterization of Poly[bis((methoxyethoxy)ethoxy)phosphazene]-Metal Polyiodide Complexes"
+"Growth of Polycrystalline CaF2 via Low-Temperature Organometallic Chemical Vapor Deposition"
+"The New Borate (SrSc)-Sc-3(BO3)(3)"
+"Defect Formation in Ag(I)-, Pb(II)-, Sn(II)-, and Bi(III)-/beta ''-Aluminas"
+"Cryptate Effects on Sodium-Conducting Phosphazene Polyelectrolytes"
+"Chromatographic Investigation of the Structure, Crystallinity, and Complexation of a Conducting Polymer, P(EO)(x)LiCF3SO3"
+"Effect of Cation Substitution on the TaTe2 Distortion"
+"Chemical Basis for Adhesion. Interaction of Chromium with Polyimide: Model Studies"
+"Deep Anisotropic Etching of Tapered Channels in (110)-Oriented Silicon"
+"Stabilization of Strontium Analogues of Barium Yttrium Cuprate Perovskites via Chemical Substitution"
+"A New Amorphous Magnetic Material: Fe-5(InTe4)(2)"
+"X-Ray Photoelectron Spectroscopic Studies of Carbon Fiber Surfaces. 10. Valence-Band Studies Interpreted by X-alpha Calculations and the Differences between Poly (acrylonitrile)- and Pitch-Based Fibers"
+"Deposition of Silicon Carbonitride Films Using Methylsilazane"
+"Step Coverage Prediction in Low-Pressure Chemical Vapor Deposition"
+"Formation of Particulate Opaque Silica Gels from Highly Acidic Solutions of Tetramethoxysilane"
+"New Luminescent Materials"
+"Nonaqueous Perfluorocarbon-Derived Gold Colloids. Clustering of Metal Atoms in Fluorocarbon Media"
+"Effect of Oxygen Stoichiometry on the Superconductivity of Pb2Sr2Y1-xCaxCu3O8+delta"
+"Synthetic Study of Three Cesium Zirconates. Crystal Structure of Cs2ZrO3"
+"Uniform Colloidal Zinc Compounds of Various Morphologies"
+"Crystal Growth and Phase Selectivity of Organic Superconductors [beta-(ET)(2)I-3 (T-c=1.5 K) and kappa-(ET)(2)Cu(NCS)(2) (T-c=10.4 K)] on Graphite Electrodes"
+"Solid-State Voltammetric Measurement of Plasticization Transport Enhancement in Ionically Conducting Poly(ethylene oxide) Films"
+"Semiconducting Organometallics: Electrical Conducting Behavior of Fe(CO)(3)(diene) Doped with Iodine and Their Fe-57 Mossbauer Spectroscopic Studies"
+"Chemical Vapor Deposition of Gallium Nitride from Diethylgallium Azide"
+"Deep-UV Lithographic Response and Quantum Efficiency Calculations of Poly((trimethylsilyl)methyl methacrylate-(chloromethyl)styrene) Copolymers"
+"Analysis of Anodic Oxide Films on Niobium"
+"Anodic Electrosynthesis of CdTe Thin Films"
+"Chemical Vapor Deposition of Copper and Copper Oxide Thin Films from Copper(I) tert-Butoxide"
+"Doping of CuInSe2 Crystals: Evidence for Influence of Thermal Defects"
+"Preparation of Boron-Containing Ceramic Materials by Pyrolysis of the Decaborane(14) -Derived [-B10H12 center dot Ph2POPPh2](x)- Polymer"
+"Crystal Growth and Substitutional Chemistry of Pb2Sr2MCu3O8"
+"A Surface Characterization and Depth Profiling Study of Conventional Electrodeposited Chromium Films. 3"
+"Preparation and Structure of Platinum Group Metal Colloids: Without Solvent"
+"Valence Control, Reactivity of Oxygen, and Catalytic Activity of La2-xSrxCoO4"
+"Structural Order and Orientation of Organometallic Pillars on Synthetic Fluorhectorite and Montmorillonite Surfaces"
+"Silicon-29 Magic-Angle Spinning Nuclear Magnetic Resonance Spectroscopy of Sintered Silicon Nitride Ceramics"
+"Preparation and Characterization of Uniform Submicrometer Lead Titanate Particles"
+"Radiation Cross-Linking of Poly[bis(2-(2-methoxyethoxy)ethoxy)phosphazene]: Effect on Solid-State Ionic Conductivity"
+"Intraalloy Electron Transfer and Catalyst Performance: A Spectroscopic and Electrochemical Study"
+"Wrapping Oligomers and Polymers around Metal Atoms, Metal Clusters, and Metal Colloids"
+"Chemistry of Materials-The Newest ACS Journal"
+"Voltammetric Studies of Polymer Matrix Immunosensor Electrodes"
+"Y Chemisorbed Phospholipid Monolayers on Gold: Well-Defined and Stable Phospholipid Surfaces for Cell Adhesion Studies"
+"Pillaring Puckered Layer Silicates"
+"Effect of Starting Particle Size and Vacuum Processing on the YBa2Cu3Ox Phase Formation"
+"Aryl-Bridged Polysilsesquioxanes-New Microporous Materials"
+"How C-C Bonds Are Formed and How They Influence Structural Choices in Some Binary and Ternary Metal Carbides"
+"Low-Temperature Hydrolysis (Oxidation) of Plasma-Deposited Silicon Nitride Films"
+"Water-Soluble Self-Doped 3-Substituted Polypyrroles"
+"Channel Inclusion Complexation of Organometallics: Dipolar Alignment for Second Harmonic Generation"
+"Third-Order Susceptibilities of Soluble Polymers Derived from the Ring-Opening Metathesis Copolymerization of Cyclooctatetraene and 1,5-Cyclooctadiene"
+"Synthetic Approaches to Head-to-Tail Linked Azo Dyes for Nonlinear Optical Applications"
+"Metal complexes in inorganic matrixes. 4. Small metal particles in palladium-silica composites by sol-gel processing of metal complexes"
+"Molecular Cluster Model of the Electronic Structure of Substitutional Impurities in Gallium Arsenide"
+"Structural, Chemical, and Physical Properties of Rare-Earth Metal Rhodium Carbides LnRhC(2) (Ln = La, Ce, Pr, Nd, Sm)"
+"Ethylene Analogues of Tetrathiafulvalene and Tetraselenafulvalene: New Donors for Organic Metals"
+"Formation of Polyimide/Substrate Interfaces: Investigation of Interfacial Chemistry of Polyamic Acid with Surfaces of Silicon, Copper, and Chromium"
+"Synthesis of Cyclic Siloxanes by the Thermal Depolymerization of Linear Poly(siloxanes)"
+"Synthesis, Characterization, and Electropolymerization of Nickel(II) Macrocyclic Compounds Containing Pendant N-Alkylpyrrole Substituents"
+"A Puckered Layered Silicate, KHSi2O5: Hydrolysis Products and Alkylammonium Intercalated Derivatives"
+"Surface-Modified Electrodes Based on Nickel(II) and Copper(II) Bis(salicylaldimine) Complexes"
+"Electronic Transmission Coefficient as a Tool for the Analysis of the Effect of Impurities and Defects on the Electronic Structure of Polymers"
+"Structural Investigation of the Hydrolysis-Condensation Process of Titanium Alkoxides Ti(OR)(4) (OR = OPri, OEt) Modified by Acetylacetone. 1. Study of the Alkoxide Modification"
+"High-Energy Resolution X-ray Photoelectron Spectroscopy Studies of Tetracyanoquinodimethane Charge-Transfer Complexes with Copper, Nickel, and Lithium"
+"A Designed Fluid Cracking Catalyst with Vanadium Tolerance"
+"Centrosymmetric Crystals as Host Matrices for Second-Order Optical Nonlinear Effects"
+"From Molecules to Thin Solid Films: Vibrational Characterization of Evaporated Organic Films"
+"An Intrinsically Photosensitive Polyimide"
+"Role of High-Resolution Electron Microscopy in the Identification and Characterization of New Crystalline, Microporous Materials: "Reading Off" the Structure and Symmetry Elements of Pentasil Molecular Sieves"
+"A New Molecular Metal: (NHMe3)(0.5)[Ni(dmit)(2)] (dmit=4,5-Dimercapto-1,3-dithia-2-thione)"
+"Effect of Ion Bombardment on the Chemical Reactivity of Gallium Arsenide(100)"
+"Colloidal Metal Particles Dispersed in Monomeric and Polymeric Styrene and Methyl Methacrylate"
+"Ultrasonic Irradiation of Copper Powder"
+"Poled Polymeric Nonlinear Optical Materials. Enhanced Second Harmonic Generation Stability of Cross-Linkable Matrix/Chromophore Ensembles"
+"Polyquinoline-Supported Ruthenium Catalysts: Selective Oxidation of Alcohols with Coated Electrodes"
+"Copper/Polyimide Multilayered Composites"
+"Temperature-Programmed Desorption of Pyridine on Silica Overlayers Deposited on ZrO2 and TiO2 by Chemical Vapor Deposition of Si(OC2H5)(4)"
+"Trimethylamine Complexes of Alane as Precursors for the Low-Pressure Chemical Vapor Deposition of Aluminum"
+"Gibbs Energies of Formation of CuYO2 and Cu2Y2O5 and Phase Relations in the System Cu-Y-O"
+"New Route to Graphite Flakes and Films: Pyrolysis of Aromatic and Heteroaromatic Compounds under Dehydrogenation Conditions"
+"Silver Substitution in Pb2Sr2Y1-yCayCu3O8 (y=0, 0.25)"
+"Alkaline-Earth-Metal Antimonides and Bismuthides with the A(5)Pn(3) Stoichiometry. Interstitial and Other Zintl Phases Formed on Their Reactions with Halogen or Sulfur"
+"Decomposition of Trimethylaluminum on Si(100)"
+"Structure Determination of Substituted Rutiles by Time-of-Flight Neutron Diffraction"
+"Structural Investigation of the Hydrolysis-Condensation Process of Titanium Alkoxides Ti(OR)(4) (OR = OPri 2, OEt) Modified by Acetylacetone. 2. From the Modified Precursor to the Colloids"
+"Synthesis and Oxygen Reactive Ion Etching of Novolac-Siloxane Block Copolymers"
+"Oxide Ion Conductivity in Ln(5)Mo(3)O(16+x) (Ln = La, Pr, Nd, Sm, Gd; x similar to 0.5) with a Fluorite-Related Structure"
+"Electronic Structure of a New Ternary Chalcogenide: NbNiTe5"
+"Pillaring of a Layered Double Hydroxide by Polyoxometalates with Keggin-Ion Structures"
+"Synthesis and Crystal, Molecular, and Electronic Structure of the Organosulfur pi-Electron-Donor 2-(Thiopyran-4 '-ylidene)-1,3-dithiole"
+"Syntheses, Structures, Selected Physical Properties, and Band Electronic Structures of the Bis (ethylenediseleno) tetrathiafulvalene Salts (BEDSe-TTF)(2)X, X- = I-3(-), Aul(2)(-), and IBr2-"
+"The Potassium Titanyl Phosphate Structure Field: A Model for New Nonlinear Optical Materials"
+"Short- and Long-Range Order in Na(I)-Eu(II) beta ''-Alumina"
+"Selective Syntheses of FeTe and FeTe2 from Organometallic Precursors. Synthesis and Pyrolysis of [Cp(Et3P)(CO)Fe](2)(Te)(n)"
+"Particle Size Determination of Cobalt Clusters in Zeolites"
+"Angularly Resolved Second Harmonic Generation Study of the Air-Formed Oxide on Iron"
+"Use of Tris(trimethylsilyl)arsine To Prepare Gallium Arsenide and Indium Arsenide"
+"Silicon-29 Magic-Angle Spinning Nuclear Magnetic Resonance Study of Some Lanthanum and Yttrium Silicon Oxynitride Phases"
+"Preparation of a Polymeric Precursor to Silicon Carbide via Ring-Opening Polymerization: Synthesis of Poly[(methylchlorosilylene)methylene] and Poly(silapropylene)"
+"Dimethyldiethoxysilane/Tetraethoxysilane Copolymers: Precursors for the Si-C-O System"
+"High-Resolution Electron Microscopy and Image Simulation of TT-, T-, and H-Niobia and Model Silica-Supported Niobium Surface Oxides"
+"Thermal Expansion of Pb2Sr2Y1-xCaxCu3O8+delta"
+"Model of Laser-Induced Deposition on Semiconductors from Liquid Electrolytes"
+"Potential Dependence of the Relative Conductivity of Poly(3-methylthiophene): Electrochemical Reduction in Acetonitrile and Liquid Ammonia"
+"Comparison of Supramolecular Aggregate Structure and Spectroscopic and Photoelectrochemical Properties of Tetravalent and Trivalent Metal Phthalocyanine Thin Films"
+"NICKEL PASSIVATION IN ACIDIC CHLORIDE SOLUTION USING OPTICAL .2. HARMONIC-GENERATION"
+"LEWIS ACID COMPLEXATION OF POLYMERS - GALLIUM CHLORIDE COMPLEX OF NYLON-6"
+"INTERACTIONS OF WATER-SOLUBLE PORPHYRINS AND METALLOPORPHYRINS WITH SMECTITE CLAY SURFACES"
+"MOLTEN ALKALI-METAL POLYCHALCOGENIDES AS REAGENTS AND SOLVENTS FOR THE SYNTHESIS OF NEW CHALCOGENIDE MATERIALS"
+"IS THERE A ROLE FOR ORGANIC MATERIALS CHEMISTRY IN NONLINEAR OPTICS AND PHOTONICS"
+"GROWTH AND REACTIVITY OF CUCL ON SI(111)"
+"OXIDATION REDUCTION REACTIONS FOR PREPARATION OF [TI(OC6H4O)2]N AND RELATED METALLOQUINONE POLYMERS - HYBRID INORGANIC ORGANIC METAL-OXIDES"
+"REACTIVITY OF METAL-OXIDES CU2O, MNO, COO, NIO, CUO, AND ZNO WITH INDIALITE"
+"ELECTRICALLY CONDUCTIVE POLYMER ULTRA-HIGH-MODULUS POLYMER ALLOYS - A SOLUTION PROCESSING ROUTE TO HYBRID FIBERS OF KEVLAR POLYPYRROLE"
+"NOVEL REDOX PROPERTIES OF THE PARAMAGNETIC HEXANUCLEAR NIOBIUM CLUSTER HALIDE NB6CL18(3-) AND THE PREPARATION, STRUCTURES, AND CONDUCTING AND MAGNETIC-PROPERTIES OF ITS ONE-DIMENSIONAL MIXED-VALENCE TETRAMETHYLTETRA(SELENA AND THIA)FULVALENIUM SALTS - [TMTSF AND TMTTF]5[NB6CL18].(CH2CL2)0.5"
+"A 2ND-ORDER NONLINEAR OPTICAL POLY(ORGANOPHOSPHAZENE)"
+"PERMEABILITY OF METHYL-METHACRYLATE GRAFTED CELLULOSE TRIACETATE MEMBRANE"
+"PREPARATION AND PYROLYSIS OF A POLYMERIC PRECURSOR FOR THE FORMATION OF TIN-TIC SOLID-SOLUTIONS"
+"LOW-TEMPERATURE CHEMICAL VAPOR-DEPOSITION OF HIGH-PURITY COPPER FROM AN ORGANOMETALLIC SOURCE"
+"CHEMICAL VAPOR-DEPOSITION OF COPPER FROM COPPER(I) TRIMETHYLPHOSPHINE COMPOUNDS"
+"FORMATION OF ORIENTED IRON-OXIDE PARTICLES IN CAST MULTIBILAYER FILMS"
+"EFFECT OF SOLVENTS ON THE HYDROLYSIS REACTION OF TETRAMETHYL ORTHOSILICATE"
+"SYNTHESIS OF THIN-FILMS BY ATMOSPHERIC-PRESSURE CHEMICAL VAPOR-DEPOSITION USING AMIDO AND IMIDO TITANIUM(IV) COMPOUNDS AS PRECURSORS"
+"SYNTHESIS AND CHARACTERIZATION OF LEAD(II) IODIDE GROWN IN SPACE"
+"CHARACTERIZATION OF AMORPHOUS HYDROGENATED CARBON USING SOLID-STATE NUCLEAR-MAGNETIC-RESONANCE SPECTROSCOPY"
+"MAGNETIC-PROPERTIES OF NANOMETER-SCALE IRON PARTICLES GENERATED BY IRON ATOM CLUSTERING IN COLD PENTANE"
+"ELECTROCHROMIC MOLYBDENUM TRIOXIDE THIN-FILM PREPARATION AND CHARACTERIZATION"
+"HYDROTHERMAL SYNTHESIS AND SINGLE-CRYSTAL STRUCTURAL CHARACTERIZATION OF V2O4(C6H5ASO3H).H2O"
+"INFLUENCE OF DIFFERENT ORGANIC SIDE GROUPS ON THE THERMAL-BEHAVIOR OF POLYPHOSPHAZENES - RANDOM CHAIN CLEAVAGE, DEPOLYMERIZATION, AND PYROLYTIC CROSS-LINKING"
+"CHARACTERIZATION OF A NOVOLAC-BASED 3-COMPONENT DEEP-UV RESIST"
+"SYNTHESIS AND CHARACTERIZATION OF MAGNETIC IRON-MODIFIED POLYIMIDE FILMS"
+"ORGANOSILICON POLYMERS - SYNTHESIS OF POLY[(SILANYLENE)DIETHYNYLENE]S WITH CONDUCTING PROPERTIES"
+"STRUCTURAL TRANSFORMATION OF NONOXIDE CHALCOGENIDE GLASSES - THE SHORT-RANGE ORDER OF LI2S-P2S5 GLASSES STUDIED BY QUANTITATIVE P-31 AND LI-6,7 HIGH-RESOLUTION SOLID-STATE NMR"
+"ORGANOMETALLIC ACCEPTORS IN MOLECULAR-BASED MATERIALS - FIELD-DEPENDENT MAGNETIC-BEHAVIOR OF AN ORGANOVANADIUM CHARGE-TRANSFER SALT"
+"FORMATION OF GRAPHITE FLAKES FROM AROMATIC PRECURSORS - A COMPARISON OF BENZENE-DERIVED AND TRIPHENYLENE-DERIVED GRAPHITES"
+"STRUCTURE AND PROPERTIES OF SN(II)-BETA''-ALUMINA"
+"INSITU DETERMINATION OF THE EFFECTS OF CO2 AND OTHER VOLATILE IMPURITIES ON YBA2CU3O7-X"
+"RECTIFYING BILAYER ELECTRODES - LAYERED CONDUCTING POLYMERS ON PLATINUM"
+"AM1 STUDY OF HYDROGEN-BONDED MIXED DIMERS OF SUBSTITUTED BENZOIC-ACIDS"
+"THERMALLY INDUCED BORAZINE DEHYDROPOLYMERIZATION REACTIONS - SYNTHESIS AND CERAMIC CONVERSION REACTIONS OF A NEW HIGH-YIELD POLYMERIC PRECURSOR TO BORON-NITRIDE"
+"CONVERGENT SYNTHESIS OF MONODISPERSE DENDRIMERS BASED UPON 1,3,5-TRISUBSTITUTED BENZENES"
+"INSITU PHOTODEGRADATION OF SNBR2"
+"EFFECT OF SILICA ON THE THERMAL-DEGRADATION OF POLY(VINYL BUTYRAL)"
+"LOW-DIMENSIONAL ORGANOMETALLIC ELECTRON-TRANSFER COMPLEXES - X-RAY STRUCTURES AND MAGNETIC-PROPERTIES OF ALPHA-[CR(C6ME3H3)2].+[TCNQ].- AND BETA-[CR(C6ME3H3)2].+[TCNQ].-"
+"CORRECTIION"
+"ACID FORMATION AND DEPROTECTION REACTION BY NOVEL SULFONATES IN A CHEMICAL AMPLIFICATION POSITIVE PHOTORESIST"
+"CHARACTERIZATION OF A SOLID-STATE MICROELECTROCHEMICAL DIODE EMPLOYING A POLY(VINYL ALCOHOL) PHOSPHORIC-ACID SOLID-STATE ELECTROLYTE - RECTIFICATION AT JUNCTIONS BETWEEN WO3 AND POLYANILINE"
+"KINETIC-MODEL FOR METAL ORGANIC-CHEMICAL VAPOR-DEPOSITION OF GAAS WITH ORGANOMETALLIC ARSENIC PRECURSORS"
+"X-RAY PHOTOELECTRON SPECTROSCOPIC STUDIES OF CARBON-FIBER SURFACES .11. DIFFERENCES IN THE SURFACE-CHEMISTRY AND BULK STRUCTURE OF DIFFERENT CARBON-FIBERS BASED ON POLY(ACRYLONITRILE) AND PITCH AND COMPARISON WITH VARIOUS GRAPHITE SAMPLES"
+"KINETICS AND MECHANISM OF THE CRYSTALLIZATION OF MG2AL4SI5O18 (CORDIERITE) FROM MGAL2O4 AND SIO2 IN THE PRESENCE OF A BISMUTH OXIDE FLUX"
+"RAMAN-SPECTROSCOPY OF CARBON MATERIALS - STRUCTURAL BASIS OF OBSERVED SPECTRA"
+"PREPARATION AND CHARACTERIZATION OF COPPER-THORIUM OXIDE CATALYSTS .1. SOLID-SOLUTION OF COPPER(II) IN THORIA - AN ESR STUDY"
+"CHEMISTRY OF MATERIALS - THE 2ND YEAR"
+"SQUARYLIUM DYE-DOPED POLYMER SYSTEMS AS QUADRATIC ELECTROOPTIC MATERIALS"
+"NEAR-INFRARED DYES - AN AIR-STABLE RADICAL-ANION"
+"HOMOGENEOUS DEPOSITION OF PALLADIUM(O) INTO SOL GEL-DERIVED MATERIALS"
+"SYNTHESIS AND PHASE-TRANSITIONS OF 4-(DODECYLOXY)BENZAMIDE DERIVATIVES OF AZACROWNS [14]-N4 AND [18]-N6"
+"OPTICAL 3RD HARMONIC RESPONSE OF AMORPHOUS POLY(3-METHYL-4'-OCTYL-2,2'-BITHIOPHENE-5,5'-DIYL) THIN-FILMS"
+"AMORPHOUS METALLIC POWDERS PREPARED BY CHEMICAL-REDUCTION OF METAL-IONS WITH POTASSIUM BOROHYDRIDE IN AQUEOUS-SOLUTION"
+"CONDUCTIVE POLYMER - OXIDE BRONZE NANOCOMPOSITES - INTERCALATED POLYTHIOPHENE IN V2O5 XEROGELS"
+"ELECTRON-MICROSCOPY STUDY OF DELAMINATION IN DISPERSIONS OF THE PEROVSKITE-RELATED LAYERED PHASES K[CA2NAN-3NBNO3N+1] - EVIDENCE FOR SINGLE-LAYER FORMATION"
+"SODIUM INSERTION REACTIONS INTO V6O13 SINGLE-CRYSTALS"
+"HOMOCHIRAL AND HETEROCHIRAL POLYESTERS - POLYMERS DERIVED FROM MANDELIC-ACID"
+"GROWTH AND CHARACTERIZATION OF GALLIUM-ARSENIDE USING SINGLE-SOURCE PRECURSORS - OMCVD AND BULK PYROLYSIS STUDIES"
+"ALKALI-METAL-FREE CARBONATE COPRECIPITATION - AN EFFECTIVE SYNTHETIC ROUTE TO BISMUTH-BASED OXIDE SUPERCONDUCTORS"
+"ADSORPTION OF NITRIC-OXIDE, NITROUS-OXIDE, AND OXYGEN ON ION-BOMBARDED GALLIUM ARSENIDE(100)"
+"ON THE TEMPLATING OF CURVATURE IN ZEOLITES"
+"SYNTHESIS AND MAGIC-ANGLE SPINNING NUCLEAR-MAGNETIC-RESONANCE OF 15N-ENRICHED SILICON NITRIDES"
+"PHOTO-CROSS-LINKABLE LIQUID-CRYSTALLINE SIDE-CHAIN POLYSILOXANES"
+"SYNTHESIS OF NEW ORGANIC INORGANIC HYBRID GLASSES"
+"SYNTHESIS AND CHARACTERIZATION OF ALKALINE-EARTH INDIUM SULFIDES"
+"SYNTHESIS, CHARACTERIZATION, AND IODINE DOPING OF A SOLUBLE POLYAZINE - THE PROPYL METHYL-SUBSTITUTED DERIVATIVE"
+"SYNTHESIS OF BORON-NITRIDE CERAMICS FROM OLIGOMERIC PRECURSORS DERIVED FROM 2-(DIMETHYLAMINO)-4,6-DICHLOROBORAZINE"
+"BULK AND NANOSTRUCTURE GROUP-II-VI COMPOUNDS FROM MOLECULAR ORGANOMETALLIC PRECURSORS"
+"CA1-XCUO2, A NACUO2-TYPE RELATED STRUCTURE"
+"MATERIAL DESIGN OF ORGANIC THIN-FILMS FOR BIPOLAR CHARGE TRANSPORT"
+"FERROCENE POLYMERS WITH POLYANILINE BACKBONES"
+"INCOMMENSURATE MODULATIONS IN THE PB-DOPED BISRCACUO 221 SUPERCONDUCTING PHASE - A 5-DIMENSIONAL SUPERSPACE DESCRIPTION"
+"DEFECT LEVEL IDENTIFICATION IN CUINSE2 FROM PHOTOLUMINESCENCE STUDIES"
+"SOME PHYSICAL-PROPERTIES OF UNDOPED AMORPHOUS-SILICON PREPARED BY A NEW CHEMICAL VAPOR-DEPOSITION PROCESS USING IODOSILANES"
+"2ND HARMONIC-GENERATION BY THE SELF-AGGREGATION OF ORGANIC GUESTS IN MOLECULAR-SIEVE HOSTS"
+"A NEW GENERAL-METHOD FOR PREPARATION OF PENTAFLUOROSULFUR-SUBSTITUTED FLUOROCARBONS - SYNTHESIS OF PERFLUORONEOPENTYLSULFUR PENTAFLUORIDE USING ELEMENTAL FLUORINE AS A REAGENT"
+"N,N'-BIS(TRIETHYLALUMINIO)ETHYLENEDIAMINE-DERIVED AND N,N'-BIS(TRIMETHYLALUMINIO)ETHYLENEDIAMINE-DERIVED ORGANOMETALLIC PRECURSORS TO ALUMINUM NITRIDE - SYNTHESES, STRUCTURES, AND PYROLYSES"
+"UNEXPECTED HYDROGEN-BONDING IN THE CRYSTAL-STRUCTURE OF (4-CHLOROPHENYL)PROPIOLIC ACID - ROLE OF C-H O HYDROGEN-BONDS IN DETERMINING O-H O NETWORKS"
+"ELECTROCRYSTALLIZATION OF BRUSHITE COATINGS ON PROSTHETIC ALLOYS"
+"PREPARATION OF ULTRATHIN, SIZE-QUANTIZED SEMICONDUCTOR PARTICULATE FILMS AT ORIENTED MONO[(VINYLBENZYL)PHOSPHONATE] AND POLY[(VINYLBENZYL)PHOSPHONATE] INTERFACES AND THEIR CHARACTERIZATION ON SOLIDS"
+"APPLICATION OF SPECIFIC DEUTERIUM LABELING AND NUCLEAR-MAGNETIC-RESONANCE SPECTROSCOPY TO THE STUDY OF THE MECHANISM OF PYROLYSIS OF TERT-BUTYLARSINE AND TERT-BUTYLARSINE-D2"
+"SURFACE STUDIES OF POTENTIALLY PROTECTIVE FILMS ON GADOLINIUM"
+"THE ZIRCONIUM-TIN SYSTEM, WITH PARTICULAR ATTENTION TO THE ZR5SN3-ZR5SN4 REGION AND ZR4SN"
+"SEMICONDUCTING AND OPTICALLY POLARIZING POLY(NICKEL TETRATHIOOXALATE) POLY(VINYL ALCOHOL) COMPOSITES"
+"IMPORTANCE OF ENERGETICS IN THE DESIGN OF SMALL BANDGAP CONDUCTING POLYMERS"
+"PRESSURE-INDUCED ENHANCEMENT OF THE FERROMAGNETIC INTERMOLECULAR INTERACTION OF AN ALPHA-NITRONYL NITROXIDE ORGANIC RADICAL"
+"INFLUENCE OF CRYPTANDS AND CROWN ETHERS ON ION-TRANSPORT AND VIBRATIONAL-SPECTRA OF POLYMER-SALT COMPLEXES"
+"MOLTEN-SALT SYNTHESIS OF LOW-DIMENSIONAL TERNARY CHALCOGENIDES - NOVEL STRUCTURE TYPES IN THE K/HG/S, K/HG/SE SYSTEM"
+"INFLUENCE OF ANNELATION ON THE ELECTRONIC-PROPERTIES OF PHTHALOCYANINE MACROCYCLES"
+"SYNTHESIS OF THE NEW HIGHEST TC AMBIENT-PRESSURE ORGANIC SUPERCONDUCTOR, K-(BEDT-TTF)2CU[N(CN)2]BR, BY 5 DIFFERENT ROUTES"
+"HYDROTHERMAL SYNTHESIS AND SINGLE-CRYSTAL STRUCTURAL CHARACTERIZATION OF THE LAYERED VANADIUM(IV) PHOSPHATE VOC6H5PO3.H2O"
+"PREPARATION OF INDIUM-ANTIMONIDE USING A SINGLE-SOURCE PRECURSOR"
+"LINEAR-CHAIN ORGANOMETALLIC ELECTRON-TRANSFER COMPLEXES - SYNTHESIS, CRYSTAL-STRUCTURES, AND MAGNETIC-PROPERTIES OF 1-1 AND 2-1 DECAMETHYLFERROCENIUM SALTS OF TRIS[BIS(TRIFLUOROMETHYL)ETHYLENE-1,2-DITHIOLATO]MOLYBDATE ANIONS"
+"CHROMOPHORE-FUNCTIONALIZED POLYMERIC THIN-FILM NONLINEAR OPTICAL-MATERIALS - EFFECTS OF IN SITU CROSS-LINKING ON 2ND HARMONIC-GENERATION TEMPORAL CHARACTERISTICS"
+"SYNTHESIS OF NEW LAMELLAR IRON(III) PHOSPHONATES"
+"MOLECULAR AND MACROSCOPIC 2ND-ORDER OPTICAL NONLINEARITIES OF SUBSTITUTED DINITROSTILBENES AND RELATED-COMPOUNDS"
+"PREPARATION OF HIGH-SURFACE-AREA TRANSITION-METAL NITRIDES - MO2N AND MON"
+"PRESSURE-DEPENDENCE OF THE RAMAN-SPECTRA OF QUASI-ONE-DIMENSIONAL MIXED-VALENCE SEMICONDUCTORS AND RELATED COMPLEXES"
+"EFFECTS OF ION-BOMBARDMENT ON THE CHEMICAL-REACTIVITY OF GAAS(100) - VARIATION OF BOMBARDING ION MASS"
+"2ND-ORDER OPTICAL NONLINEARITIES AND PHOTOSTABILITIES OF 2-N-METHYLSTILBAZOLIUM SALTS"
+"BIS(PERFLUOROPHENYL) AZIDES - EFFICIENT CROSS-LINKING AGENTS FOR DEEP-UV AND ELECTRON-BEAM LITHOGRAPHY"
+"DIFFUSION OF CESIUM ION IN SIO2-FILMS DERIVED FROM SOL-GEL PRECURSORS"
+"STUDIES OF 3RD-ORDER OPTICAL NONLINEARITIES OF MODEL COMPOUNDS CONTAINING BENZOTHIAZOLE, BENZIMIDAZOLE, AND BENZOXAZOLE UNITS"
+"EFFECT OF OXYGEN STOICHIOMETRY ON THE CRITICAL-TEMPERATURE AND THERMAL-EXPANSION OF 2-LAYER BISRCACU OXIDE SUPERCONDUCTORS"
+"X-RAY PHOTOELECTRON-SPECTROSCOPY STUDIES OF SOLVATED METAL ATOM DISPERSED CATALYSTS - MONOMETALLIC IRON AND BIMETALLIC IRON COBALT PARTICLES ON ALUMINA"
+"IMPURITY STABILIZATION OF PHASES WITH THE MN5SI3-TYPE STRUCTURE - QUESTIONS REGARDING LA5SN3 AND ZR5SI3"
+"PREPARATION AND CHARACTERIZATION OF BIMETALLIC PD-CU COLLOIDS BY THERMAL-DECOMPOSITION OF THEIR ACETATE COMPOUNDS IN ORGANIC-SOLVENTS"
+"HIGHLY ORGANIZED MOLECULAR ASSEMBLIES OF PORPHYRIN GUEST MOLECULES IN MICA-TYPE SILICATES - INFLUENCE OF GUEST HOST INTERACTIONS ON MOLECULAR-ORGANIZATION"
+"VANADYL BENZYLPHOSPHONATES AND VANADYL NAPHTHYLPHOSPHONATES - INTERCALATION REACTIONS WITH BUTANOLS"
+"CA4BI6O13 A COMPOUND CONTAINING AN UNUSUALLY LOW BISMUTH COORDINATION-NUMBER AND SHORT BI BI CONTACTS"
+"O-17 NUCLEAR-MAGNETIC-RESONANCE STUDIES OF LANTHANUM STRONTIUM COPPER-OXIDE"
+"HYDROGEN PLASMA TREATED CALCIUM-FLUORIDE"
+"METALLABORANES AS MOLECULAR PRECURSORS TO THIN METAL BORIDE FILMS - CONVERSION OF HFE3(CO)9BH4 TO AMORPHOUS FE75B25"
+"MOLECULAR-LEVEL CERAMIC POLYMER COMPOSITES .1. SYNTHESIS OF POLYMER-TRAPPED OXIDE NANOCLUSTERS OF CHROMIUM AND IRON"
+"STRUCTURAL INVESTIGATION OF LITHIUM-AMMONIA INTERCALATION COMPOUNDS OF TIS2"
+"SYNTHESIS OF METAL HYDROXIDE-LAYER SILICATE INTERCALATION COMPOUNDS (METAL = MG(II), CA(II), MN(II), FE(II), CO(II), NI(II), ZN(II), AND CD(II))"
+"PREPARATION AND CHARACTERIZATION OF COPPER THORIUM-OXIDE CATALYSTS .2. ESR STUDY OF COPPER(II) ION-PAIRS AND CORRELATION WITH THE SELECTIVE HYDROGENATION OF ISOPRENE"
+"NEW SYNTHESIS OF ARYL-SUBSTITUTED SULFONIUM SALTS AND THEIR APPLICATIONS IN PHOTOINITIATED CATIONIC POLYMERIZATION"
+"FRAGMENT FORMALISM IN MAIN-GROUP SOLIDS - APPLICATIONS TO ALB2, CAAL2SI2, BAAL4, AND RELATED MATERIALS"
+"CHARACTERIZATION OF THE ZRCO-HYDROGEN SYSTEM IN VIEW OF ITS USE FOR TRITIUM STORAGE"
+"GROWTH OF ZEOLITE CRYSTALLITES AND COATINGS ON METAL-SURFACES"
+"PREPARATION OF A NOVEL POLYMER BLEND OF POLY(ETHYLENE OXIDE) AND THE INORGANIC POLYMER (MO3SE3-)-INFINITY - INFRARED-ABSORPTION OF THIN-FILMS"
+"LADDER POLYMERS - RECENT DEVELOPMENTS IN SYNTHESES, CHARACTERIZATION, AND POTENTIAL APPLICATIONS AS ELECTRONIC AND OPTICAL-MATERIALS"
+"2ND HARMONIC-GENERATION BY MEROCYANINE IN MESOMORPHIC FILMS - AN ANOMALOUS ELECTROSTATIC-FIELD EFFECT"
+"STRUCTURAL INVESTIGATION OF LANGMUIR-BLODGETT-FILMS AND TUBULES OF 1,2-BIS(10,12-TRICOSADIYNOL)-SN-GLYCEROL-3-PHOSPHOCHOLINE (DC8,9PC) USING ELECTRON-DIFFRACTION TECHNIQUES"
+"SYNTHESIS AND HIGH-TEMPERATURE CHEMISTRY OF METHYLSILSESQUIOXANE POLYMERS PRODUCED BY TITANIUM-CATALYZED REDISTRIBUTION OF METHYLHYDRIDOOLIGOSILOXANES AND METHYLPOLYSILOXANES"
+"METALLOORGANIC LIQUID-CRYSTALS - BIS(N-ARYL-4-SUBSTITUTED SALICYLALDIMINE)NICKEL(II) AND BIS(N-ARYL-4-SUBSTITUTED SALICYLALDIMINE)COPPER(II) COMPLEXES"
+"ORDERING OF LA-3+ IONS IN THE BI-3+ SUBLATTICE OF LAYERED OXYCHLORIDE CATALYSTS"
+"AROMATIC HYDROCARBON INTERCALATES - SYNTHESIS AND CHARACTERIZATION OF IRON OXYCHLORIDE INTERCALATED WITH PERYLENE AND TETRACENE"
+"LUMINESCENCE EFFICIENCY OF IONS WITH BROAD-BAND EXCITATION IN LITHIUM LANTHANUM PHOSPHATE-GLASS"
+"SURFACE CHARACTERIZATION OF RADIO-FREQUENCY WATER PLASMA TREATED AND ANNEALED POLYCRYSTALLINE TIN OXIDE THIN-FILMS"
+"LANDAU THEORY OF SYMMETRY-BREAKING TRANSITIONS - A BASIS FOR CLARIFICATION OF DIFFRACTION STUDIES OF PHASE-BEHAVIOR"
+"MODELS AND POLYBORAZINE PRECURSORS FOR BORON-NITRIDE CERAMICS"
+"EUROPIUM INTERCALATION CHEMISTRY - NOVEL BEHAVIOR IN TIS2 PREPARED AT 500-DEGREES-C"
+"INTERCALATION CHEMISTRY OF LAYERED FEPS - AN APPROACH TOWARD INSULATING MAGNETS BELOW 90-K"
+"STRUCTURAL AND MAGNETIC CHARACTERIZATION OF ALPHA AND BETA-4,4'-(BUTADIYNE-1,4-DIYL)BIS(2,2,6,6-TETRAMETHYL-4-HYDROXYPIPERIDIN-1-OXYL) AND CHARACTERIZATION OF ITS THERMAL-DEGRADATION PRODUCT"
+"SUBSTITUTED W5SI3-TYPE AND ZR6AL2CO-TYPE PHASES FORMED IN THE ZIRCONIUM-ANTIMONY AND ZIRCONIUM-TIN SYSTEMS WITH IRON GROUP-METALS"
+"USE OF THIAZOLE RINGS TO ENHANCE MOLECULAR 2ND-ORDER NONLINEAR OPTICAL SUSCEPTIBILITIES"
+"MAGNETIC EXCHANGE INTERACTIONS IN ONE-DIMENSIONAL COOPER(II) COMPOUNDS"
+"PREPARATION AND CHARACTERIZATION OF CU2ZNGES4-YSEY"
+"HYDROTHERMAL SYNTHESIS OF SODIUM TUNGSTATES"
+"DIELECTRIC RESPONSE AND CONDUCTIVITY OF POLY(PROPYLENE OXIDE) SODIUM POLYIODIDE COMPLEXES - DISCUSSION OF CHARGE-TRANSFER BY AN ION RELAY MECHANISM"
+"RARE-EARTH IONS ADSORBED ONTO POROUS-GLASS - LUMINESCENCE AS A CHARACTERIZING TOOL"
+"VIBRATIONAL-SPECTRA AND PHASE-TRANSITIONS IN INTERCALATED LAYERED ALKYLAMMONIUM ZIRCONIUM-PHOSPHATES"
+"CRYSTAL-STRUCTURE OF A NEW LEAD ZINC ACETATE ALKOXIDE, PB2ZN2(C2H3O2)4(C3H7O2)4"
+"SOLID-PHASE EQUILIBRIA FOR METAL SILICON OXYGEN TERNARY-SYSTEMS .1. MG, CA, SR, AND BA"
+"CYCLOTRIGALLAZANE, [H2GANH2]3 - ITS PREPARATION, STRUCTURE, AND CONVERSION TO CUBIC GALLIUM NITRIDE AT 150-DEGREES-C"
+"ELECTRICAL-CONDUCTIVITY IN SOLID-SOLUTIONS OF LA5-XMXMO3O16.5+X/2 (M = CE-4+ AND TH-4+, 0.0-LESS-THAN-OR-EQUAL-TO-X-LESS-THAN-0.3) WITH A FLUORITE-RELATED STRUCTURE"
+"MORPHOLOGICAL AND COMPOSITIONAL CHARACTERIZATION OF COPPER COBALT SPINEL MADE BY MECHANOCHEMICAL REACTIONS"
+"PREPARATION, PURIFICATION, AND DENSIFICATION OF ZINC-SULFIDE POWDER FROM ORGANOMETALLICS"
+"MOLECULAR COMPOSITES OF RIGID-ROD POLYMERS IN THE MATRIX OF FLEXIBLE-COIL POLYMERS - PREPARATION OF THIN-FILM NONLINEAR OPTICAL-MATERIALS VIA SOLUBLE COMPLEXES"
+"SILICON DIMETHYLAMIDO COMPLEXES AND AMMONIA AS PRECURSORS FOR THE ATMOSPHERIC-PRESSURE CHEMICAL VAPOR-DEPOSITION OF SILICON-NITRIDE THIN-FILMS"
+"PREPARATION OF AN IRON NITRIDE FILM FROM A MOLECULAR TETRAIRON NITRIDO CLUSTER"
+"RESONANCE RAMAN EVIDENCE FOR ELECTRON AND HOLE DEFECT ASYMMETRY IN THE QUASI-ONE-DIMENSIONAL MIXED-VALENCE SOLID [PTII(ETHYLENEDIAMINE)2][PTIV(ETHYLENEDIAMINE)2CL2][C104]4"
+"LASER-INDUCED CONVERSION OF MOLECULAR PRECURSORS TO THIN-FILMS AND DEPOSITED LAYERS"
+"LANGMUIR-BLODGETT MANIPULATION OF ELECTRICALLY CONDUCTIVE POLYPYRROLES"
+"LIQUID-CRYSTAL BEHAVIOR IN IONIC COMPLEXES OF SILVER(I) - MOLECULAR-STRUCTURE MESOGENIC ACTIVITY RELATIONSHIP"
+"POLY(N-3-THENYLPHTHALIMIDE) - CONDUCTIVITY AND SPECTRAL PROPERTIES"
+"PREPARATION, STRUCTURE, AND MAGNETIC-PROPERTIES OF A TERNARY TETRATHIAFULVALENIUM SALT BASED ON A PARAMAGNETIC HEXANUCLEAR NIOBIUM CLUSTER HALIDE - (TTF+)2[(NB6CL18)3-][(C2H5)4N+][CH3CN], A UNIQUE MOLECULAR ROCK SALT WITH CHANNELS INCORPORATING A NEUTRAL ORGANIC-MOLECULE"
+"PREPARATION OF ELECTRICALLY CONDUCTING INDIUM TIN OXIDE THIN-FILMS BY HEAT-TREATMENT OF MIXED-METAL HYDROXIDE DISPERSION CONTAINING POLYMER BINDER"
+"SYNTHESIS OF AMIDE-FUNCTIONALIZED AND ESTER-FUNCTIONALIZED ZIRCONIUM PHOSPHONATES"
+"2ND-ORDER NONLINEARITIES AND CRYSTAL-STRUCTURE OF 2-METHOXY-4'-NITRO-(E)-STILBENE"
+"ULTRAVIOLET RADIATION-INDUCED CROSS-LINKING OF POLY[BIS(2-(2-METHOXYETHOXY)ETHOXY)PHOSPHAZENE]"
+"ION-BEAM STUDIES OF THE INTERCALATIVE ION-EXCHANGE MECHANISM IN MUSCOVITE MICA"
+"OXYGEN STOICHIOMETRY AND EXPANSION OF YBA2CU4O8"
+"PHOTOCHEMICAL VAPOR-DEPOSITION OF IRON COBALT THIN-FILMS - WAVELENGTH AND TEMPERATURE CONTROL OF FILM COMPOSITIONS"
+"SELECTIVE INCORPORATION AND AGGREGATION OF PYRENE IN A SEGMENTED POLY(URETHANE UREA) FILM AS REVEALED BY PICOSECOND TOTAL INTERNAL-REFLECTION FLUORESCENCE SPECTROSCOPY"
+"FORMATION OF ULTRATHIN METAL ISLAND PARTICULATE FILMS BY THE TRANSFER OF MONOLAYERS OF REVERSED MICELLE ENTRAPPED COLLOIDAL PARTICLES TO SOLID SUPPORTS"
+"3RD-ORDER NONLINEAR OPTICAL-PROPERTIES OF THIN-FILMS OF POLYANILINES AND POLY(O-TOLUIDINES)"
+"DESIGN, SYNTHESIS, CHARACTERIZATION, AND USE OF ALL-ORGANIC NONIONIC PHOTOGENERATORS OF ACID"
+"BIS(PARA-CHLOROCINNAMATE) ESTER OF 2,4-HEXADIYNE-1,6-DIOL - CRYSTALLOGRAPHIC AND SPECTROSCOPIC STUDIES OF AN UNREACTIVE CRYSTAL"
+"TEMPERATURE BEHAVIOR OF AN ESR COPPER(II) ION-PAIRS SPECTRUM FORMED BY 2 NONEQUIVALENT CU2+ IONS"
+"METAL-COMPLEXES IN INORGANIC MATRICES .7. NANOMETER-SIZED, UNIFORM METAL PARTICLES IN A SIO2 MATRIX BY SOL-GEL PROCESSING OF METAL-COMPLEXES"
+"STRUCTURES AND PROPERTIES OF NEW ZEOLITE X-TYPE ZINCOPHOSPHATE AND BERYLLOPHOSPHATE MOLECULAR-SIEVES"
+"DECOMPOSITION MECHANISMS OF TRIMETHYLANTIMONY AND REACTIONS WITH TRIMETHYLINDIUM"
+"COMPARISON OF SIMULTANEOUS AND PREIRRADIATION GRAFTING OF METHYL-METHACRYLATE ONTO A POROUS MEMBRANE"
+"PHOTOCHEMICAL PREPARATION OF CRYSTALLINE SILICON NANOCLUSTERS"
+"PREPARATION, CHARACTERIZATION, AND PYROLYSIS OF [-B10H12.DIAMINE]-N POLYMERS - A NEW ROUTE TO BORON-NITRIDE"
+"SELECTIVE LEACHING OF COPPER AND BARIUM FROM THE YBA2CU3O7-X SUPERCONDUCTOR BY CHELATING DIAMINES"
+"A MOLECULAR COMPOSITE BETWEEN PARTIALLY HYDROLYZED ALUMINUM CATIONS AND A LAYERED CALCIUM NIOBATE PEROVSKITE"
+"POLY(CARBOSILANE) PRECURSORS OF SILICON-CARBIDE - THE EFFECT OF CROSS-LINKING ON CERAMIC RESIDUE"
+"PREPARATION AND SURFACE-COMPOSITION OF TUNGSTEN CARBIDE POWDERS WITH HIGH SPECIFIC SURFACE-AREA"
+"HYDRATION OF SELECTED DIVALENT BETA''-ALUMINAS"
+"GROWTH AND CHARACTERIZATION OF THIN-FILMS OF THALLIUM(III) OXIDE BY ORGANOMETALLIC CHEMICAL VAPOR-DEPOSITION"
+"ELECTROCHEMICAL AND PHOTOELECTROCHEMICAL PROCESSES ON THIN-FILMS OF PERYLENETETRACARBOXYLIC DIANHYDRIDE"
+"ADSORPTION OF WELL-ORDERED ZIRCONIUM PHOSPHONATE MULTILAYER FILMS ON HIGH SURFACE-AREA SILICA"
+"NANOSCALE METAL-OXIDE PARTICLES AS CHEMICAL REAGENTS - HEATS OF ADSORPTION OF HETEROATOM-CONTAINING ORGANICS ON HEAT-TREATED MAGNESIUM-OXIDE SAMPLES OF VARYING SURFACE-AREAS"
+"FOURIER-TRANSFORM INFRARED SPECTROSCOPIC STUDY OF PREDEPOSITION REACTIONS IN METALLOORGANIC CHEMICAL VAPOR-DEPOSITION OF GALLIUM NITRIDE .2."
+"SYNTHESIS OF NORBORNENES CONTAINING TIN(II), TIN(IV), LEAD(II), AND ZINC(II) AND THEIR POLYMERIZATION TO GIVE MICROPHASE-SEPARATED BLOCK COPOLYMERS"
+"CHEMICAL VAPOR-DEPOSITION OF PLATINUM - NEW PRECURSORS AND THEIR PROPERTIES"
+"PROCESSIBLE PRECURSOR FOR BORON-NITRIDE COATINGS AND MATRICES"
+"IMPROVEMENTS IN THE STRUCTURE AND ADHESION OF ELECTRODEPOSITED THIN-FILM CDSE"
+"TOPOLOGICAL AND GEOMETRICAL CHARACTERIZATION OF SITES IN SILICON-CARBIDE POLYTYPES"
+"FORMATION OF DENSE BA0.86CA0.14TIO3 PARTICLES BY AEROSOL DECOMPOSITION"
+"NMR AND THEORETICAL INVESTIGATION OF CATION BINDING WITH SOL-GEL SILICATES"
+"3RD-ORDER OPTICAL NONLINEARITIES AND THEIR WAVELENGTH DISPERSION IN THIN-FILMS OF CONJUGATED RIGID-ROD POLYQUINOLINES AND A RANDOM COPOLYMER"
+"CONDUCTIVE POLYMERIC PORPHYRIN FILMS - APPLICATION IN THE ELECTROCATALYTIC OXIDATION OF HYDRAZINE"
+"PROPERTIES OF ION-EXCHANGE MEMBRANES COMBINED ANISOTROPICALLY WITH CONDUCTING POLYMERS .2. RELATIONSHIP OF ELECTRICAL POTENTIAL GENERATION TO PREPARATION CONDITIONS OF COMPOSITE MEMBRANES"
+"POLYMER-PRECURSOR ROUTES TO METAL BORIDES - SYNTHESES OF TIB2 AND ZRB2"
+"FOURIER-TRANSFORM INFRARED SPECTROSCOPIC STUDY OF PREDEPOSITION REACTIONS IN METALLOORGANIC CHEMICAL VAPOR-DEPOSITION OF GALLIUM NITRIDE"
+"AN IMIDE ANION RADICAL THAT DIMERIZES AND ASSEMBLES INTO PI-STACKS IN SOLUTION"
+"SULFONATION OF (ARYLOXY)PHOSPHAZENES AND (ARYLAMINO)PHOSPHAZENES - SMALL-MOLECULE COMPOUNDS, POLYMERS AND SURFACES"
+"DECOMPOSITION MECHANISMS OF TRIVINYLANTIMONY AND REACTIONS WITH TRIMETHYLGALLIUM"
+"SOFT CHEMICAL SYNTHESIS OF NEW COMPOUNDS WITH THE HEXAGONAL MOLYBDENUM OXIDE STRUCTURE"
+"HYDROLYSIS CONDENSATION PROCESS OF BETA-DIKETONATES-MODIFIED CERIUM(IV) ISOPROPOXIDE"
+"CHARGE TRANSPORT AND OPTICAL-PROPERTIES OF THE 1ST HIGHLY CONDUCTIVE ONE-DIMENSIONAL MOLECULAR-METAL CONTAINING FLUORIDE COUNTERIONS - (TSET)F0.25CL0.50"
+"PREPARATION OF PIGMENT FILMS ON AN AL SUBSTRATE BY A NOVEL THERMOINDUCED DEPOSITION METHOD"
+"INTERCALATION OF POLY(ETHYLENE OXIDE) IN V2O5 XEROGEL"
+"PLASMA-DEPOSITED POLYMERIC FILMS PREPARED FROM CARBONYL-CONTAINING VOLATILE PRECURSORS - XPS CHEMICAL DERIVATIZATION AND STATIC SIMS SURFACE CHARACTERIZATION"
+"LUMINESCENCE OF THE EU3+ ION IN ZR4+ COMPOUNDS"
+"MECHANISM OF NUCLEATION AND ATOMIC LAYER GROWTH OF ALN ON SI"
+"QUATERTHIOPHENEDIPHOSPHONIC ACID (QDP) - A RIGID, ELECTRON-RICH BUILDING BLOCK FOR ZIRCONIUM-BASED MULTILAYERS"
+"CONDENSATION POLYMERIZATION OF TETRAKIS(ETHYLAMINO)SILANE AND ITS THERMAL-DECOMPOSITION TO SI3N4/SIC CERAMICS"
+"VOLATILE BARIUM BETA-DIKETONATE POLYETHER ADDUCTS - SYNTHESIS, CHARACTERIZATION, AND METALLOORGANIC CHEMICAL VAPOR-DEPOSITION"
+"SYNTHESIS AND POLYMERIZATION OF PROPARGYLAMINE AND AMINOACETONITRILE INTERCALATION COMPOUNDS"
+"HETEROJUNCTIONS FORMED FROM PHTHALOCYANINE AND PERYLENE THIN-FILMS - PHOTOELECTROCHEMICAL CHARACTERIZATION"
+"CHEMICAL VAPOR-DEPOSITION OF COPPER FROM (HEXAFLUOROACETYLACETONATO)(ALKYNE)-COPPER(I) COMPLEXES VIA DISPROPORTIONATION"
+"PREPARATION OF FINE PBTIO3 POWDERS BY HYDROLYSIS OF ALKOXIDE"
+"MOLECULAR BUILDING BLOCK APPROACHES TO CERAMIC MATERIALS - TRIPOLYPHOSPHATE CEMENT"
+"2ND HARMONIC-GENERATION OF POLED 4-[N-METHYL-N-(4'-NITROPHENYL)AMINO-METHYL]STYRENE POLYMER FILM"
+"CONVERGENT SYNTHESIS OF MONODISPERSE ARYL ESTER DENDRIMERS"
+"ORGANIC INORGANIC MOLECULAR-BEAM EPITAXY - FORMATION OF AN ORDERED PHTHALOCYANINE/SNS2 HETEROJUNCTION"
+"PYROLYSIS CHEMISTRY OF AN ORGANOMETALLIC PRECURSOR TO SILICON-CARBIDE"
+"DIMENSIONALLY STABLE MEEP-BASED POLYMER ELECTROLYTES AND SOLID-STATE LITHIUM BATTERIES"
+"ANIONIC CLAYS WITH VARIABLE VALENCE CATIONS - SYNTHESIS AND CHARACTERIZATION OF [CO1-XALX(OH)2](CO3)X/2.NH2O"
+"NEW SERIES OF 1-1 LAYERED COMPLEXES OF ALPHA,OMEGA-DINITRILES AND UREA"
+"X-RAY PHOTOELECTRON SPECTROSCOPIC DEPTH PROFILING OF AN ATOMIC OXYGEN RESISTANT POLY(CARBORANE SILOXANE) COATING"
+"EFFECT OF MICROWAVE NITROGEN PLASMA TREATMENT ON NICALON FIBERS"
+"COMPOSITION-CONTROLLED METAL-NONMETAL TRANSITION IN LA2-XSRXNIO4-DELTA"
+"SYSTEMATIC SYNTHESIS OF ZEOLITES THAT CONTAIN CUBIC AND HEXAGONAL STACKINGS OF FAUJASITE SHEETS"
+"MOLECULAR-BEAM AND ATOMIC-BEAM SCATTERING FROM SURFACES - DYNAMICS OF GAS SURFACE INTERACTIONS AND MECHANISMS OF CONDENSATION OF CESIUM IODIDE MOLECULES AND CESIUM ATOMS INCIDENT ON NACL(C,100)"
+"SYNTHESIS OF A ROTAXANE VIA THE TEMPLATE METHOD"
+"SUPERCONDUCTIVITY AT 32-K IN ELECTROCRYSTALLIZED BA-K-BI-O"
+"SURFACE-REACTION OF POLY[BIS(TRIFLUOROETHOXY)PHOSPHAZENE] FILMS BY BASIC HYDROLYSIS"
+"AGING PROCESSES OF ALUMINA SOL GELS - CHARACTERIZATION OF NEW ALUMINUM POLYOXYCATIONS BY AL-27 NMR-SPECTROSCOPY"
+"HYDROTHERMAL SYNTHESIS, SINGLE-CRYSTAL STRUCTURE, AND MAGNETIC-PROPERTIES OF VOSEO3.H2O"
+"EQCM STUDIES OF FILM GROWTH, REDOX CYCLING, AND CHARGE TRAPPING OF NORMAL-DOPED AND PARA-DOPED POLY(THIOPHENE)"
+"PREPARATION OF TIN AND TIC FROM A POLYMERIC PRECURSOR"
+"BUILDING BLOCK APPROACH TO CDNB2O6 - SYNTHESIS, MOLECULAR-STRUCTURE, AND HYDROLYSIS OF CDNB2(MU-OAC)2(MU-O-I-PR)4(O-I-PR)6"
+"NEW POLY(CARBOSILANE) MODELS .4. DERIVATIZATION OF LINEAR POLY[(METHYCHLOROSILYLENE)METHYLENE] - APPLICATION TO THE SYNTHESIS OF FUNCTIONAL POLY(CARBOSILANES) POSSESSING A POLY[(METHYLSILYLENE)METHYLENE] BACKBONE"
+"SYNTHESIS AND CHARACTERIZATION OF A CATALYTICALLY ACTIVE NICKEL SILICOALUMINOPHOSPHATE CATALYST FOR THE CONVERSION OF METHANOL TO ETHENE"
+"CONJUGATED AROMATIC POLY(AZOMETHINES) .1. CHARACTERIZATION OF STRUCTURE, ELECTRONIC-SPECTRA, AND PROCESSING OF THIN-FILMS FROM SOLUBLE COMPLEXES"
+"ELECTRONIC-PROPERTIES OF NITROGEN-DOPED GRAPHITE FLAKES"
+"KINETICS OF SUBLIMATION OF COPPER(II) ACETYLACETONATE COMPLEX USED FOR CHEMICAL VAPOR-DEPOSITION OF COPPER-FILMS"
+"NONLINEAR OPTICAL CHARACTERISTICS OF NOVEL INORGANIC CHROMOPHORES USING THE ZINDO FORMALISM"
+"PHOTOIMAGING OF ELECTRONICALLY CONDUCTING POLYMERIC NETWORKS"
+"SYNTHESIS OF STOICHIOMETRIC CADMIUM SELENIDE FILMS VIA SEQUENTIAL MONOLAYER ELECTRODEPOSITION"
+"A CONDUCTIVE, ANISOTROPIC POLYMER FILM FORMED BY ELECTROPRECIPITATION OF PI-STACKS OF AN IMIDE ANION RADICAL AND A POLYCATION"
+"PROTON DYNAMICS IN TIS2-NH3 - A NEW MODEL FOR AMMONIATED TRANSITION-METAL DICHALCOGENIDES"
+"VAPORIZATION PROCESSES OF ALUMINUM BETA-DIKETONE CHELATES"
+"EFFECT OF ISOMERIC IONS ON THE CONTACT CHARGE OF POLYMERS"
+"X-RAY PHOTOELECTRON SPECTROSCOPIC STUDIES OF CARBON-FIBER SURFACES .13. VALENCE-BAND STUDIES OF OXIDIZED FIBERS INTERPRETED BY X-ALPHA CALCULATIONS"
+"3RD-ORDER OPTICAL NONLINEARITIES OF MODEL COMPOUNDS CONTAINING BENZOBISTHIAZOLE, BENZOBISOXAZOLE, AND BENZBISIMIDAZOLE UNITS"
+"MOLECULAR CONTROL OF SURFACE-FILM COMPOSITIONS VIA PULSED RADIOFREQUENCY PLASMA DEPOSITION OF PERFLUOROPROPYLENE OXIDE"
+"LOSS OF HALIDE FROM SOL-GEL FILMS ON HEATING DOES NOT INVOLVE OXIDATION"
+"LASER-ASSISTED VACUUM DEPOSITION OF 10-(1-PYRENYL)DECANOIC ACID - INSITU FLUORESCENCE OBSERVATION OF THE PROCESS"
+"MECHANISTIC STUDIES OF THE CONVERSION OF BORAZINE POLYMERS TO BORON-NITRIDE"
+"VANADIUM PENTOXIDE GELS"
+"RAMAN-SPECTROSCOPY OF CALCIUM-PHOSPHATE GLASSES WITH VARYING CAO MODIFIER CONCENTRATIONS"
+"AMORPHOUS ALLOY THIN-FILMS FROM MOLECULAR PRECURSORS - EVIDENCE OF STRUCTURE AND STOICHIOMETRY FROM CRYSTALLIZATION AND EFFECTS OF PRECURSOR LIGAND STRUCTURE ON STOICHIOMETRY"
+"ELECTROCHEMICAL SYNTHESIS OF METAL NITRIDE CERAMIC PRECURSORS IN LIQUID-AMMONIA ELECTROLYTE-SOLUTIONS"
+"PHOTOCONDUCTOR FATIGUE .1. PHOTOCHEMISTRY OF HYDRAZONE-BASED HOLE-TRANSPORT MOLECULES IN ORGANIC LAYERED PHOTOCONDUCTORS - SPECTROSCOPIC CHARACTERIZATION AND EFFECT ON ELECTRICAL-PROPERTIES"
+"MAGNESIUM-ION CONDUCTING POLYMERIC ELECTROLYTES"
+"KINETIC-STUDIES OF THE CHEMICAL VAPOR-DEPOSITION OF PLATINUM"
+"SYNTHESIS AND CHARACTERIZATION OF POLY[4-((TERT-BUTOXYCARBONYL)OXY)STYRENE-SULFONE]"
+"ORGANOMETALLIC COMPOUNDS AS LUMINESCENT PROBES IN THE CURING OF EPOXY-RESINS"
+"CHEMICAL AMPLIFICATION MECHANISMS FOR MICROLITHOGRAPHY"
+"2-PHOTON RADICAL-PHOTOINITIATOR SYSTEM BASED ON IODINATED BENZOSPIROPYRANS"
+"STRUCTURE AND PROPERTIES OF REDUCED BARIUM NIOBIUM OXIDE SINGLE-CRYSTALS OBTAINED FROM BORATE FLUXES"
+"EXISTENCE OF METAL-AMMONIA SOLVATION COMPLEXES IN LAMELLAR TITANIUM DISULFIDE"
+"MOLECULAR AND SUPERMOLECULAR ORIGINS OF ENHANCED ELECTRONIC CONDUCTIVITY IN TEMPLATE-SYNTHESIZED POLYHETEROCYCLIC FIBRILS .1. SUPERMOLECULAR EFFECTS"
+"NEW CLASS OF ELECTRON-ACCEPTORS HAVING HIGH POLYMER DISPERSIBILITY, UNSYMMETRICALLY SUBSTITUTED DIPHENOQUINONES, AND THEIR APPLICATION AS ELECTRON-TRANSPORT MATERIALS"
+"LIGAND-EXCHANGE IN ADDUCTS OF ETHYLALUMINUM HYDRIDES"
+"COMPARISON OF THE PHYSICAL-PROPERTIES OF POLYPYRROLE PRODUCED BY ANODIC-OXIDATION AND BY PHOTOELECTROCHEMICAL ACTIVATION OF TIO2"
+"HIGH POTASSIUM-ION SELECTIVITY ON SODIUM-SUBSTITUTED TAENIOLITE"
+"FAST DIRECT NITRIDATION OF SILICON WITH NITROGEN PLASMA AND ITS EFFECT ON THE SHIFT OF FLAT-BAND POTENTIAL"
+"NITRATE AND CARBONATE METHODS FOR THE SYNTHESIS OF SUPERCONDUCTING PB2SR2CA0.5Y0.5CU3O8+DELTA AND PB0.5SR2.5CA0.5Y0.5CU2O7-DELTA"
+"PHOTOCONDUCTOR FATIGUE .2. EFFECT OF LONG-WAVELENGTH LIGHT ON THE ELECTRICAL AND SPECTROSCOPIC PROPERTIES OF ORGANIC LAYERED PHOTOCONDUCTORS"
+"SYNTHESIS OF THE FUNCTIONALIZED CLUSTER (CH=CH2C5H4)CP3FE4(CO)4 AND ITS INCORPORATION INTO POLY(METHYL METHACRYLATE)"
+"ELECTRONIC AND MOLECULAR-STRUCTURE OF THE COMPOSITE ORGANIC METAL (BO)2.4I3"
+"IONIC CONDUCTIVITIES OF ION-EXCHANGED A3SB3P2O14 (A = NA, K, RB), A5SB5P2O20 (A = LI, NA, K, RB), AND PARTIALLY SUBSTITUTED K5SB5-XMXP2O20 (M = NB, TA)"
+"CHARACTERIZATION OF COPPER(II)-SUBSTITUTED SYNTHETIC FLUOROHECTORITE CLAY AND INTERACTION WITH ADSORBATES BY ELECTRON-SPIN-RESONANCE, ELECTRON-SPIN ECHO MODULATION, AND INFRARED SPECTROSCOPIES"
+"REACTIVITY OF CHROMIUM-OXIDE IN AQUEOUS-SOLUTIONS .1. OXIDATIVE DISSOLUTION"
+"GROWTH OF FREESTANDING DIAMOND FILMS ON GLASS"
+"MAGNESIUM METHOXIDE DERIVED CATALYSIS OF TRANSESTERIFICATION, HYDROLYSIS, AND CONDENSATION OF SI(OME)4 IN THE SOL-GEL SYNTHESES OF MAGNESIUM SILICATES"
+"SYNTHESIS AND ELECTRICAL RESPONSE OF SINGLE-ION CONDUCTING NETWORK POLYMERS BASED ON SODIUM POLY(TETRAALKOXYALUMINATES)"
+"ORGANOMETALLIC PRECURSORS IN THE GROWTH OF EPITAXIAL THIN-FILMS OF GROUPS III-V SEMICONDUCTORS BY METAL ORGANIC-CHEMICAL VAPOR-DEPOSITION"
+"IONIC-CONDUCTIVITY OF POTASSIUM PHOSPHATOANTIMONATES AND SOME OF THEIR ION-EXCHANGED ANALOGS"
+"ADVERSE CHEMICAL EFFECTS ON THE PLASMA-DEPOSITED AMORPHOUS-SILICON CARBIDE PASSIVATION LAYER OF THERMAL INK-JET THIN-FILM HEATERS"
+"PHOTOCONDUCTIVITY OF SILICON NAPHTHALOCYANINE THIN-FILMS"
+"THERMAL AND OXIDATIVE ANALYSES OF BUCKMINSTERFULLERENE, C60"
+"PLASMA-DEVELOPABLE PHOTORESIST SYSTEMS BASED ON CHEMICAL AMPLIFICATION"
+"BEDT-TTF-BASED SYNMETAL - SYNTHESIS, STRUCTURE, ESR, AND ELECTRICAL-PROPERTIES OF (BEDT-TTF)HG0.776(SCN)2"
+"LI-7 NMR-STUDY OF POLYMER ELECTROLYTES BASED ON COMPOSITES OF POLY[BIS((METHOXYETHOXY)ETHOXY)PHOSPHAZENE] AND POLY(ETHYLENE OXIDE)"
+"BENZOSPIROPYRANS AS PHOTOCHROMIC AND OR THERMOCHROMIC PHOTOINITIATORS"
+"2 ELECTRONICALLY DISTINCT COPPER SITES IN LA2-XSRXCUO4-DELTA COMPOUNDS FOR 0.10-LESS-THAN-OR-EQUAL-TO-X-LESS-THAN-OR-EQUAL-TO-0.20"
+"SYNTHESIS AND CHARACTERIZATION OF A STABLE POLY(IMINOMETHYLENE) WITH PENDANT PHENOXYL RADICALS"
+"PREPARATION OF NICKEL CARBIDE ULTRAFINE PARTICLES BY METAL VAPOR METHODS"
+"INSOLUBILIZATION MECHANISM OF A CHEMICAL AMPLIFICATION NEGATIVE-RESIST SYSTEM UTILIZING AN ACID-CATALYZED SILANOL CONDENSATION REACTION"
+"NEW POLY(CARBOSILANE) MODELS .5. PYROLYSIS OF A SERIES OF FUNCTIONAL POLY(CARBOSILANES)"
+"SYNTHESIS AND STUDY OF BETA-CHLORHYDRINE AND ALPHA-CHLOROACID FERROELECTRIC LIQUID-CRYSTAL DERIVATIVES"
+"SYNTHESIS OF NICKEL COBALTITE SPINEL FROM COPRECIPITATED NICKEL-COBALT HYDROXIDE CARBONATE"
+"LOW-TEMPERATURE SYNTHESES OF OLIVINE AND FORSTERITE FACILITATED BY HYDROGEN-PEROXIDE"
+"POSITIVE, CHEMICALLY AMPLIFIED AROMATIC METHACRYLATE RESIST EMPLOYING THE TETRAHYDROPYRANYL PROTECTING GROUP"
+"FORMATION OF INDIUM-PHOSPHIDE FROM IN(CH3)3 AND P(SI(CH3)3)3"
+"LOW-PRESSURE CHEMICAL VAPOR-DEPOSITION OF TUNGSTEN CARBIDE THIN-FILMS"
+"SUPPORTED SOL-GEL THIN-FILM GLASSES EMBODYING LASER-DYES .1. A NEW FAST METHOD FOR THE PREPARATION OF OPTICALLY CLEAR POLYSILOXANE THIN-FILM GLASSES"
+"NANOSCALE METAL-OXIDE PARTICLES CLUSTERS AS CHEMICAL REAGENTS - SYNTHESIS AND PROPERTIES OF ULTRAHIGH SURFACE-AREA MAGNESIUM-HYDROXIDE AND MAGNESIUM-OXIDE"
+"SYNTHESIS OF LAYERED ZR(O3PCH2CH2COCL)2 FROM ZR(O3PCH2CH2COOH)2"
+"THE QUESTION OF SOLID-STATE ELECTRON-TRANSFER IN CONTACT CHARGING BETWEEN METAL AND ORGANIC MATERIALS"
+"INFRARED STUDIES OF CO ADSORPTION ON RHODIUM HYDROSOLS"
+"PHOTO-CROSS-LINKING REACTION OF BENZOPHENONE-CONTAINING POLYIMIDE AND ITS MODEL COMPOUNDS"
+"SURFACE CHARACTERIZATION STUDY OF INP(100) SUBSTRATES USING ISS, AES, AND ESCA .3. EXPERIMENTAL ARTIFACTS"
+"PHASE-TRANSFER PALLADIUM(0)-CATALYZED POLYMERIZATION REACTIONS .6. SYNTHESIS AND THERMOTROPIC BEHAVIOR OF MONOFLUORINATED AND DIFLUORINATED 1,2-BIS(4-N-ALKOXYPHENYL)ACETYLENE MONOMERS"
+"ALPHA'-SIALON CERAMICS - A REVIEW"
+"DYNAMIC ATOMIC-LEVEL OBSERVATION OF STAGING PHENOMENA IN SILVER AND MERCURY INTERCALATES OF TITANIUM DISULFIDE"
+"CUBIC NONLINEAR OPTICS OF POLYMER THIN-FILMS - EFFECTS OF STRUCTURE AND DISPERSION ON THE NONLINEAR OPTICAL-PROPERTIES OF AROMATIC SCHIFF-BASE POLYMERS"
+"SOLVATED METAL ATOM DISPERSED CATALYSTS"
+"REACTIONS OF TRIS[BIS(TRIMETHYLSILYL)AMINO]ALUMINUM WITH AMMONIA AND PYROLYSIS STUDIES"
+"THERMAL REACTIVITY OF HYDROGENOSILSESQUIOXANE GELS"
+"POTENTIAL DEPENDENCE OF THE CONDUCTIVITY OF POLYACETYLENE - FINITE POTENTIAL WINDOWS OF HIGH CONDUCTIVITY"
+"THE METALLIC POLYPHOSPHIDE TI2NIP5"
+"SYNTHESIS AND STRUCTURE OF A NEW FAMILY OF CUPRATE SUPERCONDUCTORS - LNSR2CU2GAO7"
+"PHOTOELECTROCHEMICAL CHARACTERIZATION OF THIN-FILMS OF PERYLENETETRACARBOXYLIC ACID-DERIVATIVES"
+"MOLECULAR-LEVEL CERAMIC POLYMER COMPOSITES .2.1 SYNTHESIS OF POLYMER-TRAPPED SILICA AND TITANIA NANOCLUSTERS"
+"LA2CUSNO6 - A NEW PEROVSKITE-RELATED COMPOUND WITH AN UNUSUAL ARRANGEMENT OF B-CATIONS"
+"TRANSITION-METAL BORIDES WITH THE TA3B4 CRYSTAL-STRUCTURE - THEIR ELECTRONIC AND BONDING PROPERTIES"
+"TRANSITION-METALS COMPLEXED TO ORDERED MESOPHASES .9. SYNTHESIS, MESOMORPHIC BEHAVIOR, AND EPR INVESTIGATIONS ON A HOMOLOGOUS SERIES OF N-(4-ALKOXYSALICYLIDENE)-4'-ALKYLANILINES COMPLEXED TO COPPER(II)"
+"POWDER CONDUCTIVITIES OF 3 ELECTRIDES"
+"THERMALLY ACTIVATED PHENOLIC FIBERS"
+"MULTISTEP, SOL-GEL SYNTHESIS OF A LAYERED SILICATE, POTASSIUM FLUOROPHLOGOPITE"
+"SUPERCONDUCTIVITY IN BA4BIPB2TIO12-DELTA"
+"IR SURFACE CHARACTERIZATION OF SOME TIO2-BASED PIGMENTS .1. PREPARATION OF PIGMENTARY MATERIALS"
+"PHOTOCONDUCTOR FATIGUE .3. EFFECT OF POLYMER ON THE PHOTOOXIDATION OF THE CHARGE-TRANSPORT LAYER OF ORGANIC LAYERED PHOTOCONDUCTORS"
+"COBALT PHTHALOCYANINE CRYSTAL SYNTHESIZED AT LOW-TEMPERATURE"
+"CONTACT ELECTRIFICATION - ION TRANSFER TO METALS AND POLYMERS"
+"TRANSITION-METALS COMPLEXED TO ORDERED MESOPHASES .1. SYNTHESIS CHARACTERIZATION AND MESOMORPHIC PROPERTIES OF BINUCLEAR CYCLOPALLADATED PHENYLPYRIMIDINE SPECIES - CRYSTAL-STRUCTURE OF BIS((5-(1-HEXYL)-2-[(4'-METHOXY)PHENYL-2'-ATO]PYRIMIDINE-N',C2')-MU-ACETATO)DIPALLADUM(II)"
+"CORRECTION"
+"M2(OR)6 COMPOUNDS (M = AL, MO, W R = T-BU, CY-HEX) AS SINGLE-SOURCE PRECURSORS - STUDIES OF THERMOLYSIS UNDER HE FLOW"
+"MIXED METHYL-ZINC AND ETHYLZINC COMPLEXES WITH DIETHYLSELENOCARBAMATE - NOVEL PRECURSORS FOR ZNSE"
+"MOLECULAR RECOGNITION IN MICROPOROUS ORGANO-MINERALS - SHAPE-SPECIFIC INTERACTIONS OF CARBON-DIOXIDE IN FUNCTIONALIZED ORGANO-MONTMORILLONITE MICROCAVITIES"
+"FORMATION OF QUANTUM-SIZE SEMICONDUCTOR PARTICLES IN A LAYERED METAL PHOSPHONATE HOST LATTICE"
+"CORRECTION"
+"CHARACTERIZATION AND CONDUCTIVITIES OF POLYPHOSPHAZENE IODINE COMPLEXES"
+"PHOTOPHYSICAL AND PHOTOCHEMICAL STUDIES OF PHENOTHIAZINE AND SOME DERIVATIVES - EXPLORATORY STUDIES OF NOVEL PHOTOSENSITIZERS FOR PHOTORESIST TECHNOLOGY"
+"SOL-GEL ROUTE TO NIOBIUM PENTOXIDE"
+"SYNTHESIS AND CHARACTERIZATION OF RING-HALOGENATED POLY(1,4-PHENYLENEVINYLENES)"
+"ELECTRON-MICROSCOPY, NEUTRON-DIFFRACTION, AND PHYSICAL-PROPERTIES OF BI4SR8CU5O19+Y"
+"CHEMICAL VAPOR-DEPOSITION OF TITANIUM, ZIRCONIUM, AND HAFNIUM NITRIDE THIN-FILMS"
+"CLUSTERS OF IMMISCIBLE METALS - IRON LITHIUM NANOSCALE BIMETALLIC PARTICLE SYNTHESIS AND BEHAVIOR UNDER THERMAL AND OXIDATIVE TREATMENTS"
+"SPECTROSCOPIC CHARACTERIZATION OF CVD TI COATING ON SIC-COATED BORON FIBERS"
+"PHOTOSELECTIVE CATALYSIS OF ELECTROLESS COPPER SOLUTIONS FOR THE FORMATION OF ADHERENT COPPER-FILMS ONTO POLYIMIDE"
+"ELECTROCHEMICAL POLYMERIZATION OF THIOPHENES IN THE PRESENCE OF BITHIOPHENE OR TERTHIOPHENE - KINETICS AND MECHANISM OF THE POLYMERIZATION"
+"GAS-TRANSPORT IN ELECTRONICALLY CONDUCTIVE POLYMERS"
+"ELECTRICAL AND PHOTOELECTROCHEMICAL CHARACTERIZATION OF CDS PARTICULATE FILMS BY SCANNING ELECTROCHEMICAL MICROSCOPY, SCANNING TUNNELING MICROSCOPY, AND SCANNING TUNNELING SPECTROSCOPY"
+"CHARACTERIZATION OF THE BI1.6PB0.4SR2CA2CU3OY SUPERCONDUCTOR BY X-RAY-DIFFRACTION, LOW-FIELD MICROWAVE-ABSORPTION, AND ELECTRON-SPIN-RESONANCE"
+"REDOX PHOTOCHROMISM IN FILMS OF VIOLOGENS AND RELATED-COMPOUNDS BEARING LONG-CHAIN ALKYL-GROUPS"
+"FUNCTIONALIZATION OF THE SURFACE OF POLY[BIS(TRIFLUOROETHOXY)PHOSPHAZENE] BY REACTIONS WITH ALKOXIDE NUCLEOPHILES"
+"MULTINUCLEAR SOLID-STATE MAS AND CP-MAS NMR-STUDY OF THE BINDING OF TRIETHYL PHOSPHATE TO A MONTMORILLONITE"
+"CHARACTERIZATION OF POLYESTER FILMS MODIFIED WITH N2O-AR PLASMAS"
+"CHEMISORPTION OF TRIMETHYLALUMINUM AND AMMONIA ON SILICA - MECHANISMS FOR THE FORMATION OF AL-N BONDS AND THE ELIMINATION OF METHYL-GROUPS BONDED TO ALUMINUM"
+"CORRECTION"
+"SYNTHESIS AND CHARACTERIZATION OF K4CU8TE11 - A NOVEL SOLID-STATE CHALCOGENIDE COMPOUND WITH A DODECAHEDRAL CLUSTER AS A BUILDING BLOCK"
+"ORGANO CLAY ASSEMBLIES FOR TRIPHASE CATALYSIS"
+"PREPARATION OF A NOVEL GALLIUM-ARSENIDE SINGLE-SOURCE PRECURSOR HAVING THE EMPIRICAL-FORMULA ASCL3GA2"
+"STRUCTURAL CHEMISTRY AND RAMAN-SPECTRA OF NIOBIUM OXIDES"
+"TRIALKOXYSILOXY COMPLEXES AS PRECURSORS TO MO2.4SIO2 (M = TI, ZR, HF) MATERIALS"
+"SPIN AND SPINLESS CONDUCTIVITY IN POLYPYRROLE - EVIDENCE FOR MIXED-VALENCE CONDUCTION"
+"MIXED-HALIDE MX CHAIN SOLIDS - EFFECT OF CHLORIDE DOPING ON THE CRYSTAL-STRUCTURE AND RESONANCE RAMAN-SPECTRA OF [PT(EN)2BR2][PT(EN)2](CLO4)4"
+"SEMIEMPIRICAL SCF-MO MODELING OF POLYSILANES USING AM1 AND PM3 METHODS"
+"2-(PENTACOSA-10,12-DIYNYLAMINO)-5-NITRO-PYRIDINE - A NEW POLYMERIZABLE AMPHIPHILE FOR NONLINEAR OPTICAL LANGMUIR - BLODGETT FILMS"
+"HIGH-FIELD B-11 MAGIC-ANGLE SPINNING NMR CHARACTERIZATION OF BORON NITRIDES"
+"INTERFACIAL INTERACTIONS OF TITANIUM-COATED POLYESTER FILMS"
+"CADMIUM SUBSTITUTION IN YBA2CU3O7-DELTA AND BI2SR2CACU2O8+DELTA"
+"SELECTIVE SYNTHETIC ROUTES TO ELECTROCONDUCTIVE ORGANOSILICON POLYMERS CONTAINING THIOPHENE UNITS"
+"PHASE-SEPARATION IN POLY(ENAMINONITRILE) SOLUTIONS AND BLENDS"
+"CHEMISTRY OF MATERIALS - THE HONEYMOON IS JUST BEGINNING"
+"SYNTHESIS AND PHYSICAL STUDIES OF A NEW ORGANIC DONOR - 2,3-DIMETHYL-5,6-11,12-BIS(DITHIO)TETRACENE"
+"OXOVANADIUM(IV) HYDROGEN PHOSPHATE HYDRATES - A TIME-RESOLVED NEUTRON POWDER DIFFRACTION STUDY"
+"SEMICONDUCTOR PARTICULATE FILMS ON SOLID SUPPORTS"
+"ELECTROOXIDATION OF SOLUBLE ALPHA,ALPHA-COUPLED THIOPHENE OLIGOMERS"
+"GALVANIC CELL TYPE HUMIDITY SENSOR WITH NASICON-BASED MATERIAL OPERATIVE AT HIGH-TEMPERATURE"
+"PREPARATION OF TITANIUM DIBORIDE FROM TITANIUM ALKOXIDES AND BORON POWDER"
+"BINDING CATALYTIC SITES TO THE SURFACE OF POROUS POLYMERS AND SOME CATALYTIC APPLICATIONS"
+"TIN SULFUR AND TIN SELENIUM PHENYLATED RING-SYSTEMS AS ORGANOMETALLIC PRECURSORS TO TIN SULFIDE AND TIN SELENIDE"
+"2ND HARMONIC-GENERATION IN ORGANICALLY MODIFIED SOL-GEL FILMS"
+"PREPARATION OF MONOLITHIC BINARY OXIDE GELS BY A NONHYDROLYTIC SOL-GEL PROCESS"
+"ROOM-TEMPERATURE SYNTHESIS OF MOLYBDENUM AND TUNGSTEN CARBIDES, MO2C AND W2C, VIA CHEMICAL-REDUCTION METHODS"
+"ELECTROCHEMICAL LITHIUM INTERCALATION INTO MISFIT LAYER SULFIDES"
+"LOW-TEMPERATURE ATMOSPHERIC-PRESSURE CHEMICAL VAPOR-DEPOSITION OF POLYCRYSTALLINE TIN NITRIDE THIN-FILMS"
+"ZEOLATES - A COORDINATION CHEMISTRY VIEW OF METAL-LIGAND BONDING IN ZEOLITE GUEST HOST INCLUSION-COMPOUNDS"
+"NOVEL LIQUID-CRYSTALLINE POLYMERIC MATERIALS VIA NONCOVALENT GRAFTING"
+"RAMAN-SPECTROSCOPIC STUDIES OF INTERCALATED MOLYBDATE IONS IN LAYERED METAL-HYDROXIDES"
+"ADDITION"
+"NOVEL QUATERNARY-SALTS OF QUINOLINE OLIGOMER AS METAL-SURFACE PROTECTIVE MATERIALS AGAINST ACID CORROSION"
+"RAPID SYNTHESIS OF GAP AND GAAS FROM SOLID-STATE PRECURSORS"
+"NMR CHEMICAL-SHIFT TENSORS AND PEAK ASSIGNMENTS FOR THE 6H-POLYTYPE OF SILICON-CARBIDE"
+"SYNTHESIS AND ELECTROCHEMISTRY OF CONDUCTIVE COPOLYMERIC PORPHYRINS"
+"CLUSTERS OF IMMISCIBLE METALS .2. MAGNETIC-PROPERTIES OF IRON LITHIUM BIMETALLIC PARTICLES"
+"CORRECTION"
+"DISCRETE LAYERS OF ORDERED C-60 MOLECULES IN THE COCRYSTAL C60.CH2I2.C6H6 - SYNTHESIS, CRYSTAL-STRUCTURE, AND C-13 NMR PROPERTIES"
+"ROOM-TEMPERATURE CATALYTIC-HYDROGENATION OF AROMATIC-HYDROCARBONS USING [(1,5-COD)RHH]4 AS A CATALYST PRECURSOR"
+"RADIATION-INDUCED CHEMISTRY OF POLY(4-[(TERT-BUTOXYCARBONYL)OXY]STYRENE-CO-SULFUR DIOXIDE)"
+"PREPARATION, CHARACTERIZATION, AND IONIC-CONDUCTIVITY OF NOVEL CRYSTALLINE, MICROPOROUS GERMANATES, M3HGE7O16.XH2O, M = NH4+, LI+, K+, RB+, CS+ X = 4-6 .2."
+"[CF3AU(CNME)] AS A PRECURSOR FOR CVD OF GOLD"
+"STRUCTURE AND PROPERTIES OF THE TRANSITION-METAL ZINTL COMPOUNDS - A14MNBI11 (A = CA, SR, BA)"
+"STUDIES ON THE SOLID OBTAINED FROM RADIOLYSIS OF GERMANE METHANE MIXTURES"
+"THIN-LAYER GRAFTS OF POLY[BIS((METHOXYETHOXY)ETHOXY)PHOSPHAZENE] ON ORGANIC POLYMER SURFACES"
+"PRIMARY HYDROLYSIS PRODUCTS OF METHACRYLATE-MODIFIED TITANIUM AND ZIRCONIUM ALKOXIDES"
+"REVERSIBLE CARBON-MONOXIDE ADDITION TO SOL-GEL DERIVED COMPOSITE FILMS CONTAINING A CATIONIC RHODIUM(I) COMPLEX - TOWARD THE DEVELOPMENT OF A NEW CLASS OF MOLECULE-BASED CO SENSORS"
+"SYNTHESIS AND CHARACTERIZATION OF VPI-5 SUPPORTED TIO2 CLUSTERS"
+"USE OF RUTHERFORD BACKSCATTERING SPECTROSCOPY TO INVESTIGATE ANION-EXCHANGE CONSTANT OF PROTONATED POLY(4-VINYLPYRIDINE)"
+"CONCENTRATED EMULSION POLYMERIZATION PATHWAY TO HYDROPHOBIC AND HYDROPHILIC MICROSPONGE MOLECULAR RESERVOIRS"
+"SYNTHESIS OF PALLADIUM AND PLATINUM NANOCLUSTERS WITHIN MICROPHASE-SEPARATED DIBLOCK COPOLYMERS"
+"INDUCTION OF NONCENTROSYMMETRY BY POLAR HYDROGEN-BONDED CHAINS IN NITROANILINE CRYSTALS"
+"PROTON SPIN-LATTICE RELAXATION IN THE ROTATING FRAME MEASUREMENTS FOR SOME INDUSTRIAL POLYETHYLENE COMPOSITES"
+"RHODIUM COMPLEXES WITH NITROGEN-DONOR LIGANDS ANCHORED ON SILICIC SUPPORTS .1. SYNTHESIS AND CHARACTERIZATION"
+"EFFECTS OF SUBSTITUTION CHEMISTRY IN THE KTIOPO4 STRUCTURE FIELD"
+"POLY(ETHYLENE OXIDE)-SILICATE INTERCALATION MATERIALS"
+"SYNTHESIS, CHARACTERIZATION, AND ELECTROPOLYMERIZATION OF THIOPHENE DERIVATIVES OF THE GROUP-IV ELEMENTS"
+"INTERCALATION OF PYRIDINE INTO THE LAYERED SMSI STRUCTURE OF YBOCL"
+"RAMAN-SPECTROSCOPIC AND THERMOANALYTICAL STUDIES OF THE REACTION OF BA(OH)2 WITH ANATASE AND TITANIUM-OXIDE GELS"
+"LINEAR-POLYMERS FOR NONLINEAR OPTICS .2. SYNTHESIS AND ELECTROOPTICAL PROPERTIES OF POLYMERS BEARING PENDANT CHROMOPHORES WITH METHYLSULFONYL ELECTRON-ACCEPTOR GROUPS"
+"SYNTHESIS OF SILVER AND GOLD NANOCLUSTERS WITHIN MICROPHASE-SEPARATED DIBLOCK COPOLYMERS"
+"SYNTHESIS AND PROPERTIES OF NOVEL RUTHENIUM THIN-FILM MATERIALS - SELF-ASSEMBLED MULTILAYER APPROACHES"
+"PHOTOCHEMICAL FORMATION OF OLIGOTHIOPHENE CATION RADICALS IN ACIDIC SOLUTION AND NAFION"
+"IONIC CONDUCTIVITIES IN SOLID-SOLUTIONS OF K5+XSB5-XTIXP2O20 AND K5-XSB5-XMXP2O20 (M = MOVI, WVI)"
+"HOT-WALL CHEMICAL VAPOR-DEPOSITION OF COPPER FROM COPPER(I) COMPOUNDS .2. SELECTIVE, LOW-TEMPERATURE DEPOSITION OF COPPER FROM COPPER(I) BETA-DIKETONATE COMPOUNDS, (BETA-DIKETONATE)CULN, VIA THERMALLY INDUCED DISPROPORTIONATION REACTIONS"
+"SYNTHESIS AND STRUCTURE OF A NEW MICROPOROUS ANIONIC DERIVATIVE OF GEO2 - [GE18O38(OH4)]8-[(C2N2H10)2+]4.2H2O"
+"ADSORPTION AND DECOMPOSITION OF ORGANOPHOSPHORUS COMPOUNDS ON NANOSCALE METAL-OXIDE PARTICLES - INSITU GC-MS STUDIES OF PULSED MICROREACTIONS OVER MAGNESIUM-OXIDE"
+"VALENCE BAND PHOTOEMISSION-STUDIES OF CORROSION-INHIBITOR ACTION ON IRON SURFACES - EFFECT OF ETIDRONATE"
+"LOW-TEMPERATURE ATMOSPHERIC-PRESSURE CHEMICAL VAPOR-DEPOSITION OF TITANIUM DISULFIDE FILMS"
+"INSITU POLYCONDENSATION FOR SYNTHESIS OF COMPOSITES OF ELASTOMERIC MATRICES AND WHOLLY AROMATIC POLYAMIDES"
+"ELECTROCHEMICAL INVESTIGATIONS OF VARIOUS HIGH-TEMPERATURE SUPERCONDUCTOR PHASES"
+"SYNTHETIC STRATEGIES IN THE FORMATION OF IRON-MODIFIED POLYIMIDE FILMS"
+"A NEW CLASS OF INORGANIC BASE-GENERATING PHOTOINITIATORS"
+"SYNTHESIS AND LUMINESCENCE PROPERTIES OF BANBOF5 WITH ISOLATED [NBOF5]2- OCTAHEDRA"
+"CRYSTAL-CHEMISTRY OF COLQUIRIITE-TYPE FLUORIDES"
+"IMPROVED SYNTHESIS OF ALUMINA-PILLARED MONTMORILLONITE BY SURFACTANT MODIFICATION"
+"PREPARATION AND CHARACTERIZATION OF NOVEL MAGNETITE-COATED ION-EXCHANGE PARTICLES"
+"ELECTRICALLY CONDUCTIVE METAL SULFIDE POLYMER COMPOSITES PREPARED BY USING ORGANOSOLS OF METAL SULFIDES"
+"PREPARATION, SOLID-STATE CHARACTERIZATION, AND SURFACE-CHEMISTRY OF HIGH SURFACE-AREA NIXAL2-2XO3-2X MIXED OXIDES"
+"SURFACE-CHEMISTRY OF SULFIDIZED MERCURY CADMIUM TELLURIDE AS PROBED BY VOLTAMMETRY AND PHOTOELECTROCHEMISTRY"
+"PYROLYSIS CHEMISTRY OF POLY(ORGANOSILAZANES) TO SILICON CERAMICS"
+"MOLECULAR-DYNAMICS SIMULATION OF THE TEMPERATURE-DEPENDENT IONIC-CONDUCTIVITY IN SODIUM(I)-BETA''-ALUMINA"
+"SURFACE MODIFICATION OF ESTER-CONTAINING POLYMERS WITH ANIONIC DERIVATIVES OF AMINE-TERMINATED OLIGOMERS"
+"TRANSFORMATION OF PLATINUM CARBONYL CLUSTERS ON GRAPHITE UNDER LASER IRRADIATION AND THEIR SCANNING TUNNELING MICROSCOPY OBSERVATION"
+"SYNTHESES OF INTERCALATION COMPOUNDS OF LAYERED NIOBATES WITH METHYLVIOLOGEN AND THEIR PHOTOCHEMICAL BEHAVIOR"
+"PHASE SELECTIVITY IN THE SIMULTANEOUS SYNTHESIS OF THE TC = 12.8-K (0.3-KBAR) ORGANIC SUPERCONDUCTOR KAPPA-(BEDT-TTF)2CU[N(CN)2]CL OR THE SEMICONDUCTOR (BEDT-TTF)CU[N(CN)2]2"
+"METAL IODIDES - NOVEL SOLUTION PRECURSORS TO CUPRATE SUPERCONDUCTORS"
+"STRUCTURAL INVESTIGATIONS OF NEW CALCIUM RARE-EARTH (R) OXYBORATES WITH THE COMPOSITION CA4RO(BO3)3"
+"FLUORESCENCE ANISOTROPY AS A PROBE OF MOLECULAR MOBILITY IN A PLASTICIZED POLY(VINYL CHLORIDE) MEMBRANE"
+"LUMINESCENCE OF EU2+-ACTIVATED AND PB2+-ACTIVATED ALKALINE-EARTH OXYHALIDES M4OX6 (M = CA, SR, BA X = CL, BR)"
+"XPS AND ESR OF SNSE2-1-PERCENT-P(COCP2)0.36"
+"BA2LA2CU2SN2O11 - A NEW LAYERED PEROVSKITE WITH A MODULATED STRUCTURE"
+"THERMOGRAVIMETRIC MASS-SPECTROMETRIC INVESTIGATION OF THE THERMAL-CONVERSION OF ORGANOSILICON PRECURSORS INTO CERAMICS UNDER ARGON AND AMMONIA .1. POLY(CARBOSILANE)"
+"SQUARAINE CHEMISTRY - DESIGN, SYNTHESIS, AND XEROGRAPHIC PROPERTIES OF A HIGHLY SENSITIVE UNSYMMETRICAL FLUORINATED SQUARAINE"
+"STRUCTURAL, MAGNETIC, AND TRANSPORT-PROPERTIES OF RXBA1-XTIO3-DELTA SOLID-SOLUTIONS, WHERE R = LA, ND, GD, ER, AND Y - RARE-EARTH-DEPENDENT METAL-TO-SEMICONDUCTOR TRANSITIONS"
+"FUNCTIONALIZATION OF POLY(ORGANOPHOSPHAZENES) .2. MODIFICATION OF POLY[BIS(4-SEC-BUTYLPHENOXY)PHOSPHAZENE] BY FREE-RADICAL-INITIATED GRAFTING OF MALEIC-ANHYDRIDE"
+"CHAIN-LENGTH DEPENDENCE OF ELECTROCHEMICAL AND ELECTRONIC-PROPERTIES OF NEUTRAL AND OXIDIZED SOLUBLE ALPHA,ALPHA-COUPLED THIOPHENE OLIGOMERS"
+"OLIGOTHIOPHENE CATION RADICALS - PI-DIMERS AS ALTERNATIVES TO BIPOLARONS IN OXIDIZED POLYTHIOPHENES"
+"METAMAGNETIC PROPERTIES OF A FAMILY OF FERROMAGNETIC ALTERNATING SPIN CHAINS - BIS(DIMETHYLGLYOXIMATO)(CARBOXYLATO)MANGANESE(III)COPPER(II)"
+"MOLECULAR-SIEVE SENSORS FOR SELECTIVE ETHANOL DETECTION"
+"LITHIUM MVO5 (M=NB,TA) BRONZES"
+"MAGNETOSTRUCTURAL CORRELATIONS IN ALPHA-VO(HPO4).2H2O - MAGNETIC-SUSCEPTIBILITY AND P-31 SOLID-STATE NMR-STUDY"
+"LOW-TEMPERATURE PYROLYTIC TRANSFORMATIONS OF TRI-TERT-BUTOXYSILOXY DERIVATIVES OF ALUMINUM TO ALUMINOSILICATE MATERIALS"
+"ELECTROCHEMICAL AND SPECTROSCOPIC STUDY OF THE TRANSPORT-PROPERTIES OF COMPOSITE POLYMER ELECTROLYTES"
+"CHEMICAL VAPOR-DEPOSITION OF CUBIC GALLIUM SULFIDE THIN-FILMS - A NEW METASTABLE PHASE"
+"INTERCALATION OF ETHYLENEDIAMINE FUNCTIONALIZED BUCKMINSTERFULLERENE IN MICA-TYPE SILICATES"
+"INFLUENCE OF DEFECTS ON THE LUMINESCENCE QUANTUM YIELD OF Y1.94EU0.06O3"
+"THIN-FILM PROCESSING AND OPTICAL-PROPERTIES OF CONJUGATED RIGID-ROD POLYQUINOLINES FOR NONLINEAR OPTICAL APPLICATIONS"
+"REACTIVITY OF NICKEL TITANIUM WITH METHANOLIC BROMINE AND IODINE SOLUTIONS - ETCHING CHARACTERISTICS OF A SHAPE-MEMORY ALLOY"
+"THEORETICAL-STUDY OF THE NONLINEAR OPTICAL-PROPERTIES OF KTIOPO4 - AN EXTENDED HUCKEL SUM-OVER-STATES APPROACH"
+"CHEMISTRY IN POLAR INTERMETALLIC COMPOUNDS - THE INTERSTITIAL CHEMISTRY OF ZR5SN3"
+"SEMICONDUCTING LANGMUIR-BLODGETT-FILMS OF NEW LONG-CHAIN TETRATHIAFULVALENE DERIVATIVES"
+"COBALT-SUBSTITUTED ALUMINOPHOSPHATE MOLECULAR-SIEVES - X-RAY ABSORPTION, INFRARED SPECTROSCOPIC, AND CATALYTIC STUDIES"
+"CRYSTALLIZATION BEHAVIOR OF XEROGELS IN A CR2O3-DOPED SIO2-AL2O3-ZNO SYSTEM"
+"PHOTOVOLTAIC EFFECT ON VANADIUM PENTOXIDE GELS PREPARED BY THE SOL-GEL METHOD"
+"SYNTHESIS AND STRUCTURE OF BORAZINYL-SUBSTITUTED SMALL-MOLECULE AND HIGH POLYMERIC PHOSPHAZENES - CERAMIC PRECURSORS"
+"PROTONATED PENTATITANATE - PREPARATION, CHARACTERIZATIONS, AND CATION INTERCALATION"
+"2ND HARMONIC-GENERATION IN INORGANIC ORGANIC-COMPLEXES .1. CONTROL OF BULK DIPOLAR ALIGNMENT OF PARA-NITROANILINE CRYSTAL UPON COMPLEXING WITH HYDROBROMIC ACID"
+"NONLINEAR OPTICAL-PROPERTIES OF POLY(PARA-PHENYLENEBENZOBISOXAZOLE)"
+"BULK SEMICONDUCTORS FROM MOLECULAR-SOLIDS - A MECHANISTIC INVESTIGATION"
+"OXYGEN PERMEATION IN PERFLUORINATED IONOMERS BASED ON THE REACTION WITH THE METHYLVIOLOGEN CATION RADICAL - AN ESR AND OPTICAL STUDY"
+"SYNTHESIS AND CHARACTERIZATION OF 2 NEW QUATERNARY CHALCOGENIDES, CAYBINQ4 (Q = S AND SE), WITH AN OLIVINE-TYPE STRUCTURE"
+"INTERMETALLIC PHASES IN THE MAGNESIUM PALLADIUM SYSTEM - X-RAY ABSORPTION SPECTROSCOPIC CHARACTERIZATION OF THE AMORPHOUS ALLOY MGPDCXHY"
+"BORON-NITRIDE FIBERS PROCESSED FROM POLY(BORAZINYLAMINE) SOLUTIONS"
+"CHEMICAL VAPOR-DEPOSITION PRECURSOR CHEMISTRY .3. FORMATION AND CHARACTERIZATION OF CRYSTALLINE NICKEL BORIDE THIN-FILMS FROM THE CLUSTER-ASSISTED DEPOSITION OF POLYHEDRAL BORANE COMPOUNDS"
+"SYNTHESIS AND CHARACTERIZATION OF LAYERED CHLOROCADMATES(II) WITH PEROVSKITE-LIKE STRUCTURES"
+"C-AXIS ORIENTED ORTHORHOMBIC YBA2CU3O7-DELTA ON SILVER FROM ORGANIC-SOLVENT SOLUTIONS OF METAL IODIDES"
+"SYNTHESIS AND PROCESSING OF HETEROCYCLIC POLYMERS AS ELECTRONIC, OPTOELECTRONIC, AND NONLINEAR OPTICAL-MATERIALS .1. NEW CONJUGATED RIGID-ROD BENZOBISTHIAZOLE POLYMERS"
+"SYNTHESIS OF CADMIUM-SULFIDE INSITU IN REVERSE MICELLES - INFLUENCE OF THE PREPARATION MODES ON SIZE, POLYDISPERSITY, AND PHOTOCHEMICAL-REACTIONS"
+"POLYMER PRECURSOR ROUTE TO TIB2/TIN NANOCOMPOSITES"
+"ISOMORPHOUS SUBSTITUTION IN KTIOPO4 - A SINGLE-CRYSTAL DIFFRACTION STUDY OF MEMBERS OF THE K1-XNAXTIOPO4 SOLID-SOLUTION"
+"ELECTRONIC, STRUCTURAL, AND SPECTROSCOPIC PROPERTIES OF LANGMUIR-BLODGETT-FILMS OF (O-HEXADECYLTHIOCARBOXY)TETRATHIAFULVALENE (HDTTTF)"
+"CORRECTION"
+"HIGH-TEMPERATURE CHEMISTRY OF THE CONVERSION OF SILOXANES TO SILICON-CARBIDE"
+"A NEW SERIES OF MIXED-VALENCE TITANIUM(III/IV) PHOSPHATES, LI1+XTI2(PO4)3 (0-LESS-THAN-OR-EQUAL-TO-X-LESS-THAN-OR-EQUAL-TO-2), WITH NASICON-RELATED STRUCTURES"
+"SOLID-STATE REACTIVITY OF METAL TRANS-2-PENTENOATES"
+"MIXED-METAL AMORPHOUS AND SPINEL PHASE OXIDATION CATALYSTS - CHARACTERIZATION BY X-RAY-DIFFRACTION, X-RAY ABSORPTION, ELECTRON-MICROSCOPY, AND CATALYTIC STUDIES OF SYSTEMS CONTAINING COPPER, COBALT, AND MANGANESE"
+"FERROELECTRIC DIMERIC LIQUID-CRYSTALS WITH A CHIRAL FLEXIBLE SPACER"
+"BLENDS OF AN AMORPHOUS IONOMER WITH CRYSTALLINE SMALL MOLECULES BEARING A SIMILAR FUNCTIONAL-GROUP"
+"POTENTIAL PROFILE ACROSS A CONDUCTING POLYMER FILM DURING MEDIATED ELECTROLYSIS"
+"SELF-ASSEMBLY OF DELOCALIZED PI-STACKS IN SOLUTION - ASSESSMENT OF STRUCTURAL EFFECTS"
+"PREPARATIONS, X-RAY CRYSTAL-STRUCTURES, EH BAND CALCULATIONS, AND PHYSICAL-PROPERTIES OF [(TTF)6(H)(XM12O40)(ET4N)] (M = W, MO X = P, SI) - EVIDENCE OF ELECTRON-TRANSFER BETWEEN ORGANIC DONORS AND POLYOXOMETALATES"
+"THIN-FILM INDIUM SELENIDE PREPARED BY REACTION OF SELENIUM VAPOR WITH INDIUM OXIDE"
+"ANCHORING METAL SPECIES ON A THIOUREA-FUNCTIONALIZED SILICA XEROGEL - INSITU PRODUCTION OF COLLOIDAL PALLADIUM PARTICLES"
+"SUPERCRITICAL FLUID TRANSPORT CHEMICAL-DEPOSITION OF FILMS"
+"INTRODUCTION OF FUNCTIONAL-GROUPS INTO POLYMER-FILMS VIA DEEP-UV PHOTOLYSIS OR ELECTRON-BEAM LITHOGRAPHY - MODIFICATION OF POLYSTYRENE AND POLY(3-OCTYLTHIOPHENE) BY A FUNCTIONALIZED PERFLUOROPHENYL AZIDE"
+"PREPARATION OF LANTHANIDE ARYLPHOSPHONATES AND CRYSTAL-STRUCTURES OF LANTHANUM PHENYL-PHOSPHONATES AND BENZYLPHOSPHONATES"
+"AMMONIA-INDUCED PYROLYTIC CONVERSION OF A VINYLIC POLYSILANE TO SILICON-NITRIDE"
+"X-RAY ABSORPTION-SPECTROSCOPY OF MN, CO, CU, AND ZN INORGANIC SALTS OF TETRATHIAFULVALENE AND BIS(ETHYLENEDITHIO)TETRATHIAFULVALENE"
+"SYNTHESIS AND PROPERTIES OF POLY(3-HYDROQUINONYLPYRROLE)"
+"POLED POLYMERIC NONLINEAR OPTICAL-MATERIALS - ENHANCED 2ND HARMONIC-GENERATION TEMPORAL STABILITY OF EPOXY-BASED MATRICES CONTAINING A DIFUNCTIONAL CHROMOPHORIC CO-MONOMER"
+"HYDRATED LITHIUM INTERCALATION COMPOUNDS OF MISFIT LAYER SULFIDES"
+"MICROWAVE FREQUENCY BEHAVIOR OF THE EPR COPPER(II) ION-PAIRS SPECTRUM FORMED IN CUCE OXIDE"
+"CORROSION REACTIONS OF YBA2CU3O7-X AND TL2BA2CA2CU3O10+X SUPERCONDUCTOR PHASES IN AQUEOUS ENVIRONMENTS"
+"PREPARATION, CHARACTERIZATION, AND IONIC-CONDUCTIVITY OF NOVEL CRYSTALLINE, MICROPOROUS SILICOGERMANATES, M3HGE7-MSIMO16.XH2O, M = K+, RB+, CS+ 0-LESS-THAN-M-LESS-THAN-3 X = 0-4 .3."
+"LOW-TEMPERATURE REACTION OF BURIED METAL SILICON INTERFACES - THE EVOLUTION OF INTERFACIAL STRUCTURE"
+"PHOTOCONDUCTOR FATIGUE .4. EFFECT OF PARA-(DIETHYLAMINO)BENZALDEHYDE DIPHENYLHYDRAZONE DERIVATIVES ON THE PHOTOOXIDATION OF THE CHARGE-TRANSPORT LAYER OF ORGANIC LAYERED PHOTOCONDUCTORS"
+"STRUCTURE AND CHEMISTRY OF SILICON-NITRIDE AND SILICON CARBONITRIDE THIN-FILMS DEPOSITED FROM ETHYLSILAZANE IN AMMONIA OR HYDROGEN"
+"POLYPHOSPHAZENE MOLECULAR COMPOSITES .1. INSITU POLYMERIZATION OF TETRAETHOXYSILANE"
+"ROLE OF INTERMEDIATE PHASE FORMATION IN THE PREPARATION OF BA4Y2O7.CO2"
+"CONDENSED ARYL-BRIDGED SILICONATES - NEW LADDER AND NETWORK IONOMERS"
+"PREPARATION AND CHARACTERIZATION OF POLY(ORGANOPHOSPHAZENE) BLENDS"
+"SUPPORTED SOL-GEL THIN-FILM GLASSES EMBODYING LASER-DYES .3. OPTICALLY CLEAR SIO2 GLASS THIN-FILMS PREPARED BY THE FAST SOL-GEL METHOD"
+"PILLARING OF LAYERED DOUBLE HYDROXIDES WITH POLYOXOMETALATES IN AQUEOUS-SOLUTION WITHOUT USE OF PRESWELLING AGENTS"
+"XPS STUDIES ON CONDUCTING POLYMERS - POLYPYRROLE FILMS DOPED WITH PERCHLORATE AND POLYMERIC ANIONS"
+"GRADED SPATIAL-DISTRIBUTION IN CONDUCTING COPOLYMERS OF PYRROLE AND THIOPHENE"
+"EFFECT OF CURING AGENT STOICHIOMETRY ON SOLVENT PENETRATION IN A CURED EPOXY"
+"COPPER(I) PRECURSORS FOR CHEMICAL VAPOR-DEPOSITION OF COPPER METAL"
+"SYNTHESIS, STRUCTURE, AND PROPERTIES OF LA1-XSRXTIO3 (0-LESS-THAN-OR-EQUAL-TO-X-LESS-THAN-OR-EQUAL-TO-1)"
+"CHEMICAL VAPOR-DEPOSITION OF THIN-FILMS OF RUTHENIUM AND FORMATION OF AN UNEXPECTED BY-PRODUCT USING HEXAFLUORO-2-BUTYNETETRACARBONYL-RUTHENIUM(0)"
+"OXIDATION OF POLY[BIS(4-METHYLPHENOXY)PHOSPHAZENE] SURFACES AND CHEMISTRY OF THE SURFACE CARBOXYLIC-ACID GROUPS"
+"SILICON CARBONITRIDE FROM POLYMERIC PRECURSORS - THERMAL CROSS-LINKING AND PYROLYSIS OF OLIGOSILAZANE MODEL COMPOUNDS"
+"EPITAXIAL ELECTRODEPOSITION OF AG(AG3O4)2NO3 ONTO HIGHLY ORIENTED CONDUCTING METAL-OXIDES IN THE PB-TL-O SYSTEM"
+"INCORPORATION OF C-60 IN LANGMUIR-BLODGETT-FILMS"
+"HYDROTHERMAL SYNTHESES AND STRUCTURAL REFINEMENTS OF SINGLE-CRYSTAL LIBGEO4 AND LIBSIO4"
+"FORMATION OF CRYSTALLINE, INTEGRAL, AND NONINTEGRAL STOICHIOMETRY PEROVSKITE-PHASE COMPLEX METAL-OXIDE POWDERS FROM METAL-ORGANIC PRECURSORS"
+"STABLE 2ND-ORDER NONLINEAR OPTICAL POLYIMIDE INORGANIC COMPOSITE"
+"EFFECT OF CHAIN-LENGTH ON THE CONDUCTIVITY OF POLYACETYLENE - POTENTIAL DEPENDENCE OF THE CONDUCTIVITY OF A SERIES OF POLYENES PREPARED BY A LIVING POLYMERIZATION METHOD"
+"HYDROTHERMAL SYNTHESIS AND CHARACTERIZATION OF 2 VANADIUM ORGANOPHOSPHONATES - VO(C6H5PO3)1-Y(CH3PO3)Y-BULLET-1.5H2O, Y = 0.50 AND 0.75"
+"ZEOLITE AND MOLECULAR-SIEVE SYNTHESIS"
+"NANOPARTICLES OF ANATASE BY ELECTROSTATIC SPRAYING OF AN ALKOXIDE SOLUTION"
+"PHOTORESISTS ON THE BASE OF THE POLY(HYDROXYAMINES) AND POLY(HYDROXYAMINO ESTERS)"
+"2ND-ORDER NONLINEAR OPTICAL-PROPERTIES OF N-(4-NITROPHENYL)-(S)-PROLINOL-DOPED SOL-GEL-PROCESSED MATERIALS"
+"PHOTOISOMERIZATION OF AN AZOBENZENE IN SOL-GEL GLASS-FILMS"
+"SYNTHESIS AND CHARACTERIZATION OF TITANIA AEROGELS"
+"ADSORPTION CHARACTERISTICS OF TRACE VOLATILE ORGANIC-COMPOUNDS IN GAS STREAMS ONTO ACTIVATED CARBON-FIBERS"
+"PLASMA-ENHANCED CHEMICAL VAPOR-DEPOSITION OF BULK ORGANOSILICON SOLIDS USING HEXAMETHYLDISILANE PRECURSOR"
+"A SOL GEL-LIKE ROUTE TO CRYSTALLINE CADMIUM PHOSPHIDE NANOCLUSTERS"
+"MACROANIONIC ELECTRON-ACCEPTORS FOR THE SYNTHESIS OF LOW-DIMENSIONAL ORGANIC CONDUCTORS - SYNTHESIS AND STRUCTURAL CHARACTERIZATION OF IRON OXYCHLORIDE INTERCALATED WITH TETRASELENAFULVALENE, BIS(ETHYLENEDITHIO)TETRATHIAFULVALENE, AND BIS(PYRAZINO)TETRATHIAFULVALENE"
+"SPECTROSCOPIC CHARACTERIZATION OF RARE-EARTH OCTA-TERT-BUTYLBISPHTHALOCYANINE COMPLEXES"
+"INFLUENCE OF OXYGEN ON THE STABILITY OF ZR4SN"
+"LOW MOLAR MASS LIQUID-CRYSTALLINE GLASSES - PREPARATION AND PROPERTIES OF THE ALPHA-(4-CYANOBIPHENYL-4'-OXY)-OMEGA-(1-PYRENIMINEBENZYLIDENE-4'-OXY)ALKANES"
+"ELECTROSYNTHESIS OF POLYPYRROLE IN A NEMATIC LIQUID-CRYSTAL"
+"NEW ORGANOSOLS OF CUS, CDS, ZNS, HGS, NIS, AND MIXED METAL SULFIDES IN N,N-DIMETHYLFORMAMIDE AND DIMETHYL-SULFOXIDE - PREPARATION, CHARACTERIZATION, AND PHYSICAL-PROPERTIES"
+"AN ORBITAL ANALYSIS OF HYDROGEN PAIRING IN NONSTOICHIOMETRIC TRANSITION-METAL HYDRIDES"
+"NONLINEAR OPTICAL-PROPERTIES OF MAGNETICALLY ALIGNED SOLID-SOLUTIONS OF NEMATIC POLYMERS AND DYE MOLECULES"
+"MOLECULAR DESIGN OF SINGLE-SOURCE PRECURSORS FOR 3-6 SEMICONDUCTOR-FILMS - CONTROL OF PHASE AND STOICHIOMETRY IN INXSEY FILMS DEPOSITED BY A SPRAY MOCVD PROCESS USING SINGLE-SOURCE REAGENTS"
+"DIMESOGENIC COMPOUNDS CONSISTING OF 2 AROMATIC ESTER OR AMIDE TYPE MESOGENIC UNITS HAVING TRIFLUOROMETHYL SUBSTITUENTS AT TERMINAL PHENYLENE RINGS AND A CENTRAL DIMETHYLENETETRAMETHYLDISILOXYL SPACER"
+"THERMODYNAMIC ANALYSIS OF THE THERMAL NITRIDATION OF ALUMINUM-OXIDE BY AMMONIA AND METHANE"
+"MERCURY INTERCALATES OF TITANIUM DISULFIDE - NOVEL INTERCALATION COMPOUNDS"
+"FLAGELLENES - NANOPHASE-SEPARATED, POLYMER-SUBSTITUTED FULLERENES"
+"LUMINESCENT ORGANOMETALLIC COMPLEXES AS VISIBLE PROBES IN THE ISOTHERMAL CURING OF EPOXY-RESINS"
+"STRAIGHT-CHAIN CARBAMYL COMPOUNDS FOR 2ND HARMONIC-GENERATION"
+"HYDROGEN-INDUCED DISPROPORTIONATION OF THE INTERMETALLIC COMPOUND ZRCO"
+"NEW COMPLEMENTARY ELECTROCHROMIC SYSTEM BASED ON POLYPYRROLE PRUSSIAN BLUE COMPOSITE, A BENZYLVIOLOGEN POLYMER, AND POLY(VINYLPYRROLIDONE) POTASSIUM-SULFATE AQUEOUS-ELECTROLYTE"
+"EPOXIDIZED TRIGLYCERIDES AS RENEWABLE MONOMERS IN PHOTOINITIATED CATIONIC POLYMERIZATION"
+"SYNTHESIS AND PROPERTIES OF POLYOXOMETALATES BASED INORGANIC ORGANIC POLYMERS"
+"SYNTHESIS AND CRYSTAL-STRUCTURE OF BARIUM TITANYL OXALATE, BATI(O)(C2O4)2.5H2O - A MOLECULAR PRECURSOR FOR BATIO3"
+"THERMOGRAVIMETRIC ANALYSIS MASS-SPECTROMETRY INVESTIGATION OF THE THERMAL-CONVERSION OF ORGANOSILICON PRECURSORS INTO CERAMICS UNDER ARGON AND AMMONIA .2. POLY(SILAZANES)"
+"ENZYMATIC-ACTIVITY OF GLUCOSE-OXIDASE ENCAPSULATED IN TRANSPARENT GLASS BY THE SOL-GEL METHOD"
+"MORPHOLOGICAL VARIATIONS IN POLYMER BLENDS MADE IN ELECTRIC-FIELDS"
+"2ND-ORDER OPTICAL NONLINEARITY ON A MODIFIED SOL-GEL SYSTEM AT 100-DEGREES-C"
+"ZINC OXYSULFIDE THIN-FILMS GROWN BY ATOMIC LAYER DEPOSITION"
+"CHIRAL PYRROLO[1,2-A]QUINOLINES AS 2ND-ORDER NONLINEAR OPTICAL-MATERIALS"
+"ELECTROCHEMICAL QUARTZ CRYSTAL MICROBALANCE MONITORING OF CADMIUM-SULFIDE GENERATION IN POLYPYRROLE AND POLYPYRROLE POLY(STYRENESULFONATE) THIN-FILMS"
+"ELECTROCHROMIC PROPERTIES OF LANGMUIR-BLODGETT-FILMS OF BISPHTHALOCYANINE COMPLEXES OF RARE-EARTH ELEMENTS"
+"SCANNING TUNNELING MICROSCOPY OF THE ORGANIC CONDUCTOR [(ETA-C5ME5)2RU(ETA(6),ETA(6)-[2(2)](1,4)-CYCLOPHANE)][TCNQ]4"
+"CONTROLLED STRUCTURE METHACRYLIC COPOLYMERS AS DISPERSANTS FOR CERAMICS PROCESSING"
+"SYNTHESIS OF ZNS AND CDS WITHIN ROMP BLOCK COPOLYMER MICRODOMAINS"
+"COMPOSITION AND MORPHOLOGY OF THE MAGNETIC REACTION-PRODUCT OF 1,1'-DIACETYLFERROCENE AND PARA-PHENYLENEDIAMINE - CAVEAT-EMPTOR"
+"PHOTOGENERATION AND TRANSPORT OF CHARGE-CARRIERS IN POLY(HYDROXYAMINO ESTERS)"
+"PREPARATION AND CHARACTERIZATION OF ORGANOSOLS OF MONODISPERSED NANOSCALE PALLADIUM - PARTICLE-SIZE EFFECTS IN THE BINDING GEOMETRY OF ADSORBED CARBON-MONOXIDE"
+"TIME-RESOLVED INSITU X-RAY-DIFFRACTION STUDIES OF A LITHIUM NICKEL-OXIDE CATALYST DURING THE OXIDATIVE COUPLING OF METHANE"
+"V2(PO4)3 - A NOVEL NASICON-TYPE VANADIUM PHOSPHATE SYNTHESIZED BY OXIDATIVE DEINTERCALATION OF SODIUM FROM NA3V2(PO4)3"
+"MOLECULAR-LEVEL CERAMIC POLYMER COMPOSITES .3. SYNTHESIS OF POLYMER-TRAPPED CADMIUM AND COPPER SULFIDES STARTING FROM THE ELEMENTS AND THE STRUCTURE OF THE INTERMEDIATE, SOLUBLE, CADMIUM-SULFIDE PRECURSOR"
+"PREPARATION, IONIC-CONDUCTIVITY, AND HUMIDITY-SENSING PROPERTY OF NOVEL, CRYSTALLINE MICROPOROUS GERMANATES, NA3HGE7O16.XH2O, X = 0-6 .1."
+"SYNTHESIS AND PROPERTIES OF STAR-BRANCHED NYLON-6"
+"CRYSTAL-GROWTH AND CHARACTERIZATION OF THE SOLID-SOLUTIONS (ZNS)1-X(CUMS2)X (M=AL, IN, OR FE)"
+"POLYPHOSPHAZENE ORGANIC POLYMER INTERPENETRATING POLYMER NETWORKS"
+"HYDROTHERMAL SYNTHESIS OF TETRAGONAL BARIUM-TITANATE"
+"A NOVEL COPPER COMPLEX AND CVD PRECURSOR - (ETA-2-2-BUTYNE)COPPER(I) HEXAFLUOROACETYLACETONATE"
+"FOURIER-TRANSFORM INFRARED SPECTROSCOPIC STUDIES OF CHARGE-TRANSFER INTERCALATION COMPOUNDS"
+"CHEMICAL VAPOR-DEPOSITION PRECURSOR CHEMISTRY .2. FORMATION OF PURE ALUMINUM, ALUMINA, AND ALUMINUM BORIDE THIN-FILMS FROM BORON-CONTAINING PRECURSOR COMPOUNDS BY CHEMICAL VAPOR-DEPOSITION"
+"CONTROLLED DOUBLE-JET PRECIPITATION OF SPARINGLY SOLUBLE SALTS - A METHOD FOR THE PREPARATION OF HIGH ADDED VALUE MATERIALS"
+"ORGANOMETALLIC CHEMICAL VAPOR-DEPOSITION OF PLATINUM - REACTION-KINETICS AND VAPOR-PRESSURES OF PRECURSORS"
+"A POSITIVE TONE PLASMA-DEVELOPABLE RESIST OBTAINED BY GAS-PHASE IMAGE REVERSAL"
+"POLED POLYMERIC NONLINEAR OPTICAL-MATERIALS - EXCEPTIONAL 2ND HARMONIC-GENERATION TEMPORAL STABILITY OF A CHROMOPHORE-FUNCTIONALIZED POLYIMIDE"
+"POLED, CHROMOPHORE-FUNCTIONALIZED POLYMERIC NONLINEAR OPTICAL-MATERIALS - PROBING 2ND HARMONIC-GENERATION TEMPORAL CHARACTERISTICS VIA SITE-SELECTIVE CROSS-LINKING HYDROGEN-BONDING"
+"POLY(ETHYLENE OXIDE) (POLY(2-VINYLPYRIDINE) LITHIUM PERCHLORATE BLENDS - NEW MATERIALS FOR SOLID POLYMER ELECTROLYTES"
+"TL, BI, AND PB DOPING IN BA4BIPB2TLO12-DELTA"
+"UNUSUAL VALENCES IN RARE-EARTH-HALIDES"
+"NOVEL ANTIMONY SULFIDES - SYNTHESIS AND X-RAY STRUCTURAL CHARACTERIZATION OF SB3S5.N(C3H7)4 AND SB4S7.N2C4H8"
+"BEHAVIOR OF COPPER(II) ION-PAIRS IN CU2PMO11VO40.21H2O CATALYSTS - ELECTRON-PARAMAGNETIC RESONANCE STUDY"
+"PULSED LASER-ASSISTED CHEMICAL VAPOR-DEPOSITION OF W, MO, AND V THIN-FILMS"
+"SYNTHESIS AND CHARACTERIZATION OF TRIETHYLSILOXY-SUBSTITUTED ALUMOXANES - THEIR STRUCTURAL RELATIONSHIP TO THE MINERALS BOEHMITE AND DIASPORE"
+"IONIC-CONDUCTIVITY AND STRUCTURE OF (LICL)2-AL2O3-SIO2 XEROGELS"
+"ADDITION"
+"SYNTHESIS AND MAGNETIC-PROPERTIES OF A MIX-STACKED CHARGE-TRANSFER COMPLEX OF TRIPLET DONOR 2,3,6,7,10,11-HEXAMETHOXYTRIPHENYLENE AND SYMMETRICAL ACCEPTOR TRIS(DICYANOMETHYLENE)CYCLOPROPANE"
+"BINARY THIN-FILMS FROM MOLECULAR PRECURSORS - ROLE OF PRECURSOR STRUCTURE IN THE FORMATION OF AMORPHOUS AND CRYSTALLINE FEB"
+"PYROLYSIS STUDIES OF THE SINGLE-SOURCE GAAS PRECURSORS [ME2GA(MU-AS-I-PR2)]3, [ME2GA(MU-ASME2)]3, [ME2GA(MU-AS-T-BU2)]2, AND [ET2GA(MU-AS-T-BU2)]2"
+"2ND-ORDER NONLINEAR OPTICAL-PROPERTIES OF POLED POLYMERS OF VINYL CHROMOPHORE MONOMERS - STYRENE, METHACRYLATE, AND VINYL BENZOATE DERIVATIVES HAVING ONE-AROMATIC-RING PUSH-PULL CHROMOPHORES"
+"ORDERED BIMETALLIC RADICAL SPECIES FORMING LOW-DIMENSIONAL MAGNETIC-MATERIALS"
+"EFFECT OF SILICA ON THE NONOXIDATIVE THERMAL-DEGRADATION OF POLY(VINYL BUTYRAL)"
+"POLYPHOSPHAZENES BEARING POLYMERIZABLE PYRROLE, THIOPHENE, AND FURAN SIDE GROUPS - SYNTHESIS AND CHEMICAL OXIDATION"
+"MAIN EFFECTS IN THE SYNTHESES OF CU/CR LAYERED DOUBLE HYDROXIDES"
+"OBSERVATION OF HETEROGENEOUS TRACE (0.4-PERCENT W/W) WATER-UPTAKE IN BISPHENOL A POLYCARBONATE BY NMR IMAGING"
+"ELECTRONIC-STRUCTURES OF HETEROCYCLIC LADDER POLYMERS - POLYPHENOTHIAZINE, POLYPHENOXAZINE, AND POLYPHENOQUINOXALINE"
+"PREPARATION AND CHARACTERIZATION OF CD1-XHGXSE THIN-FILMS"
+"GROWTH OF EPITAXIAL (100) GAAS FILMS USING THE SINGLE-SOURCE PRECURSOR [ME2GA(MU-TERT-BU2AS)]2"
+"SILICA-PILLARED DERIVATIVES OF H+-MAGADIITE, A CRYSTALLINE HYDRATED SILICA"
+"PHOTOOXIDATION OF HEXACARBONYLMOLYBDENUM(0) IN SODIUM ZEOLITE-Y TO YIELD REDOX-INTERCONVERTIBLE MOLYBDENUM(VI) OXIDE AND MOLYBDENUM(IV) OXIDE MONOMERS"
+"PLASMA OXIDATION OF COPPER SILVER ALLOY SURFACES"
+"RIETVELD ANALYSIS OF NAXWO3+X/2.YH2O, WHICH HAS THE HEXAGONAL TUNGSTEN BRONZE STRUCTURE"
+"PHOTOELECTRON TRANSFER MEDIATED BY SIZE-QUANTIZED CDS PARTICLES IN POLYMER-BLEND MEMBRANES"
+"POLY(ACRYLONITRILE) CHAINS IN ZEOLITE CHANNELS - POLYMERIZATION AND PYROLYSIS"
+"N-15 AND O-17 NMR-SPECTROSCOPY OF SILICATES AND NITROGEN CERAMICS"
+"RELATIONSHIP BETWEEN SYMMETRY IN HYDROGEN-BONDED BENZOIC-ACIDS AND THE FORMATION OF ACENTRIC CRYSTAL-STRUCTURES"
+"SYNTHESIS AND CHARACTERIZATION OF VOLATILE BISMUTH BETA-DIKETONATE COMPOUNDS FOR METAL ORGANIC-CHEMICAL VAPOR-DEPOSITION OF THIN-FILMS"
+"SYNTHESIS, CHARACTERIZATION, AND CHEMICAL VAPOR-DEPOSITION PROPERTIES OF PRIMARY AND SECONDARY NEOPENTYLSTIBINE - NEW ANTIMONY PRECURSORS FOR MOCVD"
+"SYNTHESIS AND EVALUATION OF COPOLYMERS OF (TERT-BUTOXYCARBONYLOXY)STYRENE AND (2-NITROBENZYL)STYRENE SULFONATES - SINGLE-COMPONENT CHEMICALLY AMPLIFIED DEEP-UV IMAGING MATERIALS"
+"STRUCTURAL FEATURES OF SOL-GEL DERIVED HYBRID INORGANIC ORGANIC NETWORK CERAMER MATERIALS BY SMALL-ANGLE X-RAY-SCATTERING"
+"CHEMICAL VAPOR-DEPOSITION OF SILICON-CARBIDE FROM 1,3-DISILACYCLOBUTANE"
+"NEW MIXED ORGANIC INORGANIC POLYMERS - HYDROLYSIS AND POLYCONDENSATION OF BIS(TRIMETHOXYSILYL)ORGANOMETALLIC PRECURSORS"
+"SYNTHESIS AND 2ND-ORDER NONLINEAR OPTICAL-PROPERTIES OF POLYMETHACRYLATES CONTAINING ORGANIC SALT DYE CHROMOPHORE"
+"LIMON2 - THE 1ST METALLIC LAYERED NITRIDE"
+"REDUCED MOLYBDENUM PHOSPHATES - OCTAHEDRAL TETRAHEDRAL FRAMEWORK SOLIDS WITH TUNNELS, CAGES, AND MICROPORES"
+"HETEROPHASIC ISOTOPE EXCHANGE IN NANOSCALE METAL-OXIDE PARTICLES - LATTICE OXYGEN AND SURFACE OH GROUPS WITH WATER-VAPOR (D2O AND (H2O)-O-18)"
+"CHEMISTRY-OF-MATERIALS - LOOKING AHEAD"
+"TRANSITION-METALS COMPLEXED TO ORDERED MESOPHASES - SYNTHESIS AND MESOMORPHIC PROPERTIES OF CYCLOPALLADATED 4,4'-BIS(HEXYLOXY)AZOXYBENZENE COMPLEXED TO NORMAL-(4-(DODECYLOXY)SALICYLIDENE)-4'-ALKYLANILINES"
+"METAL ORGANIC-CHEMICAL VAPOR-DEPOSITION OF COPPER AND COPPER(I) OXIDE FROM COPPER(I) TERT-BUTOXIDE"
+#v "year" n
+1989.0
+1989.0
+1989.0
+1989.0
+1989.0
+1989.0
+1989.0
+1989.0
+1989.0
+1989.0
+1989.0
+1989.0
+1989.0
+1989.0
+1989.0
+1989.0
+1989.0
+1989.0
+1989.0
+1989.0
+1989.0
+1989.0
+1989.0
+1989.0
+1989.0
+1989.0
+1989.0
+1989.0
+1989.0
+1989.0
+1989.0
+1989.0
+1989.0
+1989.0
+1989.0
+1989.0
+1989.0
+1989.0
+1989.0
+1989.0
+1989.0
+1989.0
+1989.0
+1989.0
+1989.0
+1989.0
+1989.0
+1989.0
+1989.0
+1989.0
+1989.0
+1989.0
+1989.0
+1989.0
+1989.0
+1989.0
+1989.0
+1989.0
+1989.0
+1989.0
+1989.0
+1989.0
+1989.0
+1989.0
+1989.0
+1989.0
+1989.0
+1989.0
+1989.0
+1989.0
+1989.0
+1989.0
+1989.0
+1989.0
+1989.0
+1989.0
+1989.0
+1989.0
+1989.0
+1989.0
+1989.0
+1989.0
+1989.0
+1989.0
+1989.0
+1989.0
+1989.0
+1989.0
+1989.0
+1989.0
+1989.0
+1989.0
+1989.0
+1989.0
+1989.0
+1989.0
+1989.0
+1989.0
+1989.0
+1989.0
+1989.0
+1989.0
+1989.0
+1989.0
+1989.0
+1989.0
+1989.0
+1989.0
+1989.0
+1989.0
+1989.0
+1989.0
+1989.0
+1989.0
+1989.0
+1989.0
+1989.0
+1989.0
+1989.0
+1989.0
+1989.0
+1989.0
+1989.0
+1989.0
+1989.0
+1989.0
+1989.0
+1990.0
+1990.0
+1990.0
+1990.0
+1990.0
+1990.0
+1990.0
+1990.0
+1990.0
+1990.0
+1990.0
+1990.0
+1990.0
+1990.0
+1990.0
+1990.0
+1990.0
+1990.0
+1990.0
+1990.0
+1990.0
+1990.0
+1990.0
+1990.0
+1990.0
+1990.0
+1990.0
+1990.0
+1990.0
+1990.0
+1990.0
+1990.0
+1990.0
+1990.0
+1990.0
+1990.0
+1990.0
+1990.0
+1990.0
+1990.0
+1990.0
+1990.0
+1990.0
+1990.0
+1990.0
+1990.0
+1990.0
+1990.0
+1990.0
+1990.0
+1990.0
+1990.0
+1990.0
+1990.0
+1990.0
+1990.0
+1990.0
+1990.0
+1990.0
+1990.0
+1990.0
+1990.0
+1990.0
+1990.0
+1990.0
+1990.0
+1990.0
+1990.0
+1990.0
+1990.0
+1990.0
+1990.0
+1990.0
+1990.0
+1990.0
+1990.0
+1990.0
+1990.0
+1990.0
+1990.0
+1990.0
+1990.0
+1990.0
+1990.0
+1990.0
+1990.0
+1990.0
+1990.0
+1990.0
+1990.0
+1990.0
+1990.0
+1990.0
+1990.0
+1990.0
+1990.0
+1990.0
+1990.0
+1990.0
+1990.0
+1990.0
+1990.0
+1990.0
+1990.0
+1990.0
+1990.0
+1990.0
+1990.0
+1990.0
+1990.0
+1990.0
+1990.0
+1990.0
+1990.0
+1990.0
+1990.0
+1990.0
+1990.0
+1990.0
+1990.0
+1990.0
+1990.0
+1990.0
+1990.0
+1990.0
+1990.0
+1990.0
+1990.0
+1990.0
+1990.0
+1990.0
+1990.0
+1990.0
+1990.0
+1990.0
+1990.0
+1990.0
+1990.0
+1990.0
+1990.0
+1990.0
+1990.0
+1990.0
+1990.0
+1990.0
+1990.0
+1990.0
+1990.0
+1990.0
+1990.0
+1990.0
+1990.0
+1990.0
+1990.0
+1990.0
+1990.0
+1990.0
+1990.0
+1990.0
+1990.0
+1990.0
+1991.0
+1991.0
+1991.0
+1991.0
+1991.0
+1991.0
+1991.0
+1991.0
+1991.0
+1991.0
+1991.0
+1991.0
+1991.0
+1991.0
+1991.0
+1991.0
+1991.0
+1991.0
+1991.0
+1991.0
+1991.0
+1991.0
+1991.0
+1991.0
+1991.0
+1991.0
+1991.0
+1991.0
+1991.0
+1991.0
+1991.0
+1991.0
+1991.0
+1991.0
+1991.0
+1991.0
+1991.0
+1991.0
+1991.0
+1991.0
+1991.0
+1991.0
+1991.0
+1991.0
+1991.0
+1991.0
+1991.0
+1991.0
+1991.0
+1991.0
+1991.0
+1991.0
+1991.0
+1991.0
+1991.0
+1991.0
+1991.0
+1991.0
+1991.0
+1991.0
+1991.0
+1991.0
+1991.0
+1991.0
+1991.0
+1991.0
+1991.0
+1991.0
+1991.0
+1991.0
+1991.0
+1991.0
+1991.0
+1991.0
+1991.0
+1991.0
+1991.0
+1991.0
+1991.0
+1991.0
+1991.0
+1991.0
+1991.0
+1991.0
+1991.0
+1991.0
+1991.0
+1991.0
+1991.0
+1991.0
+1991.0
+1991.0
+1991.0
+1991.0
+1991.0
+1991.0
+1991.0
+1991.0
+1991.0
+1991.0
+1991.0
+1991.0
+1991.0
+1991.0
+1991.0
+1991.0
+1991.0
+1991.0
+1991.0
+1991.0
+1991.0
+1991.0
+1991.0
+1991.0
+1991.0
+1991.0
+1991.0
+1991.0
+1991.0
+1991.0
+1991.0
+1991.0
+1991.0
+1991.0
+1991.0
+1991.0
+1991.0
+1991.0
+1991.0
+1991.0
+1991.0
+1991.0
+1991.0
+1991.0
+1991.0
+1991.0
+1991.0
+1991.0
+1991.0
+1991.0
+1991.0
+1991.0
+1991.0
+1991.0
+1991.0
+1991.0
+1991.0
+1991.0
+1991.0
+1991.0
+1991.0
+1991.0
+1991.0
+1991.0
+1991.0
+1991.0
+1991.0
+1991.0
+1991.0
+1991.0
+1991.0
+1991.0
+1991.0
+1991.0
+1991.0
+1991.0
+1991.0
+1991.0
+1991.0
+1991.0
+1991.0
+1991.0
+1991.0
+1991.0
+1991.0
+1991.0
+1991.0
+1991.0
+1991.0
+1991.0
+1991.0
+1991.0
+1991.0
+1991.0
+1991.0
+1991.0
+1991.0
+1991.0
+1991.0
+1991.0
+1991.0
+1991.0
+1991.0
+1991.0
+1991.0
+1991.0
+1991.0
+1991.0
+1991.0
+1991.0
+1991.0
+1991.0
+1991.0
+1991.0
+1991.0
+1991.0
+1991.0
+1991.0
+1991.0
+1991.0
+1991.0
+1991.0
+1991.0
+1991.0
+1991.0
+1991.0
+1991.0
+1991.0
+1991.0
+1991.0
+1992.0
+1992.0
+1992.0
+1992.0
+1992.0
+1992.0
+1992.0
+1992.0
+1992.0
+1992.0
+1992.0
+1992.0
+1992.0
+1992.0
+1992.0
+1992.0
+1992.0
+1992.0
+1992.0
+1992.0
+1992.0
+1992.0
+1992.0
+1992.0
+1992.0
+1992.0
+1992.0
+1992.0
+1992.0
+1992.0
+1992.0
+1992.0
+1992.0
+1992.0
+1992.0
+1992.0
+1992.0
+1992.0
+1992.0
+1992.0
+1992.0
+1992.0
+1992.0
+1992.0
+1992.0
+1992.0
+1992.0
+1992.0
+1992.0
+1992.0
+1992.0
+1992.0
+1992.0
+1992.0
+1992.0
+1992.0
+1992.0
+1992.0
+1992.0
+1992.0
+1992.0
+1992.0
+1992.0
+1992.0
+1992.0
+1992.0
+1992.0
+1992.0
+1992.0
+1992.0
+1992.0
+1992.0
+1992.0
+1992.0
+1992.0
+1992.0
+1992.0
+1992.0
+1992.0
+1992.0
+1992.0
+1992.0
+1992.0
+1992.0
+1992.0
+1992.0
+1992.0
+1992.0
+1992.0
+1992.0
+1992.0
+1992.0
+1992.0
+1992.0
+1992.0
+1992.0
+1992.0
+1992.0
+1992.0
+1992.0
+1992.0
+1992.0
+1992.0
+1992.0
+1992.0
+1992.0
+1992.0
+1992.0
+1992.0
+1992.0
+1992.0
+1992.0
+1992.0
+1992.0
+1992.0
+1992.0
+1992.0
+1992.0
+1992.0
+1992.0
+1992.0
+1992.0
+1992.0
+1992.0
+1992.0
+1992.0
+1992.0
+1992.0
+1992.0
+1992.0
+1992.0
+1992.0
+1992.0
+1992.0
+1992.0
+1992.0
+1992.0
+1992.0
+1992.0
+1992.0
+1992.0
+1992.0
+1992.0
+1992.0
+1992.0
+1992.0
+1992.0
+1992.0
+1992.0
+1992.0
+1992.0
+1992.0
+1992.0
+1992.0
+1992.0
+1992.0
+1992.0
+1992.0
+1992.0
+1992.0
+1992.0
+1992.0
+1992.0
+1992.0
+1992.0
+1992.0
+1992.0
+1992.0
+1992.0
+1992.0
+1992.0
+1992.0
+1992.0
+1992.0
+1992.0
+1992.0
+1992.0
+1992.0
+1992.0
+1992.0
+1992.0
+1992.0
+1992.0
+1992.0
+1992.0
+1992.0
+1992.0
+1992.0
+1992.0
+1992.0
+1992.0
+1992.0
+1992.0
+1992.0
+1992.0
+1992.0
+1992.0
+1992.0
+1992.0
+1992.0
+1992.0
+1992.0
+1992.0
+1992.0
+1992.0
+1992.0
+1992.0
+1992.0
+1992.0
+1992.0
+1992.0
+1992.0
+1992.0
+1992.0
+1992.0
+1992.0
+1992.0
+1992.0
+1992.0
+1992.0
+1992.0
+1992.0
+1992.0
+1992.0
+1992.0
+1992.0
+1992.0
+1992.0
+1992.0
+1992.0
+1992.0
+1992.0
+1992.0
+1992.0
+1992.0
+1992.0
+1992.0
+1992.0
+1992.0
+1992.0
+1992.0
+1992.0
+1992.0
+1992.0
+1992.0
+1992.0
+1992.0
+1992.0
+1992.0
+1992.0
+1992.0
+1992.0
+1992.0
+1992.0
+1992.0
+1992.0
+1992.0
+1992.0
+1992.0
+1992.0
+1992.0
+1992.0
+1992.0
